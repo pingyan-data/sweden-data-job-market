@@ -1,0 +1,3477 @@
+[
+  {
+    "id": "30752962",
+    "headline": "Senior Microsoft Fabric-utvecklare",
+    "employer": "itm8 Sverige AB",
+    "municipality": "Stockholm",
+    "occupation": "Affärskonsult, IT",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-03-16",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "\"data analyst\"",
+      "\"analytics engineer\"",
+      "\"bi-utvecklare\""
+    ],
+    "match_count": 4
+  },
+  {
+    "id": "30951285",
+    "headline": "Tullverket söker Data Scientist/Dataanalytiker",
+    "employer": "TULLVERKET",
+    "municipality": "Stockholm",
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-04-24",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\"",
+      "mlops",
+      "dataanalytiker"
+    ],
+    "match_count": 3
+  },
+  {
+    "id": "30936071",
+    "headline": "Associate Principal Data Scientist  Pharmaceutical Development",
+    "employer": "Hays AB",
+    "municipality": "Mölndal",
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-04-21",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\"",
+      "mlops",
+      "dataanalytiker"
+    ],
+    "match_count": 3
+  },
+  {
+    "id": "30913639",
+    "headline": "Senior Data Scientist / Data Analyst  Business Analytics  17278",
+    "employer": "Veritaz AB",
+    "municipality": null,
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-04-16",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\"",
+      "\"data analyst\"",
+      "dataanalytiker"
+    ],
+    "match_count": 3
+  },
+  {
+    "id": "30906766",
+    "headline": "Data Scientist / Data Analyst  Data Visualization & Insights - 17270",
+    "employer": "Veritaz AB",
+    "municipality": null,
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-04-15",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\"",
+      "\"data analyst\"",
+      "dataanalytiker"
+    ],
+    "match_count": 3
+  },
+  {
+    "id": "30960229",
+    "headline": "BI-utvecklare/Dataingenjör",
+    "employer": "Techrytera AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-27",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "\"bi-utvecklare\"",
+      "dataingenjör"
+    ],
+    "match_count": 3
+  },
+  {
+    "id": "30902499",
+    "headline": "BI-utvecklare / Data Engineer till Biometria",
+    "employer": "Forefront Amplify AB",
+    "municipality": "Sundsvall",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-14",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "\"bi-utvecklare\"",
+      "dataingenjör"
+    ],
+    "match_count": 3
+  },
+  {
+    "id": "30902051",
+    "headline": "Data Platform Engineer  Azure Databricks & Data Platforms  17254",
+    "employer": "Veritaz AB",
+    "municipality": null,
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-04-14",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "\"data platform engineer\"",
+      "dataanalytiker"
+    ],
+    "match_count": 3
+  },
+  {
+    "id": "30482397",
+    "headline": "Data Engineer",
+    "employer": "CDON AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-01-16",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "\"analytics engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 3
+  },
+  {
+    "id": "30689420",
+    "headline": "Data Analyst / BI-utvecklare",
+    "employer": "Academic Work Sweden AB",
+    "municipality": "Solna",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-03-03",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data analyst\"",
+      "\"bi-utvecklare\"",
+      "dataingenjör"
+    ],
+    "match_count": 3
+  },
+  {
+    "id": "30482102",
+    "headline": "Analytics Engineer",
+    "employer": "CDON AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-01-16",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data analyst\"",
+      "\"analytics engineer\"",
+      "dataanalytiker"
+    ],
+    "match_count": 3
+  },
+  {
+    "id": "30955594",
+    "headline": "Senior ML/AI Engineer",
+    "employer": "Incluso AB",
+    "municipality": "Göteborg",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-24",
+    "remote_work": null,
+    "matched_queries": [
+      "\"ai engineer\"",
+      "mlops",
+      "dataingenjör"
+    ],
+    "match_count": 3
+  },
+  {
+    "id": "30945244",
+    "headline": "Dataingenjör",
+    "employer": "DOER Bemanning AB",
+    "municipality": "Jönköping",
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-04-23",
+    "remote_work": null,
+    "matched_queries": [
+      "mlops",
+      "dataanalytiker",
+      "dataingenjör"
+    ],
+    "match_count": 3
+  },
+  {
+    "id": "30970532",
+    "headline": "Junior AI Engineer / Data Scientist",
+    "employer": "Effektify AB",
+    "municipality": "Lund",
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-29",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\"",
+      "\"ai engineer\""
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30970500",
+    "headline": "Senior AI Engineer / Data Scientist",
+    "employer": "Effektify AB",
+    "municipality": "Lund",
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-29",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\"",
+      "\"ai engineer\""
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30969107",
+    "headline": "Data scientist till avdelningen för finansiell stabilitet",
+    "employer": "Sveriges Riksbank",
+    "municipality": "Stockholm",
+    "occupation": "Databasutvecklare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-28",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\"",
+      "\"data engineer\""
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30937887",
+    "headline": "Associate Principal Data Scientist – Pharmaceutical Development",
+    "employer": "QRIOS AB",
+    "municipality": "Göteborg",
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-21",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\"",
+      "mlops"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30913887",
+    "headline": "Data Scientist  AI / Machine Learning",
+    "employer": "Semicon Service Nordic AB",
+    "municipality": null,
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-16",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\"",
+      "mlops"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30901727",
+    "headline": "Data Scientist / Data Analyst  Product Insights  17263",
+    "employer": "Veritaz AB",
+    "municipality": null,
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-14",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\"",
+      "\"data analyst\""
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30850430",
+    "headline": "Data Scientist/Data Engineer",
+    "employer": "Integro Consulting AB",
+    "municipality": "Göteborg",
+    "occupation": "Databasutvecklare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-01",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\"",
+      "\"data engineer\""
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30830865",
+    "headline": "Data Scientist",
+    "employer": "Lovable Labs Sweden AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-03-30",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\"",
+      "dataanalytiker"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30830863",
+    "headline": "Data Scientist - Finance",
+    "employer": "Lovable Labs Sweden AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-03-30",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\"",
+      "dataanalytiker"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30723254",
+    "headline": "Data Scientist - Energy Optimization",
+    "employer": "Aira Group AB",
+    "municipality": "Stockholm",
+    "occupation": "Mjukvaruutvecklare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-03-10",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\"",
+      "\"machine learning engineer\""
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30981393",
+    "headline": "Senior Data Engineer - konsultuppdrag",
+    "employer": "Devotum AB",
+    "municipality": "Jönköping",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-30",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30981165",
+    "headline": "Data Engineer inom AI och data pipelines",
+    "employer": "Avaron AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-30",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30979729",
+    "headline": "Data Engineer",
+    "employer": "Techrytera AB",
+    "municipality": "Jönköping",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-30",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30978626",
+    "headline": "Data Engineer - Göteborg",
+    "employer": "Kraftsam Rekrytering & Bemanning AB",
+    "municipality": "Göteborg",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-30",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30978601",
+    "headline": "Data Engineer - Stockholm",
+    "employer": "Kraftsam Rekrytering & Bemanning AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-30",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30978332",
+    "headline": "Senior Data Engineer",
+    "employer": "Logikfabriken AB",
+    "municipality": "Göteborg",
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-04-30",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataanalytiker"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30974455",
+    "headline": "Senior Data Engineer",
+    "employer": "Schibsted News Media AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-29",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30970312",
+    "headline": "Data Engineer",
+    "employer": "Silverspin AB",
+    "municipality": "Skövde",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-29",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30964982",
+    "headline": "Senior Data Engineer till Öresundskraft",
+    "employer": "Tng Group AB",
+    "municipality": "Helsingborg",
+    "occupation": "Civilingenjör, systemutveckling",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-28",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "\"bi-utvecklare\""
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30963221",
+    "headline": "Senior Data Engineer - Python",
+    "employer": "Incluso AB",
+    "municipality": "Göteborg",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-27",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30963001",
+    "headline": "Senior Data Engineer - Python",
+    "employer": "Techrytera AB",
+    "municipality": "Göteborg",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-27",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30961478",
+    "headline": "Data Engineer till Framstående Fordonsbolag",
+    "employer": "Friday Väst AB",
+    "municipality": "Göteborg",
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-04-27",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataanalytiker"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30954419",
+    "headline": "Data Engineer i Stockholm ",
+    "employer": "Maxitech AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-24",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30950670",
+    "headline": "Data Manager for Data Marketplace (Data Engineer focus)",
+    "employer": "Volvo Business Services AB",
+    "municipality": "Göteborg",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-24",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30946447",
+    "headline": "Data Engineer",
+    "employer": "Volvo Personvagnar Aktiebolag",
+    "municipality": "Göteborg",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-23",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30941535",
+    "headline": "Data Engineer till Ramudden Global",
+    "employer": "Bravura Sverige AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-22",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30941239",
+    "headline": "Senior Data Engineer to ICA Bank",
+    "employer": "ICA Banken AB",
+    "municipality": "Solna",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-22",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30941105",
+    "headline": "Data Engineer",
+    "employer": "Hive Streaming AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-22",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30937209",
+    "headline": "Data Engineer",
+    "employer": "Stegra Boden AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-21",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30935545",
+    "headline": "Data Engineer",
+    "employer": "Stena Line Scandinavia AB",
+    "municipality": "Göteborg",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-21",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30926941",
+    "headline": "Data Engineer",
+    "employer": "Redeploy AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-20",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30909346",
+    "headline": "Data Engineer – Connected Experience",
+    "employer": "Valora bemanning AB",
+    "municipality": "Göteborg",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-15",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30907158",
+    "headline": "Data Engineer - Databricks to Knowit Stockholm",
+    "employer": "Knowit AB (Publ)",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-15",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30893472",
+    "headline": "Data Engineer",
+    "employer": "Northmill Bank AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-13",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30880598",
+    "headline": "Data Engineer / Full-stack BI Consultant till Random Forest West AB",
+    "employer": "EdZa AB",
+    "municipality": "Göteborg",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-09",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30879489",
+    "headline": "Data Engineer with Databricks to Knowit",
+    "employer": "Knowit AB (Publ)",
+    "municipality": "Göteborg",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-09",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30862433",
+    "headline": "Data Engineer",
+    "employer": "Techrytera AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-02",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30862396",
+    "headline": "Data Engineer",
+    "employer": "Procruitment AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-02",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30861868",
+    "headline": "Data Engineer",
+    "employer": "Happy Group AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-02",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30859146",
+    "headline": "Data Engineer – Konsultuppdrag, Stockholm",
+    "employer": "Liminity AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-02",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30858724",
+    "headline": "Data Engineer CODEV Data, Interimsuppdrag - Göteborg",
+    "employer": "Intenso Teknikrekrytering AB",
+    "municipality": "Göteborg",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-02",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30841497",
+    "headline": "Senior Data Engineer",
+    "employer": "Techrytera AB",
+    "municipality": "Jönköping",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-03-31",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30811012",
+    "headline": "Data Engineer till framåtlutat konsultbolag inom Data",
+    "employer": "QLSE by Qgroup AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-03-27",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30802881",
+    "headline": "Data Engineer",
+    "employer": "NOBA Bank Group AB (publ)",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-03-26",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30749788",
+    "headline": "Data Engineer? Utvecklas med experterna på Brightlytix!",
+    "employer": "Academic Work Sweden AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-03-16",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30737310",
+    "headline": "Data Engineer med intresse för Databricks",
+    "employer": "Knowit AB (Publ)",
+    "municipality": "Malmö",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-03-12",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30730286",
+    "headline": "Senior Data Engineer",
+    "employer": "Techrytera AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-03-11",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30724690",
+    "headline": "Marketing Data Engineer till Axis Communications!",
+    "employer": "Academic Work Sweden AB",
+    "municipality": "Lund",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-03-10",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30708777",
+    "headline": "Data Engineer",
+    "employer": "CoreChange Tech AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-03-06",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30629564",
+    "headline": "Senior Data Engineer",
+    "employer": "SwedQ AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-02-18",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30618337",
+    "headline": "Data Engineer till Knowit i Östersund",
+    "employer": "Knowit AB (Publ)",
+    "municipality": "Östersund",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-02-16",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30594516",
+    "headline": "Data Engineer till Trice // Göteborg",
+    "employer": "Oddwork Sweden AB",
+    "municipality": "Göteborg",
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-02-10",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataanalytiker"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30504937",
+    "headline": "Data Engineer - Data Platform Team",
+    "employer": "Aira Group AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-01-22",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30463100",
+    "headline": "Senior Data Engineer – Team Sortiment",
+    "employer": "Miljonbemanning AB",
+    "municipality": "Solna",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-01-13",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30374753",
+    "headline": "Data & AI Management Consultant",
+    "employer": "Redeploy AB",
+    "municipality": "Stockholm",
+    "occupation": "Verksamhetskonsult, IT",
+    "occupation_field": "Data/IT",
+    "publication_date": "2025-12-15",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\"",
+      "\"data analyst\""
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30964682",
+    "headline": "Data Analyst - Customer Experience & Market Intelligence",
+    "employer": "Volvo Business Services AB",
+    "municipality": "Göteborg",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-28",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data analyst\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30940400",
+    "headline": "Data Analyst",
+    "employer": "Nordnet Bank AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-04-22",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data analyst\"",
+      "dataanalytiker"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30936567",
+    "headline": "Data Analyst - Supply Planning",
+    "employer": "Digitalenta AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-04-21",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data analyst\"",
+      "dataanalytiker"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30936303",
+    "headline": "ESG Data Analyst, Solna",
+    "employer": "PostNord Group AB",
+    "municipality": "Stockholm",
+    "occupation": "Informationsassistent",
+    "occupation_field": "Administration, ekonomi, juridik",
+    "publication_date": "2026-04-21",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data analyst\"",
+      "\"bi analyst\""
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30876615",
+    "headline": "Data Analyst",
+    "employer": "Alva Labs AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-04-08",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data analyst\"",
+      "dataanalytiker"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30873394",
+    "headline": "Senior Data Analyst - BI (Temporary Position)",
+    "employer": "H & M Hennes & Mauritz Gbc AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-04-08",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data analyst\"",
+      "dataanalytiker"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30789961",
+    "headline": "Data Analyst till global industrikoncern!",
+    "employer": "Academic Work Sweden AB",
+    "municipality": "Lund",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-03-24",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data analyst\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30906272",
+    "headline": "Data Analytics Engineer - HomeQ",
+    "employer": "Ants Akademiskt Nätverk av Tekniska Studenter AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-04-15",
+    "remote_work": null,
+    "matched_queries": [
+      "\"analytics engineer\"",
+      "dataanalytiker"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30951149",
+    "headline": "Senior ML/AI Engineer",
+    "employer": "Semicon Service Nordic AB",
+    "municipality": null,
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-24",
+    "remote_work": null,
+    "matched_queries": [
+      "\"ai engineer\"",
+      "mlops"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30930492",
+    "headline": "AI Engineer – Säkra AI-lösningar hos Tutus Data",
+    "employer": "Academic Work Sweden AB",
+    "municipality": "Danderyd",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-20",
+    "remote_work": null,
+    "matched_queries": [
+      "\"ai engineer\"",
+      "mlops"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30905122",
+    "headline": "AI Lead",
+    "employer": "Academic Work Sweden AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-14",
+    "remote_work": null,
+    "matched_queries": [
+      "\"ai engineer\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30900515",
+    "headline": "AI Engineer till Axfood IT",
+    "employer": "Ants Akademiskt Nätverk av Tekniska Studenter AB",
+    "municipality": "Stockholm",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-14",
+    "remote_work": null,
+    "matched_queries": [
+      "\"ai engineer\"",
+      "mlops"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30854482",
+    "headline": "Edge AI Engineer",
+    "employer": "Academic Work Sweden AB",
+    "municipality": "Lund",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-02",
+    "remote_work": null,
+    "matched_queries": [
+      "\"ai engineer\"",
+      "mlops"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30978657",
+    "headline": "Machine Learning Engineer - Stockholm",
+    "employer": "Kraftsam Rekrytering & Bemanning AB",
+    "municipality": "Stockholm",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-30",
+    "remote_work": null,
+    "matched_queries": [
+      "\"machine learning engineer\"",
+      "mlops"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30921734",
+    "headline": "Machine Learning Engineer - Göteborg",
+    "employer": "Kraftsam Rekrytering & Bemanning AB",
+    "municipality": "Stockholm",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-17",
+    "remote_work": null,
+    "matched_queries": [
+      "\"machine learning engineer\"",
+      "mlops"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30861993",
+    "headline": "Machine Learning /MLOps Engineer",
+    "employer": "Gears of Leo AB",
+    "municipality": "Stockholm",
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-02",
+    "remote_work": null,
+    "matched_queries": [
+      "\"machine learning engineer\"",
+      "mlops"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30646235",
+    "headline": "Machine Learning Engineer ",
+    "employer": "Modulai AB",
+    "municipality": "Stockholm",
+    "occupation": "Civilingenjör, systemutveckling",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-02-23",
+    "remote_work": null,
+    "matched_queries": [
+      "\"machine learning engineer\"",
+      "mlops"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30930080",
+    "headline": "Dataingenjör inom BI-team i Sundsvall",
+    "employer": "Försäkringskassan",
+    "municipality": "Sundsvall",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-20",
+    "remote_work": null,
+    "matched_queries": [
+      "\"bi-utvecklare\"",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30959756",
+    "headline": "AI Expert",
+    "employer": "Telenor Sverige AB",
+    "municipality": "Solna",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-27",
+    "remote_work": null,
+    "matched_queries": [
+      "mlops",
+      "dataingenjör"
+    ],
+    "match_count": 2
+  },
+  {
+    "id": "30967501",
+    "headline": "Data Scientist",
+    "employer": "Omnicom Media Group AB",
+    "municipality": "Stockholm",
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-30",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30972595",
+    "headline": "AI-pionjär till Knowit Sydost - för dig som vågar utmana på riktigt",
+    "employer": "Knowit AB (Publ)",
+    "municipality": "Karlskrona",
+    "occupation": "Backend-utvecklare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-29",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30962992",
+    "headline": "Data Scientist",
+    "employer": "Inspektionen För Vård och Omsorg",
+    "municipality": "Stockholm",
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-27",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30955266",
+    "headline": "Senior Data Scientist  AI från forskning till produktion",
+    "employer": "Eghed Göteborg AB",
+    "municipality": "Göteborg",
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-24",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30952266",
+    "headline": "(Senior) Data Scientist, Merchant",
+    "employer": "Wolt Development Sverige AB",
+    "municipality": "Stockholm",
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-24",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30949469",
+    "headline": "Instrument Scientist for Polarised SANS",
+    "employer": "European Spallation Source Eric",
+    "municipality": "Lund",
+    "occupation": "Fysiker",
+    "occupation_field": "Naturvetenskap",
+    "publication_date": "2026-04-23",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30946436",
+    "headline": "Data Scientist - Automotive",
+    "employer": "Incluso AB",
+    "municipality": "Göteborg",
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-23",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30946144",
+    "headline": "Data Scientist, Consumer",
+    "employer": "Wolt Development Sverige AB",
+    "municipality": "Stockholm",
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-23",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30946171",
+    "headline": "Senior Data Scientist, Consumer Pricing",
+    "employer": "Wolt Development Sverige AB",
+    "municipality": "Stockholm",
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-23",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30933719",
+    "headline": "Software Engineer - Go",
+    "employer": "Incluso AB",
+    "municipality": "Göteborg",
+    "occupation": "Mjukvaruutvecklare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-21",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30931605",
+    "headline": "Data scientist/Biostatistiker till center för precisionshälsa",
+    "employer": "REGION ÖSTERGÖTLAND",
+    "municipality": "Linköping",
+    "occupation": "Biostatistiker",
+    "occupation_field": "Administration, ekonomi, juridik",
+    "publication_date": "2026-04-20",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30925613",
+    "headline": "Data scientist",
+    "employer": "CetaSol AB",
+    "municipality": "Göteborg",
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-20",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30915865",
+    "headline": "Senior Data Scientist – Experimentation & Analytics (Remote)",
+    "employer": "Sway Sourcing Sweden AB",
+    "municipality": "Stockholm",
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-16",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30901177",
+    "headline": "Data Scientist with a strong background in machine learning",
+    "employer": "Professional Galaxy AB",
+    "municipality": "Stockholm",
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-14",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30882547",
+    "headline": "Senior Data Scientist, Courier",
+    "employer": "Wolt Development Sverige AB",
+    "municipality": "Stockholm",
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-09",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30861895",
+    "headline": "Data Scientist",
+    "employer": "Happy Group AB",
+    "municipality": "Stockholm",
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-02",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30777947",
+    "headline": "Senior Software Engineer",
+    "employer": "Lynqa AB",
+    "municipality": "Stockholm",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-03-20",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30775968",
+    "headline": "Senior Data Scientist",
+    "employer": "Flower Infrastructure Technologies AB",
+    "municipality": "Stockholm",
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-03-20",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30746584",
+    "headline": "Data Scientist med AI kompetens till Agio",
+    "employer": "2Complete AB",
+    "municipality": "Stockholm",
+    "occupation": "Applikationskonsult",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-03-14",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30669523",
+    "headline": "Data Scientist Lead",
+    "employer": "Airmiz AB",
+    "municipality": "Stockholm",
+    "occupation": "IT-tekniker/Datatekniker",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-02-26",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30257525",
+    "headline": "Data Scientist",
+    "employer": "AB Svenska Spel",
+    "municipality": "Stockholm",
+    "occupation": "Systemanalytiker/Systemutredare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2025-11-12",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30980324",
+    "headline": "Forma Finansinspektionens framtida datadrivna analysförmåga!",
+    "employer": "Finansinspektionen",
+    "municipality": "Stockholm",
+    "occupation": "Devops utvecklare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-30",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30979501",
+    "headline": "Data Engineer- Abinitio and Dtabrick",
+    "employer": "bytespoke AB",
+    "municipality": "Stockholm",
+    "occupation": "Mjukvaruutvecklare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-30",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30968807",
+    "headline": "Data Engineer till EKEN Financing Value Added Forestry",
+    "employer": "Ants Akademiskt Nätverk av Tekniska Studenter AB",
+    "municipality": "Stockholm",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-28",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30967049",
+    "headline": "Data Engineer till Region Dalarna, Falun",
+    "employer": "REGION DALARNA",
+    "municipality": "Falun",
+    "occupation": "Civilingenjör, systemutveckling",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-28",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30964811",
+    "headline": "Senior Data Engineer  Python",
+    "employer": "Semicon Service Nordic AB",
+    "municipality": null,
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-28",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30961171",
+    "headline": "Senior Data Engineer",
+    "employer": "Semicon Service Nordic AB",
+    "municipality": null,
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-27",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30956921",
+    "headline": "Senior Data Engineer  ITFM Transformation & Data Modeling - 17377",
+    "employer": "Veritaz AB",
+    "municipality": null,
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-26",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30948804",
+    "headline": "Data Engineer  ITFM & Data Modeling - 17370",
+    "employer": "Veritaz AB",
+    "municipality": null,
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-23",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30945841",
+    "headline": "Utvecklare med inriktning mot AI sökes till Umeå!",
+    "employer": "Academic Work Sweden AB",
+    "municipality": "Umeå",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-23",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30945772",
+    "headline": "Senior Data Engineer",
+    "employer": "Kaisa Technologies AB",
+    "municipality": "Uppsala",
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-23",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30944725",
+    "headline": "Data Engineer  Financial Data Modeling  17369",
+    "employer": "Veritaz AB",
+    "municipality": null,
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-23",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30941172",
+    "headline": "Data Engineer to ICA Bank",
+    "employer": "ICA Banken AB",
+    "municipality": "Solna",
+    "occupation": "IT-tekniker/Datatekniker",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-22",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30939169",
+    "headline": "Senior Data Engineer till SJ",
+    "employer": "SJ AB",
+    "municipality": "Stockholm",
+    "occupation": "Mjukvaruutvecklare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-22",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30937931",
+    "headline": "Senior Data Engineer",
+    "employer": "Acast AB (publ)",
+    "municipality": "Stockholm",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-21",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30934475",
+    "headline": "Data Engineer",
+    "employer": "Eccera Professionals AB",
+    "municipality": "Linköping",
+    "occupation": "Drifttekniker, data",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-21",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30932646",
+    "headline": "Data Engineer - Sustainability & ESG Reporting, Solna",
+    "employer": "PostNord Group AB",
+    "municipality": "Stockholm",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-21",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30930353",
+    "headline": "Data Engineer",
+    "employer": "NXT Interim Malmö AB",
+    "municipality": "Malmö",
+    "occupation": "Databasutvecklare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-20",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30930251",
+    "headline": "Erfaren Data Engineer sökes till innovativt teknikuppdrag",
+    "employer": "Quattro Bemanning & Rekrytering AB",
+    "municipality": "Linköping",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-20",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30930181",
+    "headline": "Data Engineer",
+    "employer": "Eccera Professionals AB",
+    "municipality": "Stockholm",
+    "occupation": "Drifttekniker, data",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-20",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30928987",
+    "headline": "Data Engineer",
+    "employer": "Qliro AB",
+    "municipality": "Stockholm",
+    "occupation": "Mjukvaruutvecklare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-20",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30927440",
+    "headline": "Senior Data Engineer",
+    "employer": "Semicon Service Nordic AB",
+    "municipality": null,
+    "occupation": "Drifttekniker, data",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-20",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30923487",
+    "headline": "Data Engineer",
+    "employer": "Semicon Service Nordic AB",
+    "municipality": null,
+    "occupation": "Molntekniker/Cloudutvecklare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-17",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30908743",
+    "headline": "Data Engineer till avancerat teknikuppdrag",
+    "employer": "Quattro Bemanning & Rekrytering AB",
+    "municipality": "Linköping",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-15",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30901457",
+    "headline": "DATA ENGINEER",
+    "employer": "Exeger Operations AB",
+    "municipality": "Stockholm",
+    "occupation": "Civilingenjör, systemutveckling",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-14",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30879728",
+    "headline": "Data Engineer  Snowflake & Power BI  17159",
+    "employer": "Veritaz AB",
+    "municipality": null,
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-09",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30864613",
+    "headline": "Data Engineer till bolag inom FinTech",
+    "employer": "Friday Väst AB",
+    "municipality": "Göteborg",
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-05",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30863625",
+    "headline": "Data Engineer",
+    "employer": "Hitachi Energy Sweden AB",
+    "municipality": "Ludvika",
+    "occupation": "Databasutvecklare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-03",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30807382",
+    "headline": "Senior Data Engineer",
+    "employer": "Sinch Sweden AB",
+    "municipality": "Malmö",
+    "occupation": "Data Warehouse specialist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-03-26",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30745422",
+    "headline": "Data Engineer",
+    "employer": "Klarna Bank AB",
+    "municipality": "Stockholm",
+    "occupation": "IT-tekniker/Datatekniker",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-03-24",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30706140",
+    "headline": "Data Engineer - Stockholm",
+    "employer": "Kraftsam Rekrytering & Bemanning AB",
+    "municipality": "Stockholm",
+    "occupation": "Databasutvecklare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-03-06",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30688817",
+    "headline": "Data Engineer till tech-drivet konsultbolag!",
+    "employer": "Academic Work Sweden AB",
+    "municipality": "Stockholm",
+    "occupation": "Kravanalytiker",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-03-03",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30674554",
+    "headline": "Data Engineer",
+    "employer": "Keolis Sverige AB",
+    "municipality": "Stockholm",
+    "occupation": "Data Warehouse specialist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-02-27",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30643966",
+    "headline": "Lead Data Engineer",
+    "employer": "Coor Service Management AB",
+    "municipality": "Solna",
+    "occupation": "Data Warehouse specialist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-02-20",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30539608",
+    "headline": "Data Engineer – Databricks, Azure & modern dataplattform",
+    "employer": "Castra Group AB",
+    "municipality": "Stockholm",
+    "occupation": "Data Warehouse specialist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-01-29",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30313925",
+    "headline": "Senior Data Engineer (GCP & SAP Datasphere) - Stockholm",
+    "employer": "Justera Group AB",
+    "municipality": "Stockholm",
+    "occupation": "IT-säkerhetschef",
+    "occupation_field": "Data/IT",
+    "publication_date": "2025-11-27",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30276040",
+    "headline": "Data Engineer till Predictly",
+    "employer": "Envoke Talent AB",
+    "municipality": "Stockholm",
+    "occupation": "Data Warehouse specialist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2025-11-18",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30971025",
+    "headline": "Exar du till sommaren? - Nyexad Project Data Analyst sökes!",
+    "employer": "Framtiden i Sverige AB",
+    "municipality": "Finspång",
+    "occupation": "Processansvarig, ITIL",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-29",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data analyst\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30965847",
+    "headline": "Data Analyst",
+    "employer": "Professional Galaxy AB",
+    "municipality": "Göteborg",
+    "occupation": "IT-tekniker/Datatekniker",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-28",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data analyst\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30945072",
+    "headline": "Rekryterare till GKN",
+    "employer": "Skill Kompetenspartner AB",
+    "municipality": "Trollhättan",
+    "occupation": "Rekryterare/Rekryteringskonsult",
+    "occupation_field": "Administration, ekonomi, juridik",
+    "publication_date": "2026-04-23",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data analyst\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30943290",
+    "headline": "Senior Data Analyst (Data Visualization)",
+    "employer": "MultiMind Holding AB",
+    "municipality": "Stockholm",
+    "occupation": "Säljassistent",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-04-22",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data analyst\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30940761",
+    "headline": "Data Analyst",
+    "employer": "Coffee Stain Gbg AB",
+    "municipality": "Göteborg",
+    "occupation": "IT-strateg",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-22",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data analyst\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30920135",
+    "headline": "Senior Data Analyst",
+    "employer": "Flexera Software AB",
+    "municipality": "Solna",
+    "occupation": "Metodanalytiker, IT",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-17",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data analyst\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30895723",
+    "headline": "Credit Analyst (Germany)",
+    "employer": "Northmill Bank AB",
+    "municipality": "Stockholm",
+    "occupation": "Ränteanalytiker",
+    "occupation_field": "Administration, ekonomi, juridik",
+    "publication_date": "2026-04-13",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data analyst\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30865643",
+    "headline": "Professional Data Analyst  Scrum Master / Business Analyst  17150",
+    "employer": "Veritaz AB",
+    "municipality": null,
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-06",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data analyst\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30863443",
+    "headline": "Senior Data Analyst Consultant",
+    "employer": "Semicon Service Nordic AB",
+    "municipality": null,
+    "occupation": "Verksamhetskonsult, IT",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-03",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data analyst\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30770624",
+    "headline": "Senior Java Data Analyst Developer",
+    "employer": "Cyberway AB",
+    "municipality": "Malmö",
+    "occupation": "Mjukvaruutvecklare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-03-19",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data analyst\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30978112",
+    "headline": "Analytics Engineer till PostNord i Stockholm",
+    "employer": "Tng Group AB",
+    "municipality": "Solna",
+    "occupation": "Civilingenjör, systemutveckling",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-30",
+    "remote_work": null,
+    "matched_queries": [
+      "\"analytics engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30949028",
+    "headline": "Senior Analytics Engineer",
+    "employer": "Enhanza AB",
+    "municipality": "Stockholm",
+    "occupation": "Data Warehouse specialist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-23",
+    "remote_work": null,
+    "matched_queries": [
+      "\"analytics engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30944715",
+    "headline": "Energy Trading & Analytics Engineer",
+    "employer": "Tech Talents Consulting i Sverige AB",
+    "municipality": "Stockholm",
+    "occupation": "Energiingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-23",
+    "remote_work": null,
+    "matched_queries": [
+      "\"analytics engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30944610",
+    "headline": "Analytics engineer",
+    "employer": "UTBETALNINGSMYNDIGHETEN",
+    "municipality": "Stockholm",
+    "occupation": "Systemanalytiker/Systemutredare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-23",
+    "remote_work": null,
+    "matched_queries": [
+      "\"analytics engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30876564",
+    "headline": "Senior Analytics Engineer",
+    "employer": "Alva Labs AB",
+    "municipality": "Stockholm",
+    "occupation": "Databasutvecklare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-08",
+    "remote_work": null,
+    "matched_queries": [
+      "\"analytics engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30830859",
+    "headline": "Analytics Engineer - Finance",
+    "employer": "Lovable Labs Sweden AB",
+    "municipality": "Stockholm",
+    "occupation": "Finansanalytiker",
+    "occupation_field": "Administration, ekonomi, juridik",
+    "publication_date": "2026-03-30",
+    "remote_work": null,
+    "matched_queries": [
+      "\"analytics engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30699089",
+    "headline": "Analytics Engineer",
+    "employer": "Lovable Labs Sweden AB",
+    "municipality": "Stockholm",
+    "occupation": "Applikationsingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-03-05",
+    "remote_work": null,
+    "matched_queries": [
+      "\"analytics engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30942197",
+    "headline": "AI Engineer/Architect – LLM, RAG & Applied AI",
+    "employer": "Knowit AB (Publ)",
+    "municipality": "Stockholm",
+    "occupation": "Civilingenjör, systemutveckling",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-22",
+    "remote_work": null,
+    "matched_queries": [
+      "\"ai engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30932543",
+    "headline": "Applied AI Engineer – Production",
+    "employer": "Silex Microsystems AB",
+    "municipality": "Järfälla",
+    "occupation": "Civilingenjör, produktion, elektronik",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-21",
+    "remote_work": null,
+    "matched_queries": [
+      "\"ai engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30930964",
+    "headline": "AI Engineer",
+    "employer": "Stravito AB",
+    "municipality": "Stockholm",
+    "occupation": "Mjukvaruutvecklare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-21",
+    "remote_work": null,
+    "matched_queries": [
+      "\"ai engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30930084",
+    "headline": "AI-Engineer",
+    "employer": "Walma AI AB",
+    "municipality": "Stockholm",
+    "occupation": "Mjukvaruutvecklare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-20",
+    "remote_work": null,
+    "matched_queries": [
+      "\"ai engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30894910",
+    "headline": "Embedded AI Engineer, Lund",
+    "employer": "Axis Communications AB",
+    "municipality": "Lund",
+    "occupation": "Civilingenjör, systemutveckling",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-13",
+    "remote_work": null,
+    "matched_queries": [
+      "\"ai engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30801194",
+    "headline": "AI Engineer",
+    "employer": "Epiminds AB",
+    "municipality": "Sundbyberg",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-03-25",
+    "remote_work": null,
+    "matched_queries": [
+      "\"ai engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30554390",
+    "headline": "AI Engineer",
+    "employer": "Lovable Labs Sweden AB",
+    "municipality": "Stockholm",
+    "occupation": "Mjukvaruutvecklare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-02-02",
+    "remote_work": null,
+    "matched_queries": [
+      "\"ai engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30365029",
+    "headline": "AI Engineer",
+    "employer": "Tendium AB",
+    "municipality": "Stockholm",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2025-12-11",
+    "remote_work": null,
+    "matched_queries": [
+      "\"ai engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30966965",
+    "headline": "Senior Machine Learning Engineer / Tech Lead",
+    "employer": "Volvo Business Services AB",
+    "municipality": "Göteborg",
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-28",
+    "remote_work": null,
+    "matched_queries": [
+      "\"machine learning engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30964907",
+    "headline": "Senior Machine Learning Engineer | Predictions Team",
+    "employer": "Instabee Group AB",
+    "municipality": "Stockholm",
+    "occupation": "Civilingenjör, systemutveckling",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-28",
+    "remote_work": null,
+    "matched_queries": [
+      "\"machine learning engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30916616",
+    "headline": "Machine Learning Engineer",
+    "employer": "Sellhelp AB",
+    "municipality": "Stockholm",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-16",
+    "remote_work": null,
+    "matched_queries": [
+      "\"machine learning engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30889799",
+    "headline": "Applied Machine Learning Scientist",
+    "employer": "Raysearch Laboratories AB (Publ)",
+    "municipality": "Stockholm",
+    "occupation": "Civilingenjör, systemutveckling",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-10",
+    "remote_work": null,
+    "matched_queries": [
+      "\"machine learning scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30959117",
+    "headline": "Research Scientist - Industrial communication networks",
+    "employer": "ABB AB",
+    "municipality": "Västerås",
+    "occupation": "Forskare, IT",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-27",
+    "remote_work": null,
+    "matched_queries": [
+      "\"research scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30947912",
+    "headline": "Research Scientist for Power Electronics",
+    "employer": "Hitachi Energy Sweden AB",
+    "municipality": "Västerås",
+    "occupation": "Forskningsingenjör, el-tele",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-23",
+    "remote_work": null,
+    "matched_queries": [
+      "\"research scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30923932",
+    "headline": "AI Research Scientist (LLM)",
+    "employer": "MOS AI AB",
+    "municipality": null,
+    "occupation": "Forskare, IT",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-17",
+    "remote_work": null,
+    "matched_queries": [
+      "\"research scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30858730",
+    "headline": "Research Scientist: Ultra Cold Neutrons",
+    "employer": "Institut Laue-Langevin (ILL)",
+    "municipality": null,
+    "occupation": "Partikelfysiker",
+    "occupation_field": "Naturvetenskap",
+    "publication_date": "2026-04-02",
+    "remote_work": null,
+    "matched_queries": [
+      "\"research scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30848479",
+    "headline": "Research Scientist",
+    "employer": "ATS Sweden HR AB",
+    "municipality": "Stockholm",
+    "occupation": "Researcher, rekrytering",
+    "occupation_field": "Administration, ekonomi, juridik",
+    "publication_date": "2026-04-01",
+    "remote_work": null,
+    "matched_queries": [
+      "\"research scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30798402",
+    "headline": "Research Scientist - Macromolecular\nCrystallography",
+    "employer": "Institut Laue-Langevin (ILL)",
+    "municipality": null,
+    "occupation": "Fysiker",
+    "occupation_field": "Naturvetenskap",
+    "publication_date": "2026-03-25",
+    "remote_work": null,
+    "matched_queries": [
+      "\"research scientist\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30795941",
+    "headline": "Senior Data Platform Engineer",
+    "employer": "Kambi Sweden AB",
+    "municipality": "Stockholm",
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-03-25",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data platform engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30951361",
+    "headline": "BI Developer",
+    "employer": "Semicon Service Nordic AB",
+    "municipality": null,
+    "occupation": "Affärskonsult, IT",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-24",
+    "remote_work": null,
+    "matched_queries": [
+      "\"bi developer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30850871",
+    "headline": "Senior Power BI Developer",
+    "employer": "Semicon Service Nordic AB",
+    "municipality": null,
+    "occupation": "Data scientist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-01",
+    "remote_work": null,
+    "matched_queries": [
+      "\"bi developer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30519786",
+    "headline": "Senior BI Developer – Power BI i affärsnära team",
+    "employer": "Quattro Bemanning & Rekrytering AB",
+    "municipality": "Finspång",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-01-26",
+    "remote_work": null,
+    "matched_queries": [
+      "\"bi developer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30964140",
+    "headline": "Teknisk Systemansvarig Data & Analytics till Volkswagen Finans Sverige AB",
+    "employer": "Volkswagen Finans Sverige AB",
+    "municipality": "Södertälje",
+    "occupation": "Systemansvarig",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-28",
+    "remote_work": null,
+    "matched_queries": [
+      "\"bi-utvecklare\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30876702",
+    "headline": "Frontendutvecklare",
+    "employer": "Techrytera AB",
+    "municipality": "Stockholm",
+    "occupation": "Frontend-utvecklare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-08",
+    "remote_work": null,
+    "matched_queries": [
+      "\"bi-utvecklare\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30842085",
+    "headline": "Power BI Utvecklare",
+    "employer": "Techrytera AB",
+    "municipality": "Stockholm",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-03-31",
+    "remote_work": null,
+    "matched_queries": [
+      "\"bi-utvecklare\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30746588",
+    "headline": "BI utvecklare till Agio",
+    "employer": "2Complete AB",
+    "municipality": "Stockholm",
+    "occupation": "Applikationskonsult",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-03-14",
+    "remote_work": null,
+    "matched_queries": [
+      "\"bi-utvecklare\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30327187",
+    "headline": "BI-utvecklare / BI-Specialist – Power BI & Fabric",
+    "employer": "Svensk Fastighetsförmedling AB",
+    "municipality": "Stockholm",
+    "occupation": "Systemförvaltare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2025-12-02",
+    "remote_work": null,
+    "matched_queries": [
+      "\"bi-utvecklare\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30977734",
+    "headline": "Universitetslektor i datavetenskap inriktn. mot AI och mjukvaruutveckling",
+    "employer": "Karlstads Universitet",
+    "municipality": "Karlstad",
+    "occupation": "Universitets- och högskolelektor",
+    "occupation_field": "Pedagogik",
+    "publication_date": "2026-04-30",
+    "remote_work": null,
+    "matched_queries": [
+      "mlops"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30972311",
+    "headline": "DevOps-utvecklare till Karolinska Universitetssjukhuset",
+    "employer": "REGION STOCKHOLM",
+    "municipality": "Solna",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-29",
+    "remote_work": null,
+    "matched_queries": [
+      "mlops"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30948201",
+    "headline": "Senior AI/ML Engineer",
+    "employer": "Techrytera AB",
+    "municipality": "Göteborg",
+    "occupation": "Mjukvaruutvecklare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-23",
+    "remote_work": null,
+    "matched_queries": [
+      "mlops"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30926993",
+    "headline": "GenAI Developer",
+    "employer": "Redeploy AB",
+    "municipality": "Stockholm",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-20",
+    "remote_work": null,
+    "matched_queries": [
+      "mlops"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30869602",
+    "headline": "Platform Engineer with AI experience",
+    "employer": "SwedQ AB",
+    "municipality": "Stockholm",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-07",
+    "remote_work": null,
+    "matched_queries": [
+      "mlops"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30855921",
+    "headline": "Senior Principal - Consulting",
+    "employer": "LTIMindtree Sverige, filial till LTIMindtree Lim",
+    "municipality": "Stockholm",
+    "occupation": "Affärskonsult, IT",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-02",
+    "remote_work": null,
+    "matched_queries": [
+      "mlops"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30806814",
+    "headline": "Lead AI Architect",
+    "employer": "Iver Accelerate AB",
+    "municipality": "Göteborg",
+    "occupation": "IT-arkitekt/Lösningsarkitekt",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-03-26",
+    "remote_work": null,
+    "matched_queries": [
+      "mlops"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30724574",
+    "headline": "AI Lead Engineer",
+    "employer": "Hitachi Energy Sweden AB",
+    "municipality": "Västerås",
+    "occupation": "Mekatronikingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-03-10",
+    "remote_work": null,
+    "matched_queries": [
+      "mlops"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30707007",
+    "headline": "Cloud Architect / Developer",
+    "employer": "Eccera Professionals AB",
+    "municipality": "Linköping",
+    "occupation": "Mjukvaruutvecklare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-03-06",
+    "remote_work": null,
+    "matched_queries": [
+      "mlops"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30664330",
+    "headline": "Technical AI Product Lead - Pharmacy Domain",
+    "employer": "Apotea Sverige AB",
+    "municipality": "Stockholm",
+    "occupation": "Projektledare, IT",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-02-25",
+    "remote_work": null,
+    "matched_queries": [
+      "mlops"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30664328",
+    "headline": "Technical AI Product Lead - Pharmacy Domain",
+    "employer": "Apotea Sverige AB",
+    "municipality": "Stockholm",
+    "occupation": "Projektledare, IT",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-02-25",
+    "remote_work": null,
+    "matched_queries": [
+      "mlops"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30255614",
+    "headline": "Produktägare inom dataplattform",
+    "employer": "Fastighets AB Balder",
+    "municipality": "Göteborg",
+    "occupation": "Datorlingvist/Datalingvist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2025-11-12",
+    "remote_work": null,
+    "matched_queries": [
+      "mlops"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30979395",
+    "headline": "Operativ analytiker till SJ Stockholmståg",
+    "employer": "SJ AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-04-30",
+    "remote_work": null,
+    "matched_queries": [
+      "dataanalytiker"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30950647",
+    "headline": "BI & Analytics Specialist  Data & Reporting  17436",
+    "employer": "Veritaz AB",
+    "municipality": null,
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-04-24",
+    "remote_work": null,
+    "matched_queries": [
+      "dataanalytiker"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30917614",
+    "headline": "Senior Data Analytics-konsult med stark SQL-kompetens",
+    "employer": "Framtiden i Sverige AB",
+    "municipality": "Borlänge",
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-04-17",
+    "remote_work": null,
+    "matched_queries": [
+      "dataanalytiker"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30917612",
+    "headline": "Senior Data Analytics-konsult med stark SQL-kompetens",
+    "employer": "Framtiden i Sverige AB",
+    "municipality": "Gävle",
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-04-17",
+    "remote_work": null,
+    "matched_queries": [
+      "dataanalytiker"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30915437",
+    "headline": "Specialist inom Medallia-plattformen",
+    "employer": "DOER Bemanning AB",
+    "municipality": "Göteborg",
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-04-16",
+    "remote_work": null,
+    "matched_queries": [
+      "dataanalytiker"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30914145",
+    "headline": "Data Analysis Engineer 🚗📊",
+    "employer": "Wrknest AB",
+    "municipality": "Göteborg",
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-04-16",
+    "remote_work": null,
+    "matched_queries": [
+      "dataanalytiker"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30890026",
+    "headline": "Dataanalytiker med fokus på register inom kemiområdet ",
+    "employer": "Kemikalieinspektionen",
+    "municipality": "Sundbyberg",
+    "occupation": "Statistiker",
+    "occupation_field": "Administration, ekonomi, juridik",
+    "publication_date": "2026-04-10",
+    "remote_work": null,
+    "matched_queries": [
+      "dataanalytiker"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30886348",
+    "headline": "Dataanalytiker",
+    "employer": "Nexer AB",
+    "municipality": "Skövde",
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-04-10",
+    "remote_work": null,
+    "matched_queries": [
+      "dataanalytiker"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30858991",
+    "headline": "Dataanalytiker",
+    "employer": "Hässleholms kommun",
+    "municipality": "Hässleholm",
+    "occupation": "Data Warehouse specialist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-02",
+    "remote_work": null,
+    "matched_queries": [
+      "dataanalytiker"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30696320",
+    "headline": "Fraud Analyst",
+    "employer": "Resurs Bank AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2026-03-04",
+    "remote_work": null,
+    "matched_queries": [
+      "dataanalytiker"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30428329",
+    "headline": "Primavera, PIMS to SAP - Business Analyst Senior Professional",
+    "employer": "Hitachi Energy Sweden AB",
+    "municipality": "Ludvika",
+    "occupation": "Dataanalytiker",
+    "occupation_field": "Försäljning, inköp, marknadsföring",
+    "publication_date": "2025-12-30",
+    "remote_work": null,
+    "matched_queries": [
+      "dataanalytiker"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30983096",
+    "headline": "Director IT Business Enablement  Manufacturing & Quality",
+    "employer": "Cytiva Sweden AB",
+    "municipality": "Uppsala",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-30",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30979246",
+    "headline": "Senior systemutvecklare till framtidens trafikledningssystem",
+    "employer": "Trafikverket",
+    "municipality": "Linköping",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-30",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30965323",
+    "headline": "Senior Embeddedutvecklare – Jönköping",
+    "employer": "Knowit AB (Publ)",
+    "municipality": "Jönköping",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-28",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30960561",
+    "headline": "IT category manager in Boden",
+    "employer": "Studentconsulting Sweden AB (Publ)",
+    "municipality": "Boden",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-27",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30955548",
+    "headline": "Senior Software Engineer (Python, Java, IaC, AWS)",
+    "employer": "Incluso AB",
+    "municipality": "Göteborg",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-24",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30949507",
+    "headline": "UX Designer",
+    "employer": "Kriminalvården",
+    "municipality": "Norrköping",
+    "occupation": "Interaktionsdesigner",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-24",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30949505",
+    "headline": "Senior Systemutvecklare",
+    "employer": "Kriminalvården",
+    "municipality": "Norrköping",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-24",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30932769",
+    "headline": "Systemingenjör - Production IT",
+    "employer": "Alleima Tube AB",
+    "municipality": "Sandviken",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-21",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30934860",
+    "headline": "Master Data Responsible",
+    "employer": "Incluso AB",
+    "municipality": "Lund",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-21",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30933240",
+    "headline": "Measurement Engineer till Innovativ bolag!",
+    "employer": "Friday Väst AB",
+    "municipality": "Göteborg",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-21",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30922128",
+    "headline": "Javautvecklare",
+    "employer": "Pensionsmyndigheten",
+    "municipality": "Stockholm",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-17",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30922123",
+    "headline": "Javautvecklare",
+    "employer": "Pensionsmyndigheten",
+    "municipality": "Luleå",
+    "occupation": "Systemutvecklare/Programmerare",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-04-17",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30915778",
+    "headline": "Cloud & Site Reliability Engineer",
+    "employer": "SANDVIK AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-16",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30915264",
+    "headline": "Engineers within Data Collection/Annotation/Resimulation",
+    "employer": "Alten Sverige AB",
+    "municipality": "Göteborg",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-16",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30914726",
+    "headline": "Hardware DevOps Engineer",
+    "employer": "Arm Sweden AB",
+    "municipality": "Lund",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-16",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30913792",
+    "headline": "Talent Acquisition Manager - Konsultchef | Heltid",
+    "employer": "Scania Bemanning AB",
+    "municipality": "Malmö",
+    "occupation": "Rekryterare/Rekryteringskonsult",
+    "occupation_field": "Administration, ekonomi, juridik",
+    "publication_date": "2026-04-16",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30911920",
+    "headline": "DevOps Engineer",
+    "employer": "Hitachi Energy Sweden AB",
+    "municipality": "Ludvika",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-16",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30907330",
+    "headline": "Dataingenjör (AI)",
+    "employer": "Uppsala Universitet",
+    "municipality": "Uppsala",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-15",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30905444",
+    "headline": "Embedded Software Engineer to Tech Company in Lund",
+    "employer": "Framtiden i Sverige AB",
+    "municipality": "Lund",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-14",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30901501",
+    "headline": "Senior integrationskonsult till spännande konsultbolag",
+    "employer": "A Hub AB",
+    "municipality": "Karlstad",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-14",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30897777",
+    "headline": "Operational Test Lead - Video Analytics, Lund",
+    "employer": "Axis Communications AB",
+    "municipality": "Lund",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-13",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30882194",
+    "headline": "Firmware Developer - Access Control Solution",
+    "employer": "Axis Communications AB",
+    "municipality": "Lund",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-09",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30879595",
+    "headline": "Collaboration Services Manager",
+    "employer": "CERN",
+    "municipality": null,
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-09",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30860517",
+    "headline": "Python Developer",
+    "employer": "WeQube AB",
+    "municipality": "Göteborg",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-04-02",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30836834",
+    "headline": "IT/OT Engineer",
+    "employer": "Hitachi Energy Sweden AB",
+    "municipality": "Ludvika",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-03-31",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30763597",
+    "headline": "Senior Platform engineer",
+    "employer": "Kumpan Sweden AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-03-18",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30724714",
+    "headline": "Ingenjörer inom IT med intresse för patent och kundrelationer till AWA!",
+    "employer": "Academic Work Sweden AB",
+    "municipality": "Helsingborg",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-03-10",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30716747",
+    "headline": "Data & AI Platform Engineer – Technical Lead",
+    "employer": "Professional Galaxy AB",
+    "municipality": "Stockholm",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-03-09",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30570252",
+    "headline": "Nätverkstekniker/Network Engineer",
+    "employer": "Hitachi Energy Sweden AB",
+    "municipality": "Ludvika",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-02-05",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "30531354",
+    "headline": "Senior Business Systems Manager",
+    "employer": "Lyten AB",
+    "municipality": "Västerås",
+    "occupation": "Dataingenjör",
+    "occupation_field": "Yrken med teknisk inriktning",
+    "publication_date": "2026-01-28",
+    "remote_work": null,
+    "matched_queries": [
+      "dataingenjör"
+    ],
+    "match_count": 1
+  }
+]
