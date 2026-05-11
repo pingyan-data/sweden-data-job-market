@@ -27,7 +27,7 @@ A weekly tracker of data, ML, and AI job postings across Sweden.
 
 ## Repo layout
 
-````
+```
 src/
 ├── fetch_jobtech.py       PRIMARY: JobTech API (multi-query, dedup)
 ├── filter_ads.py          PRIMARY: headline-first filter pipeline (v4)
@@ -77,7 +77,6 @@ python src/filter_ads.py      # applies filtering to PRIMARY data
 ## Development log
 
 ### 2026-05-01 — Session 1: PRIMARY data source (JobTech API)
-*Replace XX with your actual date — check git log*
 
 - Surveyed candidate data sources: Indeed (blocked), LinkedIn (ToS), various Swedish job boards.
 - Chose **Arbetsförmedlingen JobTech API** as PRIMARY: open, well-documented, no key required, covers most of the Swedish job market via Platsbanken.
