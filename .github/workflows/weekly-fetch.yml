@@ -34,7 +34,7 @@ jobs:
 
       - name: Install Playwright browser (Klarna fetcher needs it)
         # --with-deps 会顺带装 Linux 上无头浏览器需要的系统库
-        run: playwright install --with-deps chromium
+        run: python -m playwright install --with-deps chromium
 
       - name: Run fetchers
         run: |
