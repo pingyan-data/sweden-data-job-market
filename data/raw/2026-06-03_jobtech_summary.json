@@ -493,21 +493,6 @@
     "match_count": 2
   },
   {
-    "id": "31096160",
-    "headline": "Junior Data Engineer – Malmö 🚆",
-    "employer": "Sway Sourcing Sweden Aktiebolag",
-    "municipality": "Malmö",
-    "occupation": "Dataingenjör",
-    "occupation_field": "Yrken med teknisk inriktning",
-    "publication_date": "2026-05-28",
-    "remote_work": null,
-    "matched_queries": [
-      "\"data engineer\"",
-      "dataingenjör"
-    ],
-    "match_count": 2
-  },
-  {
     "id": "31096019",
     "headline": "Junior Data Engineer – Malmö 🚆",
     "employer": "Sway Sourcing Sweden Aktiebolag",
@@ -2077,6 +2062,20 @@
     "match_count": 1
   },
   {
+    "id": "31130568",
+    "headline": "Senior Data Engineer inom SQL och on-prem DWH",
+    "employer": "Avaron AB",
+    "municipality": "Malmö",
+    "occupation": "Data Warehouse specialist",
+    "occupation_field": "Data/IT",
+    "publication_date": "2026-06-03",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
     "id": "31120062",
     "headline": "Data Engineer to Swedbank’s Group AI Accelerator",
     "employer": "Swedbank AB",
@@ -2549,6 +2548,20 @@
     "remote_work": null,
     "matched_queries": [
       "\"data engineer\""
+    ],
+    "match_count": 1
+  },
+  {
+    "id": "31131189",
+    "headline": "Ai Business Analyst",
+    "employer": "Etraveli Group AB",
+    "municipality": "Uppsala",
+    "occupation": "Verksamhetsanalytiker",
+    "occupation_field": "Administration, ekonomi, juridik",
+    "publication_date": "2026-06-03",
+    "remote_work": null,
+    "matched_queries": [
+      "\"data analyst\""
     ],
     "match_count": 1
   },

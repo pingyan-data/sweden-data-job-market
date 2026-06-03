@@ -1,14 +1,14 @@
 [
   {
-    "job_id": "6a1e06b9be900419f477da40",
-    "url": "https://thehub.io/jobs/6a1e06b9be900419f477da40",
-    "parent_text": "Senior Fullstack Developer (AI) Cora Stockholm Full-time",
+    "job_id": "69fc647138b05d41534cb5de",
+    "url": "https://thehub.io/jobs/69fc647138b05d41534cb5de",
+    "parent_text": "Sales Executive TAPSTER Stockholm Full-time",
     "location": "Stockholm",
     "commitment": "Full-time",
     "extras": [],
-    "title": "Senior Fullstack Developer (AI)",
-    "company": "Cora",
-    "description_text": "Join Corafone as a Senior Fullstack Developer   The accounts receivable market is massive, complex, and overdue for a revolution. Corafone is automating and transforming it end-to-end, with AI voice a ..."
+    "title": "Sales Executive",
+    "company": "TAPSTER",
+    "description_text": "Come join us! TAPSTER is leading the revolution of payments by enabling card issuers to offer their customers a smooth and secure way to make contactless payments.    Accelerated by Covid-19 contactle ..."
   },
   {
     "job_id": "6a10eef6000a9d9b32f1fba7",
@@ -101,6 +101,17 @@
     "description_text": "About Univrses  Univrses is a Stockholm-based 3D Computer Vision and AI company. We provide the perception and spatial awareness necessary for an increasingly autonomous world. While our roots are in  ..."
   },
   {
+    "job_id": "69cf03f08d19044bfb94bc2c",
+    "url": "https://thehub.io/jobs/69cf03f08d19044bfb94bc2c",
+    "parent_text": "GenAI Developer Redeploy Gothenburg Full-time",
+    "location": "Gothenburg",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "GenAI Developer",
+    "company": "Redeploy",
+    "description_text": "TL;DR     → You design and build production-grade RAG and agentic AI systems end-to-end. From use-case definition through to a working interface in users' hands.    → Consulting across the Nordics, wi ..."
+  },
+  {
     "job_id": "6a0cfa3c69262a128667c31e",
     "url": "https://thehub.io/jobs/6a0cfa3c69262a128667c31e",
     "parent_text": "VP Supply Chain Nofence Stockholm Full-time",
@@ -121,17 +132,6 @@
     "title": "Content & Video Strategist (Finance / AI / Growth)",
     "company": "NeuroQuant",
     "description_text": "NeuroQuant är ett svenskt fintechbolag som hjälper investerare att fatta bättre beslut på börsen genom datadriven analys, modellportföljer och AI-baserade verktyg.  Vi bygger ett modernt ekosystem för ..."
-  },
-  {
-    "job_id": "69cf03f08d19044bfb94bc2c",
-    "url": "https://thehub.io/jobs/69cf03f08d19044bfb94bc2c",
-    "parent_text": "GenAI Developer Redeploy Gothenburg Full-time",
-    "location": "Gothenburg",
-    "commitment": "Full-time",
-    "extras": [],
-    "title": "GenAI Developer",
-    "company": "Redeploy",
-    "description_text": "TL;DR     → You design and build production-grade RAG and agentic AI systems end-to-end. From use-case definition through to a working interface in users' hands.    → Consulting across the Nordics, wi ..."
   },
   {
     "job_id": "69cb0f1ce0daac7bc1c00b44",
@@ -176,6 +176,17 @@
     "title": "Senior Product Designer",
     "company": "Volumental",
     "description_text": "Volumental is the footwear industry’s leading FitTech™ company, using 3D scanning and machine learning to match people with shoes that truly fit - in-store and online.    Our vision is “a world withou ..."
+  },
+  {
+    "job_id": "6a15e275ac69026dace675d0",
+    "url": "https://thehub.io/jobs/6a15e275ac69026dace675d0",
+    "parent_text": "Customer Support Associate i Oslo Ohma Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Customer Support Associate i Oslo",
+    "company": "Ohma",
+    "description_text": "Är du redo för ett äventyr i Oslo med landets coolaste supportroll?   Ohma är ett lite annorlunda och nytänkande larmföretag, där det just nu händer det mycket. Vi växer för fullt, lanserar i Sverige  ..."
   },
   {
     "job_id": "6a017ddec97377f7bc4a9380",
@@ -312,15 +323,15 @@
     "description_text": "Om Carla     Vi vill accelerera omställningen till hållbar mobilitet. Det gör vi genom att erbjuda det mest kundvänliga sättet att sälja och köpa elbilar. Vårt mål är att bli Norra Europas största spe ..."
   },
   {
-    "job_id": "6a15e275ac69026dace675d0",
-    "url": "https://thehub.io/jobs/6a15e275ac69026dace675d0",
-    "parent_text": "Customer Support Associate i Oslo Ohma Stockholm Full-time",
-    "location": "Stockholm",
+    "job_id": "6a1a2905f0f6e78b709d1358",
+    "url": "https://thehub.io/jobs/6a1a2905f0f6e78b709d1358",
+    "parent_text": "Digital Designer Learn2Esport Remote Full-time",
+    "location": "Remote",
     "commitment": "Full-time",
     "extras": [],
-    "title": "Customer Support Associate i Oslo",
-    "company": "Ohma",
-    "description_text": "Är du redo för ett äventyr i Oslo med landets coolaste supportroll?   Ohma är ett lite annorlunda och nytänkande larmföretag, där det just nu händer det mycket. Vi växer för fullt, lanserar i Sverige  ..."
+    "title": "Digital Designer",
+    "company": "Learn2Esport",
+    "description_text": "At Gameplan, we build a learning management system that helps schools prepare students for tech careers using their interest in gaming. We work directly with schools, districts, and education programs ..."
   },
   {
     "job_id": "6a1634ad0bd3b84d329c5226",
@@ -334,28 +345,15 @@
     "description_text": "Om Carla   Vi på Carla vill sätta en ny standard för hur man köper bil. Vårt mål är att det ska vara lika lätt och tryggt att köpa och sälja en bil online, som allt annat man köper på nätet. Självklar ..."
   },
   {
-    "job_id": "6a1a2905f0f6e78b709d1358",
-    "url": "https://thehub.io/jobs/6a1a2905f0f6e78b709d1358",
-    "parent_text": "Digital Designer Learn2Esport Remote Full-time",
-    "location": "Remote",
-    "commitment": "Full-time",
-    "extras": [],
-    "title": "Digital Designer",
-    "company": "Learn2Esport",
-    "description_text": "At Gameplan, we build a learning management system that helps schools prepare students for tech careers using their interest in gaming. We work directly with schools, districts, and education programs ..."
-  },
-  {
-    "job_id": "69fb2d4658926d417042e0c6",
-    "url": "https://thehub.io/jobs/69fb2d4658926d417042e0c6",
-    "parent_text": "Sales Manager / Future Country Manager Gullis Drinks Stockholm Full-time Freelance",
+    "job_id": "6a1e06b9be900419f477da40",
+    "url": "https://thehub.io/jobs/6a1e06b9be900419f477da40",
+    "parent_text": "Senior Fullstack Developer (AI) Cora Stockholm Full-time",
     "location": "Stockholm",
     "commitment": "Full-time",
-    "extras": [
-      "Freelance"
-    ],
-    "title": "Sales Manager / Future Country Manager",
-    "company": "Gullis Drinks",
-    "description_text": "Do you have what it takes to launch a Premium Beverage Startup in Stockholm?   📍  Stockholm, Sweden | Full-Time / Freelance | Monthly Retainer + Uncapped Commission      🎯  The Role:   We don’t beli ..."
+    "extras": [],
+    "title": "Senior Fullstack Developer (AI)",
+    "company": "Cora",
+    "description_text": "Join Corafone as a Senior Fullstack Developer   The accounts receivable market is massive, complex, and overdue for a revolution. Corafone is automating and transforming it end-to-end, with AI voice a ..."
   },
   {
     "job_id": "683f8cd98358a3bed613bb66",
@@ -448,6 +446,17 @@
     "description_text": "Are you looking for a life-time opportunity? At Grale, we are building the next generation of sustainable materials to replace plastics globally. As we scale rapidly, we’re looking for an exceptional  ..."
   },
   {
+    "job_id": "6a199edf52c8dc1a4b629fe7",
+    "url": "https://thehub.io/jobs/6a199edf52c8dc1a4b629fe7",
+    "parent_text": "Säljare & Affärsutvecklare – MedBeat MedBeat Malmö Full-time",
+    "location": "Malmö",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Säljare & Affärsutvecklare – MedBeat",
+    "company": "MedBeat",
+    "description_text": "Säljare & Affärsutvecklare – MedBeat   Vill du bygga affärer som gör konkret skillnad för svensk vård?  På MedBeat söker vi nu en Säljare & Affärsutvecklare som vill vara med och bidra till vår fortsa ..."
+  },
+  {
     "job_id": "6a1582c0a101806dca7b5826",
     "url": "https://thehub.io/jobs/6a1582c0a101806dca7b5826",
     "parent_text": "Performance Video Editor – konsultuppdrag juli–november Kaffekassan Malmö Freelance",
@@ -474,15 +483,15 @@
     "description_text": "FlavorScale is moving from Proof of Concept to Global Scale. While Flutter served us for our initial MVP, we are now architecting a high-performance Native iOS app designed to handle a worldwide rollo ..."
   },
   {
-    "job_id": "6a199edf52c8dc1a4b629fe7",
-    "url": "https://thehub.io/jobs/6a199edf52c8dc1a4b629fe7",
-    "parent_text": "Säljare & Affärsutvecklare – MedBeat MedBeat Malmö Full-time",
-    "location": "Malmö",
+    "job_id": "69f14a8e6e7e640e617a6f7d",
+    "url": "https://thehub.io/jobs/69f14a8e6e7e640e617a6f7d",
+    "parent_text": "Project and Partner Lead - Carla Partner Services Carla Stockholm Full-time",
+    "location": "Stockholm",
     "commitment": "Full-time",
     "extras": [],
-    "title": "Säljare & Affärsutvecklare – MedBeat",
-    "company": "MedBeat",
-    "description_text": "Säljare & Affärsutvecklare – MedBeat   Vill du bygga affärer som gör konkret skillnad för svensk vård?  På MedBeat söker vi nu en Säljare & Affärsutvecklare som vill vara med och bidra till vår fortsa ..."
+    "title": "Project and Partner Lead - Carla Partner Services",
+    "company": "Carla",
+    "description_text": "Om Carla   Carla vill sätta en helt ny standard för hur man köper och säljer elbil. Vi accelererar omställningen till hållbar mobilitet genom att erbjuda det mest kundvänliga sättet att äga, sälja ell ..."
   },
   {
     "job_id": "6996560e644d536b186b5293",
@@ -496,17 +505,6 @@
     "description_text": "Lenus is looking for a Key Account Manager for our Stockholm office!  \n  Join the health revolution!  \n At Lenus we are fundamentally energized by our shared vision: making the world a healthier and h ..."
   },
   {
-    "job_id": "69f14a8e6e7e640e617a6f7d",
-    "url": "https://thehub.io/jobs/69f14a8e6e7e640e617a6f7d",
-    "parent_text": "Project and Partner Lead - Carla Partner Services Carla Stockholm Full-time",
-    "location": "Stockholm",
-    "commitment": "Full-time",
-    "extras": [],
-    "title": "Project and Partner Lead - Carla Partner Services",
-    "company": "Carla",
-    "description_text": "Om Carla   Carla vill sätta en helt ny standard för hur man köper och säljer elbil. Vi accelererar omställningen till hållbar mobilitet genom att erbjuda det mest kundvänliga sättet att äga, sälja ell ..."
-  },
-  {
     "job_id": "6a05111496158a343a01b7f7",
     "url": "https://thehub.io/jobs/6a05111496158a343a01b7f7",
     "parent_text": "Corporate Development Associate (Stockholm) - Full-Time Voi Technology Stockholm Full-time",
@@ -518,17 +516,6 @@
     "description_text": "YOUR MISSION AT VOI     As Corporate Development Associate, you will work closely with our Director of Corporate Development &amp; IR and the executive team to support Voi’s continued scaling in a mor ..."
   },
   {
-    "job_id": "69fc647138b05d41534cb5de",
-    "url": "https://thehub.io/jobs/69fc647138b05d41534cb5de",
-    "parent_text": "Sales Executive TAPSTER Stockholm Full-time",
-    "location": "Stockholm",
-    "commitment": "Full-time",
-    "extras": [],
-    "title": "Sales Executive",
-    "company": "TAPSTER",
-    "description_text": "Come join us! TAPSTER is leading the revolution of payments by enabling card issuers to offer their customers a smooth and secure way to make contactless payments.    Accelerated by Covid-19 contactle ..."
-  },
-  {
     "job_id": "69fa84ca2e5259e9ef6ebaf2",
     "url": "https://thehub.io/jobs/69fa84ca2e5259e9ef6ebaf2",
     "parent_text": "Technical Intern (Software & AI Support) Depict Stockholm Internship Full-time",
@@ -538,6 +525,19 @@
     "title": "Technical Intern (Software & AI Support)",
     "company": "Depict",
     "description_text": "About Depict     At    Depict.ai   , we are fundamentally disrupting how e-commerce operations have been conducted to date. We are building the intelligence engine for the future of retail, leveraging ..."
+  },
+  {
+    "job_id": "69d8eee98f1ba6dd5aa02aa0",
+    "url": "https://thehub.io/jobs/69d8eee98f1ba6dd5aa02aa0",
+    "parent_text": "Sales Manager Gullis Drinks Stockholm Full-time Freelance",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [
+      "Freelance"
+    ],
+    "title": "Sales Manager",
+    "company": "Gullis Drinks",
+    "description_text": "Do you have what it takes to launch a Premium Beverage Startup in Stockholm?  \r\n 📍  Stockholm, Sweden | Full-Time / Freelance | Monthly Retainer + Uncapped Commission  \r\n &nbsp; \r\n 🎯  The Role:  \r\n  ..."
   },
   {
     "job_id": "67da0998c73d022fd2842157",
@@ -562,6 +562,19 @@
     "title": "🤖 Android Developer Internship @FoodTech: Parallel Native Build",
     "company": "FlavorScale",
     "description_text": "FlavorScale is scaling from a Proof of Concept to a Global Powerhouse. As we transition our MVP into a premium Native experience, we are building our iOS and Android engines in parallel. We are seekin ..."
+  },
+  {
+    "job_id": "69fb2d4658926d417042e0c6",
+    "url": "https://thehub.io/jobs/69fb2d4658926d417042e0c6",
+    "parent_text": "Sales Manager / Future Country Manager Gullis Drinks Stockholm Full-time Freelance",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [
+      "Freelance"
+    ],
+    "title": "Sales Manager / Future Country Manager",
+    "company": "Gullis Drinks",
+    "description_text": "Do you have what it takes to launch a Premium Beverage Startup in Stockholm?   📍  Stockholm, Sweden | Full-Time / Freelance | Monthly Retainer + Uncapped Commission      🎯  The Role:   We don’t beli ..."
   },
   {
     "job_id": "6a19907e90931f1a2e89e3c5",
@@ -599,6 +612,17 @@
     "description_text": "Are you a creative thinker who wants to turn ideas into visuals that make a real impact? Are you eager to build a standout portfolio while working in a fast-paced startup environment? Continue your gr ..."
   },
   {
+    "job_id": "6a026e081493912aa45f60e4",
+    "url": "https://thehub.io/jobs/6a026e081493912aa45f60e4",
+    "parent_text": "Finance & Operations Intern Miramis Technologies Stockholm Part-time Internship",
+    "location": "Stockholm",
+    "commitment": "Part-time",
+    "extras": [],
+    "title": "Finance & Operations Intern",
+    "company": "Miramis Technologies",
+    "description_text": "We're looking for a driven, organised, and curious person to join our Finance &amp; Operations team in Stockholm.  You'll play a key role in keeping our core processes running smoothly while getting a ..."
+  },
+  {
     "job_id": "6a10eef5000a9d9b32f1fb4a",
     "url": "https://thehub.io/jobs/6a10eef5000a9d9b32f1fb4a",
     "parent_text": "Business Development Manager Nosto Stockholm Full-time",
@@ -621,65 +645,6 @@
     "description_text": "Are you a results driven, Finnish speaking Salesperson? You might be our next Account Executive!  🚀     We’re looking for you – a highly motivated salesperson ready to roll up your sleeves and achiev ..."
   },
   {
-    "job_id": "6a026e081493912aa45f60e4",
-    "url": "https://thehub.io/jobs/6a026e081493912aa45f60e4",
-    "parent_text": "Finance & Operations Intern Miramis Technologies Stockholm Part-time Internship",
-    "location": "Stockholm",
-    "commitment": "Part-time",
-    "extras": [],
-    "title": "Finance & Operations Intern",
-    "company": "Miramis Technologies",
-    "description_text": "We're looking for a driven, organised, and curious person to join our Finance &amp; Operations team in Stockholm.  You'll play a key role in keeping our core processes running smoothly while getting a ..."
-  },
-  {
-    "job_id": "69d8eee98f1ba6dd5aa02aa0",
-    "url": "https://thehub.io/jobs/69d8eee98f1ba6dd5aa02aa0",
-    "parent_text": "Sales Manager Gullis Drinks Stockholm Full-time Freelance",
-    "location": "Stockholm",
-    "commitment": "Full-time",
-    "extras": [
-      "Freelance"
-    ],
-    "title": "Sales Manager",
-    "company": "Gullis Drinks",
-    "description_text": "Do you have what it takes to launch a Premium Beverage Startup in Stockholm?  \r\n 📍  Stockholm, Sweden | Full-Time / Freelance | Monthly Retainer + Uncapped Commission  \r\n &nbsp; \r\n 🎯  The Role:  \r\n  ..."
-  },
-  {
-    "job_id": "6a02f2921db253db9cd4e89f",
-    "url": "https://thehub.io/jobs/6a02f2921db253db9cd4e89f",
-    "parent_text": "Lead generator (bonus based) Workmatch Stockholm Freelance Internship",
-    "location": "Stockholm",
-    "commitment": "Internship",
-    "extras": [
-      "Freelance"
-    ],
-    "title": "Lead generator (bonus based)",
-    "company": "Workmatch",
-    "description_text": "Are you skilled at finding opportunities, starting conversations, and generating qualified leads?  WorkMatch.io is looking for a driven and results-oriented  Lead Generation Specialist  to help expand ..."
-  },
-  {
-    "job_id": "6a0e4c11871be3f961d6664e",
-    "url": "https://thehub.io/jobs/6a0e4c11871be3f961d6664e",
-    "parent_text": "Finnish speaking Business Developer (Stockholm) BrightAnalytics Stockholm Full-time",
-    "location": "Stockholm",
-    "commitment": "Full-time",
-    "extras": [],
-    "title": "Finnish speaking Business Developer (Stockholm)",
-    "company": "BrightAnalytics",
-    "description_text": "🚀 Why BrightAnalytics?   BrightAnalytics is one of the fastest growing fintech companies in Belgium. Our SaaS solution helps companies automate their management reporting. As part of our European exp ..."
-  },
-  {
-    "job_id": "69e2ca3ea9c78524de16a46c",
-    "url": "https://thehub.io/jobs/69e2ca3ea9c78524de16a46c",
-    "parent_text": "Senior Product Manager (AI Builder) - In-store Experience Volumental Stockholm Full-time",
-    "location": "Stockholm",
-    "commitment": "Full-time",
-    "extras": [],
-    "title": "Senior Product Manager (AI Builder) - In-store Experience",
-    "company": "Volumental",
-    "description_text": "Volumental is the footwear industry’s leading FitTech™ company, using 3D scanning and machine learning to match people with shoes that truly fit.    Our vision is “a world without sizes, where every b ..."
-  },
-  {
     "job_id": "693b5b83efed440a428f792b",
     "url": "https://thehub.io/jobs/693b5b83efed440a428f792b",
     "parent_text": "AI Engineer Tendium Stockholm Full-time",
@@ -689,5 +654,38 @@
     "title": "AI Engineer",
     "company": "Tendium",
     "description_text": "Do you want to join the technological revolution? Tendium is looking for a&nbsp;AI Engineer to join the team.&nbsp;   About Tendium  Public procurement is broken. Thousands of opportunities are buried ..."
+  },
+  {
+    "job_id": "69e8103b616294ee691c073c",
+    "url": "https://thehub.io/jobs/69e8103b616294ee691c073c",
+    "parent_text": "Cloud Engineer Redeploy Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Cloud Engineer",
+    "company": "Redeploy",
+    "description_text": "TL;DR      → You design, build and operate cloud infrastructure for enterprise clients on Azure and/or AWS, from landing zones and migrations to Kubernetes platforms and AI foundations.       → Consul ..."
+  },
+  {
+    "job_id": "6a17867a57f60129160c4145",
+    "url": "https://thehub.io/jobs/6a17867a57f60129160c4145",
+    "parent_text": "Förare sökes i Åkersberga (Heltid) - Today Mobility Today Mobility Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Förare sökes i Åkersberga (Heltid) - Today Mobility",
+    "company": "Today Mobility",
+    "description_text": "Vi söker dig som vill jobba heltid som förare hos oss, samtidigt som du genomgår vårt förarprogram på arbetstid. Vi har tagit fram programmet för att ge unga talanger som vill jobba i bilbranschen en  ..."
+  },
+  {
+    "job_id": "6940a1acefed440a42b79dc3",
+    "url": "https://thehub.io/jobs/6940a1acefed440a42b79dc3",
+    "parent_text": "Data & AI Management Consultant Redeploy Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Data & AI Management Consultant",
+    "company": "Redeploy",
+    "description_text": "TL;DR      → You guide organisations through technology-driven change, clarifying priorities, shaping direction and making strategy executable.    → Consultant role across the Nordics, with clients sp ..."
   }
 ]

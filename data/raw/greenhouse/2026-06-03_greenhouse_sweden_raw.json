@@ -1091,175 +1091,6 @@
     "_source": "greenhouse"
   },
   {
-    "absolute_url": "https://job-boards.greenhouse.io/wolt/jobs/6694602",
-    "data_compliance": [
-      {
-        "type": "gdpr",
-        "requires_consent": false,
-        "requires_processing_consent": false,
-        "requires_retention_consent": false,
-        "retention_period": null,
-        "demographic_data_consent_applies": true
-      }
-    ],
-    "internal_job_id": 3092356,
-    "location": {
-      "name": "Örebro, Sweden"
-    },
-    "metadata": [
-      {
-        "id": 875125,
-        "name": "Availability Date",
-        "value": "2025-01-01",
-        "value_type": "date"
-      },
-      {
-        "id": 875200,
-        "name": "Earliest Hire Date",
-        "value": "2025-01-01",
-        "value_type": "date"
-      },
-      {
-        "id": 170345,
-        "name": "Business Line",
-        "value": "Marketplace",
-        "value_type": "single_select"
-      },
-      {
-        "id": 170346,
-        "name": "Market",
-        "value": "Sweden",
-        "value_type": "single_select"
-      },
-      {
-        "id": 172948,
-        "name": "Entity",
-        "value": "Wolt Services Sverige AB",
-        "value_type": "single_select"
-      },
-      {
-        "id": 174556,
-        "name": "Job Family",
-        "value": "Fulfillment",
-        "value_type": "single_select"
-      },
-      {
-        "id": 1495483,
-        "name": "Engineering Discipline",
-        "value": null,
-        "value_type": "multi_select"
-      },
-      {
-        "id": 172717,
-        "name": "Job Location",
-        "value": "Örebro (WM)",
-        "value_type": "single_select"
-      },
-      {
-        "id": 875215,
-        "name": "Time Type",
-        "value": "Part time",
-        "value_type": "single_select"
-      },
-      {
-        "id": 923113,
-        "name": "Hiring Manager with Job Title",
-        "value": "Örebro, WM Sweden (Nora Brunström) - Store Manager (WM)",
-        "value_type": "single_select"
-      },
-      {
-        "id": 172248,
-        "name": "Careers Page Sorting: Department",
-        "value": null,
-        "value_type": "single_select"
-      },
-      {
-        "id": 32781020,
-        "name": "US1 - Base Salary Band Midpoint",
-        "value": {
-          "unit": "USD",
-          "amount": "21.8"
-        },
-        "value_type": "currency"
-      },
-      {
-        "id": 32794284,
-        "name": "US4 - Base Salary Band Minimum",
-        "value": {
-          "unit": "USD",
-          "amount": "14.8"
-        },
-        "value_type": "currency"
-      },
-      {
-        "id": 32794304,
-        "name": "US1 - Equity Band Midpoint",
-        "value": null,
-        "value_type": "currency"
-      },
-      {
-        "id": 32796921,
-        "name": "USA: Pay Transparency Range",
-        "value": {
-          "unit": "USD",
-          "max_value": "21.8",
-          "min_value": "14.8"
-        },
-        "value_type": "currency_range"
-      },
-      {
-        "id": 33181307,
-        "name": "Canada: Pay Transparency Range",
-        "value": {
-          "unit": "CAD",
-          "max_value": "18.3",
-          "min_value": "14.6"
-        },
-        "value_type": "currency_range"
-      },
-      {
-        "id": 40636812,
-        "name": "Umbrella Corp:",
-        "value": "Wolt",
-        "value_type": "single_select"
-      },
-      {
-        "id": 40689956,
-        "name": "Wolt: Careers Site Department",
-        "value": "Store",
-        "value_type": "single_select"
-      },
-      {
-        "id": 50331873,
-        "name": "Business Title",
-        "value": "Grocery Associate (WM)",
-        "value_type": "short_text"
-      },
-      {
-        "id": 54550527,
-        "name": "Fountain HVH",
-        "value": null,
-        "value_type": "yes_no"
-      },
-      {
-        "id": 54550663,
-        "name": "Fountain Opening ID",
-        "value": null,
-        "value_type": "short_text"
-      }
-    ],
-    "id": 6694602,
-    "updated_at": "2026-05-28T13:39:09-04:00",
-    "requisition_id": "EG.2025.8057",
-    "title": "Grocery Associate",
-    "company_name": "Wolt - English",
-    "first_published": "2025-03-20T09:22:43-04:00",
-    "language": "en",
-    "application_deadline": null,
-    "_company": "Wolt",
-    "_source": "greenhouse"
-  },
-  {
     "absolute_url": "https://job-boards.greenhouse.io/wolt/jobs/6694284",
     "data_compliance": [
       {
@@ -1423,6 +1254,175 @@
     "title": "Grocery Associate",
     "company_name": "Wolt - English",
     "first_published": "2025-03-20T09:24:17-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Wolt",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.greenhouse.io/wolt/jobs/6694602",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": true
+      }
+    ],
+    "internal_job_id": 3092356,
+    "location": {
+      "name": "Örebro, Sweden"
+    },
+    "metadata": [
+      {
+        "id": 875125,
+        "name": "Availability Date",
+        "value": "2025-01-01",
+        "value_type": "date"
+      },
+      {
+        "id": 875200,
+        "name": "Earliest Hire Date",
+        "value": "2025-01-01",
+        "value_type": "date"
+      },
+      {
+        "id": 170345,
+        "name": "Business Line",
+        "value": "Marketplace",
+        "value_type": "single_select"
+      },
+      {
+        "id": 170346,
+        "name": "Market",
+        "value": "Sweden",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172948,
+        "name": "Entity",
+        "value": "Wolt Services Sverige AB",
+        "value_type": "single_select"
+      },
+      {
+        "id": 174556,
+        "name": "Job Family",
+        "value": "Fulfillment",
+        "value_type": "single_select"
+      },
+      {
+        "id": 1495483,
+        "name": "Engineering Discipline",
+        "value": null,
+        "value_type": "multi_select"
+      },
+      {
+        "id": 172717,
+        "name": "Job Location",
+        "value": "Örebro (WM)",
+        "value_type": "single_select"
+      },
+      {
+        "id": 875215,
+        "name": "Time Type",
+        "value": "Part time",
+        "value_type": "single_select"
+      },
+      {
+        "id": 923113,
+        "name": "Hiring Manager with Job Title",
+        "value": "Örebro, WM Sweden (Nora Brunström) - Store Manager (WM)",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172248,
+        "name": "Careers Page Sorting: Department",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 32781020,
+        "name": "US1 - Base Salary Band Midpoint",
+        "value": {
+          "unit": "USD",
+          "amount": "21.8"
+        },
+        "value_type": "currency"
+      },
+      {
+        "id": 32794284,
+        "name": "US4 - Base Salary Band Minimum",
+        "value": {
+          "unit": "USD",
+          "amount": "14.8"
+        },
+        "value_type": "currency"
+      },
+      {
+        "id": 32794304,
+        "name": "US1 - Equity Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32796921,
+        "name": "USA: Pay Transparency Range",
+        "value": {
+          "unit": "USD",
+          "max_value": "21.8",
+          "min_value": "14.8"
+        },
+        "value_type": "currency_range"
+      },
+      {
+        "id": 33181307,
+        "name": "Canada: Pay Transparency Range",
+        "value": {
+          "unit": "CAD",
+          "max_value": "18.3",
+          "min_value": "14.6"
+        },
+        "value_type": "currency_range"
+      },
+      {
+        "id": 40636812,
+        "name": "Umbrella Corp:",
+        "value": "Wolt",
+        "value_type": "single_select"
+      },
+      {
+        "id": 40689956,
+        "name": "Wolt: Careers Site Department",
+        "value": "Store",
+        "value_type": "single_select"
+      },
+      {
+        "id": 50331873,
+        "name": "Business Title",
+        "value": "Grocery Associate (WM)",
+        "value_type": "short_text"
+      },
+      {
+        "id": 54550527,
+        "name": "Fountain HVH",
+        "value": null,
+        "value_type": "yes_no"
+      },
+      {
+        "id": 54550663,
+        "name": "Fountain Opening ID",
+        "value": null,
+        "value_type": "short_text"
+      }
+    ],
+    "id": 6694602,
+    "updated_at": "2026-05-28T13:39:09-04:00",
+    "requisition_id": "EG.2025.8057",
+    "title": "Grocery Associate",
+    "company_name": "Wolt - English",
+    "first_published": "2025-03-20T09:22:43-04:00",
     "language": "en",
     "application_deadline": null,
     "_company": "Wolt",

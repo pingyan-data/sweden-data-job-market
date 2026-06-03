@@ -136,23 +136,6 @@
     "url": "https://job-boards.greenhouse.io/wolt/jobs/7953769"
   },
   {
-    "id": "6694602",
-    "source": "greenhouse",
-    "source_company_slug": "Wolt",
-    "headline": "Grocery Associate",
-    "employer": "Wolt",
-    "municipality": "Örebro, Sweden",
-    "team": null,
-    "department": null,
-    "offices": null,
-    "commitment": null,
-    "workplace_type": null,
-    "country": null,
-    "publication_date": "2026-05-28",
-    "description_text": "",
-    "url": "https://job-boards.greenhouse.io/wolt/jobs/6694602"
-  },
-  {
     "id": "6694284",
     "source": "greenhouse",
     "source_company_slug": "Wolt",
@@ -168,6 +151,23 @@
     "publication_date": "2026-05-28",
     "description_text": "",
     "url": "https://job-boards.greenhouse.io/wolt/jobs/6694284"
+  },
+  {
+    "id": "6694602",
+    "source": "greenhouse",
+    "source_company_slug": "Wolt",
+    "headline": "Grocery Associate",
+    "employer": "Wolt",
+    "municipality": "Örebro, Sweden",
+    "team": null,
+    "department": null,
+    "offices": null,
+    "commitment": null,
+    "workplace_type": null,
+    "country": null,
+    "publication_date": "2026-05-28",
+    "description_text": "",
+    "url": "https://job-boards.greenhouse.io/wolt/jobs/6694602"
   },
   {
     "id": "6695059",
