@@ -1,0 +1,3542 @@
+[
+  {
+    "absolute_url": "https://job-boards.eu.greenhouse.io/mentimeter/jobs/4718581101",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": false
+      }
+    ],
+    "internal_job_id": 4401710101,
+    "location": {
+      "name": "Stockholm"
+    },
+    "metadata": null,
+    "id": 4718581101,
+    "updated_at": "2026-07-03T08:44:07-04:00",
+    "requisition_id": "336",
+    "title": "Account Manager - EMEA ",
+    "company_name": "Mentimeter",
+    "first_published": "2025-11-26T05:32:58-05:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Mentimeter",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.eu.greenhouse.io/mentimeter/jobs/4839752101",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": false
+      }
+    ],
+    "internal_job_id": 4456936101,
+    "location": {
+      "name": "Stockholm"
+    },
+    "metadata": null,
+    "id": 4839752101,
+    "updated_at": "2026-07-03T08:01:53-04:00",
+    "requisition_id": "385",
+    "title": "Analytics Engineer",
+    "company_name": "Mentimeter",
+    "first_published": "2026-04-17T09:13:05-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Mentimeter",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.eu.greenhouse.io/mentimeter/jobs/4841761101",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": false
+      }
+    ],
+    "internal_job_id": 4457890101,
+    "location": {
+      "name": "Stockholm"
+    },
+    "metadata": null,
+    "id": 4841761101,
+    "updated_at": "2026-04-21T04:02:48-04:00",
+    "requisition_id": "388",
+    "title": "Business Controller - Parental Leave Cover",
+    "company_name": "Mentimeter",
+    "first_published": "2026-04-21T04:01:16-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Mentimeter",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.eu.greenhouse.io/mentimeter/jobs/4878467101",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": false
+      }
+    ],
+    "internal_job_id": 4476952101,
+    "location": {
+      "name": "Stockholm"
+    },
+    "metadata": null,
+    "id": 4878467101,
+    "updated_at": "2026-07-03T08:38:09-04:00",
+    "requisition_id": "401",
+    "title": "Customer Success Manager - Higher Education",
+    "company_name": "Mentimeter",
+    "first_published": "2026-06-08T03:22:17-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Mentimeter",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.eu.greenhouse.io/mentimeter/jobs/4912956101",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": false
+      }
+    ],
+    "internal_job_id": 4494104101,
+    "location": {
+      "name": "Stockholm"
+    },
+    "metadata": null,
+    "id": 4912956101,
+    "updated_at": "2026-06-30T09:59:36-04:00",
+    "requisition_id": "410",
+    "title": "Data Scientist",
+    "company_name": "Mentimeter",
+    "first_published": "2026-06-30T07:33:42-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Mentimeter",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.eu.greenhouse.io/mentimeter/jobs/4908946101",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": false
+      }
+    ],
+    "internal_job_id": 4491809101,
+    "location": {
+      "name": "Stockholm"
+    },
+    "metadata": null,
+    "id": 4908946101,
+    "updated_at": "2026-07-03T01:36:35-04:00",
+    "requisition_id": "412",
+    "title": "Engineering Director",
+    "company_name": "Mentimeter",
+    "first_published": "2026-06-26T02:47:00-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Mentimeter",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.eu.greenhouse.io/mentimeter/jobs/4908282101",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": false
+      }
+    ],
+    "internal_job_id": 4491975101,
+    "location": {
+      "name": "Stockholm"
+    },
+    "metadata": null,
+    "id": 4908282101,
+    "updated_at": "2026-07-03T11:08:02-04:00",
+    "requisition_id": "409",
+    "title": "Executive Partner",
+    "company_name": "Mentimeter",
+    "first_published": "2026-07-03T11:08:02-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Mentimeter",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.eu.greenhouse.io/mentimeter/jobs/4689150101",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": false
+      }
+    ],
+    "internal_job_id": 4387499101,
+    "location": {
+      "name": "Stockholm"
+    },
+    "metadata": null,
+    "id": 4689150101,
+    "updated_at": "2026-07-03T08:00:37-04:00",
+    "requisition_id": "316",
+    "title": "Fullstack Engineer - Integrations Team",
+    "company_name": "Mentimeter",
+    "first_published": "2025-10-15T06:55:46-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Mentimeter",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.eu.greenhouse.io/mentimeter/jobs/4894644101",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": false
+      }
+    ],
+    "internal_job_id": 4485919101,
+    "location": {
+      "name": "Stockholm"
+    },
+    "metadata": null,
+    "id": 4894644101,
+    "updated_at": "2026-07-03T10:00:01-04:00",
+    "requisition_id": "406",
+    "title": "Global Account Director - Strategic Accounts",
+    "company_name": "Mentimeter",
+    "first_published": "2026-07-03T10:00:01-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Mentimeter",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.eu.greenhouse.io/mentimeter/jobs/4791989101",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": false
+      }
+    ],
+    "internal_job_id": 4434443101,
+    "location": {
+      "name": "Stockholm"
+    },
+    "metadata": null,
+    "id": 4791989101,
+    "updated_at": "2026-07-03T08:41:48-04:00",
+    "requisition_id": "367",
+    "title": "Key Account Manager - Strategic Accounts",
+    "company_name": "Mentimeter",
+    "first_published": "2026-03-03T04:06:18-05:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Mentimeter",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.eu.greenhouse.io/mentimeter/jobs/4880520101",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": false
+      }
+    ],
+    "internal_job_id": 4477787101,
+    "location": {
+      "name": "Stockholm"
+    },
+    "metadata": null,
+    "id": 4880520101,
+    "updated_at": "2026-07-03T01:38:01-04:00",
+    "requisition_id": "402",
+    "title": "Product Engineer - Growth Lab",
+    "company_name": "Mentimeter",
+    "first_published": "2026-06-24T07:31:07-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Mentimeter",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.eu.greenhouse.io/mentimeter/jobs/4864336101",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": false
+      }
+    ],
+    "internal_job_id": 4468669101,
+    "location": {
+      "name": "Stockholm"
+    },
+    "metadata": null,
+    "id": 4864336101,
+    "updated_at": "2026-07-03T08:41:02-04:00",
+    "requisition_id": "394",
+    "title": "Sales Manager - Strategic Accounts",
+    "company_name": "Mentimeter",
+    "first_published": "2026-05-25T02:43:37-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Mentimeter",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.eu.greenhouse.io/mentimeter/jobs/4720028101",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": false
+      }
+    ],
+    "internal_job_id": 4402445101,
+    "location": {
+      "name": "Stockholm"
+    },
+    "metadata": null,
+    "id": 4720028101,
+    "updated_at": "2026-06-30T10:00:39-04:00",
+    "requisition_id": "338",
+    "title": "Senior Data Scientist",
+    "company_name": "Mentimeter",
+    "first_published": "2025-11-27T07:47:09-05:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Mentimeter",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.eu.greenhouse.io/mentimeter/jobs/4918234101",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": false
+      }
+    ],
+    "internal_job_id": 4496789101,
+    "location": {
+      "name": "Stockholm"
+    },
+    "metadata": null,
+    "id": 4918234101,
+    "updated_at": "2026-07-03T01:38:28-04:00",
+    "requisition_id": "414",
+    "title": "Senior Product Manager, Data / ML",
+    "company_name": "Mentimeter",
+    "first_published": "2026-07-03T01:30:50-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Mentimeter",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.eu.greenhouse.io/mentimeter/jobs/4725694101",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": false
+      }
+    ],
+    "internal_job_id": 4405032101,
+    "location": {
+      "name": "Stockholm"
+    },
+    "metadata": null,
+    "id": 4725694101,
+    "updated_at": "2026-07-03T08:02:52-04:00",
+    "requisition_id": "339",
+    "title": "Senior SEO & AI Search Growth Manager",
+    "company_name": "Mentimeter",
+    "first_published": "2026-01-05T13:30:03-05:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Mentimeter",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.eu.greenhouse.io/mentimeter/jobs/4857235101",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": false
+      }
+    ],
+    "internal_job_id": 4464075101,
+    "location": {
+      "name": "Stockholm"
+    },
+    "metadata": null,
+    "id": 4857235101,
+    "updated_at": "2026-05-19T05:54:27-04:00",
+    "requisition_id": "S175",
+    "title": "Solution Consultant - Strategic Accounts",
+    "company_name": "Mentimeter",
+    "first_published": "2026-05-07T08:42:05-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Mentimeter",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.eu.greenhouse.io/mentimeter/jobs/4914625101",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": false
+      }
+    ],
+    "internal_job_id": 4494958101,
+    "location": {
+      "name": "Stockholm"
+    },
+    "metadata": null,
+    "id": 4914625101,
+    "updated_at": "2026-07-01T07:51:55-04:00",
+    "requisition_id": "411",
+    "title": "VP Growth",
+    "company_name": "Mentimeter",
+    "first_published": "2026-07-01T07:41:26-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Mentimeter",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.greenhouse.io/wolt/jobs/7984536",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": true
+      }
+    ],
+    "internal_job_id": 3464923,
+    "location": {
+      "name": "Stockholm, Sweden"
+    },
+    "metadata": [
+      {
+        "id": 875125,
+        "name": "Availability Date",
+        "value": "2026-06-05",
+        "value_type": "date"
+      },
+      {
+        "id": 875200,
+        "name": "Earliest Hire Date",
+        "value": "2026-06-05",
+        "value_type": "date"
+      },
+      {
+        "id": 170345,
+        "name": "Business Line",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 170346,
+        "name": "Market",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 172948,
+        "name": "Entity",
+        "value": "Wolt Sverige AB",
+        "value_type": "single_select"
+      },
+      {
+        "id": 174556,
+        "name": "Job Family",
+        "value": "Global Intern Scheme",
+        "value_type": "single_select"
+      },
+      {
+        "id": 1495483,
+        "name": "Engineering Discipline",
+        "value": null,
+        "value_type": "multi_select"
+      },
+      {
+        "id": 172717,
+        "name": "Job Location",
+        "value": "Stockholm",
+        "value_type": "single_select"
+      },
+      {
+        "id": 875215,
+        "name": "Time Type",
+        "value": "Part time",
+        "value_type": "single_select"
+      },
+      {
+        "id": 923113,
+        "name": "Hiring Manager with Job Title",
+        "value": "Account Management, Sweden (Johanna Bearder) - Country Lead, Retail",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172248,
+        "name": "Careers Page Sorting: Department",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 32781020,
+        "name": "US1 - Base Salary Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794284,
+        "name": "US4 - Base Salary Band Minimum",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794304,
+        "name": "US1 - Equity Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32796921,
+        "name": "USA: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 33181307,
+        "name": "Canada: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 40636812,
+        "name": "Umbrella Corp:",
+        "value": "Wolt",
+        "value_type": "single_select"
+      },
+      {
+        "id": 40689956,
+        "name": "Wolt: Careers Site Department",
+        "value": "Early Careers",
+        "value_type": "single_select"
+      },
+      {
+        "id": 50331873,
+        "name": "Business Title",
+        "value": null,
+        "value_type": "short_text"
+      },
+      {
+        "id": 54550527,
+        "name": "Fountain HVH",
+        "value": null,
+        "value_type": "yes_no"
+      },
+      {
+        "id": 54550663,
+        "name": "Fountain Opening ID",
+        "value": null,
+        "value_type": "short_text"
+      }
+    ],
+    "id": 7984536,
+    "updated_at": "2026-06-24T03:40:53-04:00",
+    "requisition_id": "P-108570",
+    "title": "Account Management Intern",
+    "company_name": "Wolt - English",
+    "first_published": "2026-06-09T08:48:13-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Wolt",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.greenhouse.io/wolt/jobs/7992265",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": true
+      }
+    ],
+    "internal_job_id": 3467111,
+    "location": {
+      "name": "Berlin, Germany; Helsinki, Finland; London, United Kingdom; Stockholm, Sweden"
+    },
+    "metadata": [
+      {
+        "id": 875125,
+        "name": "Availability Date",
+        "value": "2026-08-04",
+        "value_type": "date"
+      },
+      {
+        "id": 875200,
+        "name": "Earliest Hire Date",
+        "value": "2026-08-04",
+        "value_type": "date"
+      },
+      {
+        "id": 170345,
+        "name": "Business Line",
+        "value": "Marketplace",
+        "value_type": "single_select"
+      },
+      {
+        "id": 170346,
+        "name": "Market",
+        "value": "Wolt HQ",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172948,
+        "name": "Entity",
+        "value": "Wolt Development UK Ltd",
+        "value_type": "single_select"
+      },
+      {
+        "id": 174556,
+        "name": "Job Family",
+        "value": "Data Science",
+        "value_type": "single_select"
+      },
+      {
+        "id": 1495483,
+        "name": "Engineering Discipline",
+        "value": null,
+        "value_type": "multi_select"
+      },
+      {
+        "id": 172717,
+        "name": "Job Location",
+        "value": "London",
+        "value_type": "single_select"
+      },
+      {
+        "id": 875215,
+        "name": "Time Type",
+        "value": "Full time",
+        "value_type": "single_select"
+      },
+      {
+        "id": 923113,
+        "name": "Hiring Manager with Job Title",
+        "value": "Marketing - Science (JD Chen) - Senior Data Science Manager",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172248,
+        "name": "Careers Page Sorting: Department",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 32781020,
+        "name": "US1 - Base Salary Band Midpoint",
+        "value": {
+          "unit": "USD",
+          "amount": "271000.0"
+        },
+        "value_type": "currency"
+      },
+      {
+        "id": 32794284,
+        "name": "US4 - Base Salary Band Minimum",
+        "value": {
+          "unit": "USD",
+          "amount": "184300.0"
+        },
+        "value_type": "currency"
+      },
+      {
+        "id": 32794304,
+        "name": "US1 - Equity Band Midpoint",
+        "value": {
+          "unit": "USD",
+          "amount": "555000.0"
+        },
+        "value_type": "currency"
+      },
+      {
+        "id": 32796921,
+        "name": "USA: Pay Transparency Range",
+        "value": {
+          "unit": "USD",
+          "max_value": "271000.0",
+          "min_value": "184300.0"
+        },
+        "value_type": "currency_range"
+      },
+      {
+        "id": 33181307,
+        "name": "Canada: Pay Transparency Range",
+        "value": {
+          "unit": "CAD",
+          "max_value": "220000.0",
+          "min_value": "176000.0"
+        },
+        "value_type": "currency_range"
+      },
+      {
+        "id": 40636812,
+        "name": "Umbrella Corp:",
+        "value": "Wolt",
+        "value_type": "single_select"
+      },
+      {
+        "id": 40689956,
+        "name": "Wolt: Careers Site Department",
+        "value": "Data & Analytics",
+        "value_type": "single_select"
+      },
+      {
+        "id": 50331873,
+        "name": "Business Title",
+        "value": null,
+        "value_type": "short_text"
+      },
+      {
+        "id": 54550527,
+        "name": "Fountain HVH",
+        "value": null,
+        "value_type": "yes_no"
+      },
+      {
+        "id": 54550663,
+        "name": "Fountain Opening ID",
+        "value": null,
+        "value_type": "short_text"
+      }
+    ],
+    "id": 7992265,
+    "updated_at": "2026-06-17T06:15:36-04:00",
+    "requisition_id": "2026.04799",
+    "title": "Analytics Manager, Marketing Analytics",
+    "company_name": "Wolt - English",
+    "first_published": "2026-06-10T07:14:54-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Wolt",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.greenhouse.io/wolt/jobs/8035172",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": true
+      }
+    ],
+    "internal_job_id": 3483212,
+    "location": {
+      "name": "Finland; Stockholm, Sweden"
+    },
+    "metadata": [
+      {
+        "id": 875125,
+        "name": "Availability Date",
+        "value": "2026-06-29",
+        "value_type": "date"
+      },
+      {
+        "id": 875200,
+        "name": "Earliest Hire Date",
+        "value": "2026-06-29",
+        "value_type": "date"
+      },
+      {
+        "id": 170345,
+        "name": "Business Line",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 170346,
+        "name": "Market",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 172948,
+        "name": "Entity",
+        "value": "Wolt Oy",
+        "value_type": "single_select"
+      },
+      {
+        "id": 174556,
+        "name": "Job Family",
+        "value": "Software Engineering",
+        "value_type": "single_select"
+      },
+      {
+        "id": 1495483,
+        "name": "Engineering Discipline",
+        "value": null,
+        "value_type": "multi_select"
+      },
+      {
+        "id": 172717,
+        "name": "Job Location",
+        "value": "Helsinki HQ",
+        "value_type": "single_select"
+      },
+      {
+        "id": 875215,
+        "name": "Time Type",
+        "value": "Full time",
+        "value_type": "single_select"
+      },
+      {
+        "id": 923113,
+        "name": "Hiring Manager with Job Title",
+        "value": "Growth Experiments (Alaeddine Manai) - Engineering Team Lead",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172248,
+        "name": "Careers Page Sorting: Department",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 32781020,
+        "name": "US1 - Base Salary Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794284,
+        "name": "US4 - Base Salary Band Minimum",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794304,
+        "name": "US1 - Equity Band Midpoint",
+        "value": {
+          "unit": "USD",
+          "amount": "237500.0"
+        },
+        "value_type": "currency"
+      },
+      {
+        "id": 32796921,
+        "name": "USA: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 33181307,
+        "name": "Canada: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 40636812,
+        "name": "Umbrella Corp:",
+        "value": "Wolt",
+        "value_type": "single_select"
+      },
+      {
+        "id": 40689956,
+        "name": "Wolt: Careers Site Department",
+        "value": "Engineering",
+        "value_type": "single_select"
+      },
+      {
+        "id": 50331873,
+        "name": "Business Title",
+        "value": null,
+        "value_type": "short_text"
+      },
+      {
+        "id": 54550527,
+        "name": "Fountain HVH",
+        "value": null,
+        "value_type": "yes_no"
+      },
+      {
+        "id": 54550663,
+        "name": "Fountain Opening ID",
+        "value": null,
+        "value_type": "short_text"
+      }
+    ],
+    "id": 8035172,
+    "updated_at": "2026-07-01T12:58:16-04:00",
+    "requisition_id": "2026.00569",
+    "title": "Backend Engineer",
+    "company_name": "Wolt - English",
+    "first_published": "2026-07-01T07:31:24-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Wolt",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.greenhouse.io/wolt/jobs/8007593",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": true
+      }
+    ],
+    "internal_job_id": 3472022,
+    "location": {
+      "name": "Stockholm, Sweden"
+    },
+    "metadata": [
+      {
+        "id": 875125,
+        "name": "Availability Date",
+        "value": "2026-06-23",
+        "value_type": "date"
+      },
+      {
+        "id": 875200,
+        "name": "Earliest Hire Date",
+        "value": "2026-06-23",
+        "value_type": "date"
+      },
+      {
+        "id": 170345,
+        "name": "Business Line",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 170346,
+        "name": "Market",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 172948,
+        "name": "Entity",
+        "value": "Wolt Sverige AB",
+        "value_type": "single_select"
+      },
+      {
+        "id": 174556,
+        "name": "Job Family",
+        "value": "Enterprise Sales",
+        "value_type": "single_select"
+      },
+      {
+        "id": 1495483,
+        "name": "Engineering Discipline",
+        "value": null,
+        "value_type": "multi_select"
+      },
+      {
+        "id": 172717,
+        "name": "Job Location",
+        "value": "Stockholm",
+        "value_type": "single_select"
+      },
+      {
+        "id": 875215,
+        "name": "Time Type",
+        "value": "Full time",
+        "value_type": "single_select"
+      },
+      {
+        "id": 923113,
+        "name": "Hiring Manager with Job Title",
+        "value": "Strategic Projects, Sweden (Magnus Lilja) - Commerce Platform Lead",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172248,
+        "name": "Careers Page Sorting: Department",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 32781020,
+        "name": "US1 - Base Salary Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794284,
+        "name": "US4 - Base Salary Band Minimum",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794304,
+        "name": "US1 - Equity Band Midpoint",
+        "value": {
+          "unit": "USD",
+          "amount": "62500.0"
+        },
+        "value_type": "currency"
+      },
+      {
+        "id": 32796921,
+        "name": "USA: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 33181307,
+        "name": "Canada: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 40636812,
+        "name": "Umbrella Corp:",
+        "value": "Wolt",
+        "value_type": "single_select"
+      },
+      {
+        "id": 40689956,
+        "name": "Wolt: Careers Site Department",
+        "value": "Sales & Merchant Operations",
+        "value_type": "single_select"
+      },
+      {
+        "id": 50331873,
+        "name": "Business Title",
+        "value": null,
+        "value_type": "short_text"
+      },
+      {
+        "id": 54550527,
+        "name": "Fountain HVH",
+        "value": null,
+        "value_type": "yes_no"
+      },
+      {
+        "id": 54550663,
+        "name": "Fountain Opening ID",
+        "value": null,
+        "value_type": "short_text"
+      }
+    ],
+    "id": 8007593,
+    "updated_at": "2026-06-23T10:41:24-04:00",
+    "requisition_id": "2026.02024",
+    "title": "Commercial Platform Business Development Manager",
+    "company_name": "Wolt - English",
+    "first_published": "2026-06-23T10:27:57-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Wolt",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.greenhouse.io/wolt/jobs/7907420",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": true
+      }
+    ],
+    "internal_job_id": 3437261,
+    "location": {
+      "name": "Stockholm, Sweden"
+    },
+    "metadata": [
+      {
+        "id": 875125,
+        "name": "Availability Date",
+        "value": "2026-05-08",
+        "value_type": "date"
+      },
+      {
+        "id": 875200,
+        "name": "Earliest Hire Date",
+        "value": "2026-05-08",
+        "value_type": "date"
+      },
+      {
+        "id": 170345,
+        "name": "Business Line",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 170346,
+        "name": "Market",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 172948,
+        "name": "Entity",
+        "value": "Wolt Sverige AB",
+        "value_type": "single_select"
+      },
+      {
+        "id": 174556,
+        "name": "Job Family",
+        "value": "Enterprise Sales",
+        "value_type": "single_select"
+      },
+      {
+        "id": 1495483,
+        "name": "Engineering Discipline",
+        "value": null,
+        "value_type": "multi_select"
+      },
+      {
+        "id": 172717,
+        "name": "Job Location",
+        "value": "Stockholm",
+        "value_type": "single_select"
+      },
+      {
+        "id": 875215,
+        "name": "Time Type",
+        "value": "Full time",
+        "value_type": "single_select"
+      },
+      {
+        "id": 923113,
+        "name": "Hiring Manager with Job Title",
+        "value": "Wolt for Work, Norway (Sophia Siciliano) - Sales Operations Lead, Wolt for Work",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172248,
+        "name": "Careers Page Sorting: Department",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 32781020,
+        "name": "US1 - Base Salary Band Midpoint",
+        "value": {
+          "unit": "USD",
+          "amount": "0.0"
+        },
+        "value_type": "currency"
+      },
+      {
+        "id": 32794284,
+        "name": "US4 - Base Salary Band Minimum",
+        "value": {
+          "unit": "USD",
+          "amount": "0.0"
+        },
+        "value_type": "currency"
+      },
+      {
+        "id": 32794304,
+        "name": "US1 - Equity Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32796921,
+        "name": "USA: Pay Transparency Range",
+        "value": {
+          "unit": "USD",
+          "max_value": "0.0",
+          "min_value": "0.0"
+        },
+        "value_type": "currency_range"
+      },
+      {
+        "id": 33181307,
+        "name": "Canada: Pay Transparency Range",
+        "value": {
+          "unit": "CAD",
+          "max_value": "0.0",
+          "min_value": "0.0"
+        },
+        "value_type": "currency_range"
+      },
+      {
+        "id": 40636812,
+        "name": "Umbrella Corp:",
+        "value": "Wolt",
+        "value_type": "single_select"
+      },
+      {
+        "id": 40689956,
+        "name": "Wolt: Careers Site Department",
+        "value": "Sales & Merchant Operations",
+        "value_type": "single_select"
+      },
+      {
+        "id": 50331873,
+        "name": "Business Title",
+        "value": null,
+        "value_type": "short_text"
+      },
+      {
+        "id": 54550527,
+        "name": "Fountain HVH",
+        "value": null,
+        "value_type": "yes_no"
+      },
+      {
+        "id": 54550663,
+        "name": "Fountain Opening ID",
+        "value": null,
+        "value_type": "short_text"
+      }
+    ],
+    "id": 7907420,
+    "updated_at": "2026-06-30T05:35:09-04:00",
+    "requisition_id": "2026.02405",
+    "title": "Enterprise Sales Manager",
+    "company_name": "Wolt - English",
+    "first_published": "2026-05-11T01:51:51-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Wolt",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.greenhouse.io/wolt/jobs/8023845",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": true
+      }
+    ],
+    "internal_job_id": 3478559,
+    "location": {
+      "name": "Stockholm, Sweden"
+    },
+    "metadata": [
+      {
+        "id": 875125,
+        "name": "Availability Date",
+        "value": "2026-06-23",
+        "value_type": "date"
+      },
+      {
+        "id": 875200,
+        "name": "Earliest Hire Date",
+        "value": "2026-06-23",
+        "value_type": "date"
+      },
+      {
+        "id": 170345,
+        "name": "Business Line",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 170346,
+        "name": "Market",
+        "value": "Sweden",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172948,
+        "name": "Entity",
+        "value": "Wolt Sverige AB",
+        "value_type": "single_select"
+      },
+      {
+        "id": 174556,
+        "name": "Job Family",
+        "value": "Enterprise Account Management",
+        "value_type": "single_select"
+      },
+      {
+        "id": 1495483,
+        "name": "Engineering Discipline",
+        "value": null,
+        "value_type": "multi_select"
+      },
+      {
+        "id": 172717,
+        "name": "Job Location",
+        "value": "Stockholm",
+        "value_type": "single_select"
+      },
+      {
+        "id": 875215,
+        "name": "Time Type",
+        "value": "Full time",
+        "value_type": "single_select"
+      },
+      {
+        "id": 923113,
+        "name": "Hiring Manager with Job Title",
+        "value": "Restaurant team, Denmark (Mike Zeuch Poulsen) - Head of Account Management, Restaurant",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172248,
+        "name": "Careers Page Sorting: Department",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 32781020,
+        "name": "US1 - Base Salary Band Midpoint",
+        "value": {
+          "unit": "USD",
+          "amount": "252000.0"
+        },
+        "value_type": "currency"
+      },
+      {
+        "id": 32794284,
+        "name": "US4 - Base Salary Band Minimum",
+        "value": {
+          "unit": "USD",
+          "amount": "171400.0"
+        },
+        "value_type": "currency"
+      },
+      {
+        "id": 32794304,
+        "name": "US1 - Equity Band Midpoint",
+        "value": {
+          "unit": "USD",
+          "amount": "157500.0"
+        },
+        "value_type": "currency"
+      },
+      {
+        "id": 32796921,
+        "name": "USA: Pay Transparency Range",
+        "value": {
+          "unit": "USD",
+          "max_value": "252000.0",
+          "min_value": "171400.0"
+        },
+        "value_type": "currency_range"
+      },
+      {
+        "id": 33181307,
+        "name": "Canada: Pay Transparency Range",
+        "value": {
+          "unit": "CAD",
+          "max_value": "237000.0",
+          "min_value": "189500.0"
+        },
+        "value_type": "currency_range"
+      },
+      {
+        "id": 40636812,
+        "name": "Umbrella Corp:",
+        "value": "Wolt",
+        "value_type": "single_select"
+      },
+      {
+        "id": 40689956,
+        "name": "Wolt: Careers Site Department",
+        "value": "Sales & Merchant Operations",
+        "value_type": "single_select"
+      },
+      {
+        "id": 50331873,
+        "name": "Business Title",
+        "value": null,
+        "value_type": "short_text"
+      },
+      {
+        "id": 54550527,
+        "name": "Fountain HVH",
+        "value": null,
+        "value_type": "yes_no"
+      },
+      {
+        "id": 54550663,
+        "name": "Fountain Opening ID",
+        "value": null,
+        "value_type": "short_text"
+      }
+    ],
+    "id": 8023845,
+    "updated_at": "2026-06-29T04:24:44-04:00",
+    "requisition_id": "2026.05811",
+    "title": "Enterprise Sales Team Lead",
+    "company_name": "Wolt - English",
+    "first_published": "2026-06-24T05:37:01-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Wolt",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.greenhouse.io/wolt/jobs/7953769",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": true
+      }
+    ],
+    "internal_job_id": 3453339,
+    "location": {
+      "name": "Stockholm, Sweden"
+    },
+    "metadata": [
+      {
+        "id": 875125,
+        "name": "Availability Date",
+        "value": "2026-05-22",
+        "value_type": "date"
+      },
+      {
+        "id": 875200,
+        "name": "Earliest Hire Date",
+        "value": "2026-05-22",
+        "value_type": "date"
+      },
+      {
+        "id": 170345,
+        "name": "Business Line",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 170346,
+        "name": "Market",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 172948,
+        "name": "Entity",
+        "value": "Wolt Sverige AB",
+        "value_type": "single_select"
+      },
+      {
+        "id": 174556,
+        "name": "Job Family",
+        "value": "SMB Sales",
+        "value_type": "single_select"
+      },
+      {
+        "id": 1495483,
+        "name": "Engineering Discipline",
+        "value": null,
+        "value_type": "multi_select"
+      },
+      {
+        "id": 172717,
+        "name": "Job Location",
+        "value": "Stockholm",
+        "value_type": "single_select"
+      },
+      {
+        "id": 875215,
+        "name": "Time Type",
+        "value": "Full time",
+        "value_type": "single_select"
+      },
+      {
+        "id": 923113,
+        "name": "Hiring Manager with Job Title",
+        "value": "Outside sales, Sweden (Andrea Moller) - SMB Team Lead",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172248,
+        "name": "Careers Page Sorting: Department",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 32781020,
+        "name": "US1 - Base Salary Band Midpoint",
+        "value": {
+          "unit": "USD",
+          "amount": "148000.0"
+        },
+        "value_type": "currency"
+      },
+      {
+        "id": 32794284,
+        "name": "US4 - Base Salary Band Minimum",
+        "value": {
+          "unit": "USD",
+          "amount": "100600.0"
+        },
+        "value_type": "currency"
+      },
+      {
+        "id": 32794304,
+        "name": "US1 - Equity Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32796921,
+        "name": "USA: Pay Transparency Range",
+        "value": {
+          "unit": "USD",
+          "max_value": "148000.0",
+          "min_value": "100600.0"
+        },
+        "value_type": "currency_range"
+      },
+      {
+        "id": 33181307,
+        "name": "Canada: Pay Transparency Range",
+        "value": {
+          "unit": "CAD",
+          "max_value": "150000.0",
+          "min_value": "120000.0"
+        },
+        "value_type": "currency_range"
+      },
+      {
+        "id": 40636812,
+        "name": "Umbrella Corp:",
+        "value": "Wolt",
+        "value_type": "single_select"
+      },
+      {
+        "id": 40689956,
+        "name": "Wolt: Careers Site Department",
+        "value": "Sales & Merchant Operations",
+        "value_type": "single_select"
+      },
+      {
+        "id": 50331873,
+        "name": "Business Title",
+        "value": null,
+        "value_type": "short_text"
+      },
+      {
+        "id": 54550527,
+        "name": "Fountain HVH",
+        "value": null,
+        "value_type": "yes_no"
+      },
+      {
+        "id": 54550663,
+        "name": "Fountain Opening ID",
+        "value": null,
+        "value_type": "short_text"
+      }
+    ],
+    "id": 7953769,
+    "updated_at": "2026-05-28T13:39:09-04:00",
+    "requisition_id": "P-107980",
+    "title": "Field Sales Specialist B2B at Wolt",
+    "company_name": "Wolt - English",
+    "first_published": "2026-05-25T05:45:07-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Wolt",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.greenhouse.io/wolt/jobs/6694602",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": true
+      }
+    ],
+    "internal_job_id": 3092356,
+    "location": {
+      "name": "Örebro, Sweden"
+    },
+    "metadata": [
+      {
+        "id": 875125,
+        "name": "Availability Date",
+        "value": "2025-01-01",
+        "value_type": "date"
+      },
+      {
+        "id": 875200,
+        "name": "Earliest Hire Date",
+        "value": "2025-01-01",
+        "value_type": "date"
+      },
+      {
+        "id": 170345,
+        "name": "Business Line",
+        "value": "Marketplace",
+        "value_type": "single_select"
+      },
+      {
+        "id": 170346,
+        "name": "Market",
+        "value": "Sweden",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172948,
+        "name": "Entity",
+        "value": "Wolt Services Sverige AB",
+        "value_type": "single_select"
+      },
+      {
+        "id": 174556,
+        "name": "Job Family",
+        "value": "Fulfillment",
+        "value_type": "single_select"
+      },
+      {
+        "id": 1495483,
+        "name": "Engineering Discipline",
+        "value": null,
+        "value_type": "multi_select"
+      },
+      {
+        "id": 172717,
+        "name": "Job Location",
+        "value": "Örebro (WM)",
+        "value_type": "single_select"
+      },
+      {
+        "id": 875215,
+        "name": "Time Type",
+        "value": "Part time",
+        "value_type": "single_select"
+      },
+      {
+        "id": 923113,
+        "name": "Hiring Manager with Job Title",
+        "value": "Örebro, WM Sweden (Nora Brunström) - Store Manager (WM)",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172248,
+        "name": "Careers Page Sorting: Department",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 32781020,
+        "name": "US1 - Base Salary Band Midpoint",
+        "value": {
+          "unit": "USD",
+          "amount": "21.8"
+        },
+        "value_type": "currency"
+      },
+      {
+        "id": 32794284,
+        "name": "US4 - Base Salary Band Minimum",
+        "value": {
+          "unit": "USD",
+          "amount": "14.8"
+        },
+        "value_type": "currency"
+      },
+      {
+        "id": 32794304,
+        "name": "US1 - Equity Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32796921,
+        "name": "USA: Pay Transparency Range",
+        "value": {
+          "unit": "USD",
+          "max_value": "21.8",
+          "min_value": "14.8"
+        },
+        "value_type": "currency_range"
+      },
+      {
+        "id": 33181307,
+        "name": "Canada: Pay Transparency Range",
+        "value": {
+          "unit": "CAD",
+          "max_value": "18.3",
+          "min_value": "14.6"
+        },
+        "value_type": "currency_range"
+      },
+      {
+        "id": 40636812,
+        "name": "Umbrella Corp:",
+        "value": "Wolt",
+        "value_type": "single_select"
+      },
+      {
+        "id": 40689956,
+        "name": "Wolt: Careers Site Department",
+        "value": "Store",
+        "value_type": "single_select"
+      },
+      {
+        "id": 50331873,
+        "name": "Business Title",
+        "value": "Grocery Associate (WM)",
+        "value_type": "short_text"
+      },
+      {
+        "id": 54550527,
+        "name": "Fountain HVH",
+        "value": null,
+        "value_type": "yes_no"
+      },
+      {
+        "id": 54550663,
+        "name": "Fountain Opening ID",
+        "value": null,
+        "value_type": "short_text"
+      }
+    ],
+    "id": 6694602,
+    "updated_at": "2026-06-17T18:34:34-04:00",
+    "requisition_id": "EG.2025.8057",
+    "title": "Grocery Associate",
+    "company_name": "Wolt - English",
+    "first_published": "2025-03-20T09:22:43-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Wolt",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.greenhouse.io/wolt/jobs/6694964",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": true
+      }
+    ],
+    "internal_job_id": 3092520,
+    "location": {
+      "name": "Stockholm, Sweden"
+    },
+    "metadata": [
+      {
+        "id": 875125,
+        "name": "Availability Date",
+        "value": "2025-01-01",
+        "value_type": "date"
+      },
+      {
+        "id": 875200,
+        "name": "Earliest Hire Date",
+        "value": "2025-01-01",
+        "value_type": "date"
+      },
+      {
+        "id": 170345,
+        "name": "Business Line",
+        "value": "Marketplace",
+        "value_type": "single_select"
+      },
+      {
+        "id": 170346,
+        "name": "Market",
+        "value": "Sweden",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172948,
+        "name": "Entity",
+        "value": "Wolt Services Sverige AB",
+        "value_type": "single_select"
+      },
+      {
+        "id": 174556,
+        "name": "Job Family",
+        "value": "Fulfillment",
+        "value_type": "single_select"
+      },
+      {
+        "id": 1495483,
+        "name": "Engineering Discipline",
+        "value": null,
+        "value_type": "multi_select"
+      },
+      {
+        "id": 172717,
+        "name": "Job Location",
+        "value": "Stockholm City (WM)",
+        "value_type": "single_select"
+      },
+      {
+        "id": 875215,
+        "name": "Time Type",
+        "value": "Part time",
+        "value_type": "single_select"
+      },
+      {
+        "id": 923113,
+        "name": "Hiring Manager with Job Title",
+        "value": "Solna, WM Sweden (Catalina Gomez Velasquez) - Store Manager (WM)",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172248,
+        "name": "Careers Page Sorting: Department",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 32781020,
+        "name": "US1 - Base Salary Band Midpoint",
+        "value": {
+          "unit": "USD",
+          "amount": "21.8"
+        },
+        "value_type": "currency"
+      },
+      {
+        "id": 32794284,
+        "name": "US4 - Base Salary Band Minimum",
+        "value": {
+          "unit": "USD",
+          "amount": "14.8"
+        },
+        "value_type": "currency"
+      },
+      {
+        "id": 32794304,
+        "name": "US1 - Equity Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32796921,
+        "name": "USA: Pay Transparency Range",
+        "value": {
+          "unit": "USD",
+          "max_value": "21.8",
+          "min_value": "14.8"
+        },
+        "value_type": "currency_range"
+      },
+      {
+        "id": 33181307,
+        "name": "Canada: Pay Transparency Range",
+        "value": {
+          "unit": "CAD",
+          "max_value": "18.3",
+          "min_value": "14.6"
+        },
+        "value_type": "currency_range"
+      },
+      {
+        "id": 40636812,
+        "name": "Umbrella Corp:",
+        "value": "Wolt",
+        "value_type": "single_select"
+      },
+      {
+        "id": 40689956,
+        "name": "Wolt: Careers Site Department",
+        "value": "Store",
+        "value_type": "single_select"
+      },
+      {
+        "id": 50331873,
+        "name": "Business Title",
+        "value": "Grocery Associate (WM)",
+        "value_type": "short_text"
+      },
+      {
+        "id": 54550527,
+        "name": "Fountain HVH",
+        "value": null,
+        "value_type": "yes_no"
+      },
+      {
+        "id": 54550663,
+        "name": "Fountain Opening ID",
+        "value": null,
+        "value_type": "short_text"
+      }
+    ],
+    "id": 6694964,
+    "updated_at": "2026-06-17T18:35:28-04:00",
+    "requisition_id": "EG.2025.8095",
+    "title": "Grocery Associate - Youth Workers",
+    "company_name": "Wolt - English",
+    "first_published": "2025-04-16T08:20:22-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Wolt",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.greenhouse.io/wolt/jobs/7673115",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": true
+      }
+    ],
+    "internal_job_id": 3376375,
+    "location": {
+      "name": "Malmö, Sweden"
+    },
+    "metadata": [
+      {
+        "id": 875125,
+        "name": "Availability Date",
+        "value": "2026-03-03",
+        "value_type": "date"
+      },
+      {
+        "id": 875200,
+        "name": "Earliest Hire Date",
+        "value": "2026-03-03",
+        "value_type": "date"
+      },
+      {
+        "id": 170345,
+        "name": "Business Line",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 170346,
+        "name": "Market",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 172948,
+        "name": "Entity",
+        "value": "Wolt Services Sverige AB",
+        "value_type": "single_select"
+      },
+      {
+        "id": 174556,
+        "name": "Job Family",
+        "value": "Fulfillment",
+        "value_type": "single_select"
+      },
+      {
+        "id": 1495483,
+        "name": "Engineering Discipline",
+        "value": null,
+        "value_type": "multi_select"
+      },
+      {
+        "id": 172717,
+        "name": "Job Location",
+        "value": "Malmö (WM)",
+        "value_type": "single_select"
+      },
+      {
+        "id": 875215,
+        "name": "Time Type",
+        "value": "Part time",
+        "value_type": "single_select"
+      },
+      {
+        "id": 923113,
+        "name": "Hiring Manager with Job Title",
+        "value": "Malmo, WM Sweden (Lucia Lopez Martinez) - Store Manager (WM)",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172248,
+        "name": "Careers Page Sorting: Department",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 32781020,
+        "name": "US1 - Base Salary Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794284,
+        "name": "US4 - Base Salary Band Minimum",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794304,
+        "name": "US1 - Equity Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32796921,
+        "name": "USA: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 33181307,
+        "name": "Canada: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 40636812,
+        "name": "Umbrella Corp:",
+        "value": "Wolt",
+        "value_type": "single_select"
+      },
+      {
+        "id": 40689956,
+        "name": "Wolt: Careers Site Department",
+        "value": "Wolt Market Store",
+        "value_type": "single_select"
+      },
+      {
+        "id": 50331873,
+        "name": "Business Title",
+        "value": null,
+        "value_type": "short_text"
+      },
+      {
+        "id": 54550527,
+        "name": "Fountain HVH",
+        "value": null,
+        "value_type": "yes_no"
+      },
+      {
+        "id": 54550663,
+        "name": "Fountain Opening ID",
+        "value": null,
+        "value_type": "short_text"
+      }
+    ],
+    "id": 7673115,
+    "updated_at": "2026-06-08T04:26:42-04:00",
+    "requisition_id": "P-102943",
+    "title": "Grocery Shift Lead",
+    "company_name": "Wolt - English",
+    "first_published": "2026-03-03T13:45:14-05:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Wolt",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.greenhouse.io/wolt/jobs/7984611",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": true
+      }
+    ],
+    "internal_job_id": 3464958,
+    "location": {
+      "name": "Stockholm, Sweden"
+    },
+    "metadata": [
+      {
+        "id": 875125,
+        "name": "Availability Date",
+        "value": "2026-09-13",
+        "value_type": "date"
+      },
+      {
+        "id": 875200,
+        "name": "Earliest Hire Date",
+        "value": "2026-09-13",
+        "value_type": "date"
+      },
+      {
+        "id": 170345,
+        "name": "Business Line",
+        "value": "Marketplace",
+        "value_type": "single_select"
+      },
+      {
+        "id": 170346,
+        "name": "Market",
+        "value": "Sweden",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172948,
+        "name": "Entity",
+        "value": "Wolt Sverige AB",
+        "value_type": "single_select"
+      },
+      {
+        "id": 174556,
+        "name": "Job Family",
+        "value": "SMB Account Management",
+        "value_type": "single_select"
+      },
+      {
+        "id": 1495483,
+        "name": "Engineering Discipline",
+        "value": null,
+        "value_type": "multi_select"
+      },
+      {
+        "id": 172717,
+        "name": "Job Location",
+        "value": "Stockholm",
+        "value_type": "single_select"
+      },
+      {
+        "id": 875215,
+        "name": "Time Type",
+        "value": "Full time",
+        "value_type": "single_select"
+      },
+      {
+        "id": 923113,
+        "name": "Hiring Manager with Job Title",
+        "value": "Account Management, Sweden (Johanna Bearder) - Country Lead, Retail",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172248,
+        "name": "Careers Page Sorting: Department",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 32781020,
+        "name": "US1 - Base Salary Band Midpoint",
+        "value": {
+          "unit": "USD",
+          "amount": "0.0"
+        },
+        "value_type": "currency"
+      },
+      {
+        "id": 32794284,
+        "name": "US4 - Base Salary Band Minimum",
+        "value": {
+          "unit": "USD",
+          "amount": "0.0"
+        },
+        "value_type": "currency"
+      },
+      {
+        "id": 32794304,
+        "name": "US1 - Equity Band Midpoint",
+        "value": {
+          "unit": "USD",
+          "amount": "50000.0"
+        },
+        "value_type": "currency"
+      },
+      {
+        "id": 32796921,
+        "name": "USA: Pay Transparency Range",
+        "value": {
+          "unit": "USD",
+          "max_value": "0.0",
+          "min_value": "0.0"
+        },
+        "value_type": "currency_range"
+      },
+      {
+        "id": 33181307,
+        "name": "Canada: Pay Transparency Range",
+        "value": {
+          "unit": "CAD",
+          "max_value": "0.0",
+          "min_value": "0.0"
+        },
+        "value_type": "currency_range"
+      },
+      {
+        "id": 40636812,
+        "name": "Umbrella Corp:",
+        "value": "Wolt",
+        "value_type": "single_select"
+      },
+      {
+        "id": 40689956,
+        "name": "Wolt: Careers Site Department",
+        "value": "Sales & Merchant Operations",
+        "value_type": "single_select"
+      },
+      {
+        "id": 50331873,
+        "name": "Business Title",
+        "value": null,
+        "value_type": "short_text"
+      },
+      {
+        "id": 54550527,
+        "name": "Fountain HVH",
+        "value": null,
+        "value_type": "yes_no"
+      },
+      {
+        "id": 54550663,
+        "name": "Fountain Opening ID",
+        "value": null,
+        "value_type": "short_text"
+      }
+    ],
+    "id": 7984611,
+    "updated_at": "2026-06-12T14:34:58-04:00",
+    "requisition_id": "2025.07604",
+    "title": "Key Account Manager  - Retail",
+    "company_name": "Wolt - English",
+    "first_published": "2026-06-05T08:45:56-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Wolt",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.greenhouse.io/wolt/jobs/7653853",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": true
+      }
+    ],
+    "internal_job_id": 3370893,
+    "location": {
+      "name": "Berlin, Germany; Stockholm, Sweden"
+    },
+    "metadata": [
+      {
+        "id": 875125,
+        "name": "Availability Date",
+        "value": "2025-06-03",
+        "value_type": "date"
+      },
+      {
+        "id": 875200,
+        "name": "Earliest Hire Date",
+        "value": "2025-06-23",
+        "value_type": "date"
+      },
+      {
+        "id": 170345,
+        "name": "Business Line",
+        "value": "Marketplace",
+        "value_type": "single_select"
+      },
+      {
+        "id": 170346,
+        "name": "Market",
+        "value": "Finland",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172948,
+        "name": "Entity",
+        "value": "Wolt Development Sverige AB",
+        "value_type": "single_select"
+      },
+      {
+        "id": 174556,
+        "name": "Job Family",
+        "value": "Product Management",
+        "value_type": "single_select"
+      },
+      {
+        "id": 1495483,
+        "name": "Engineering Discipline",
+        "value": null,
+        "value_type": "multi_select"
+      },
+      {
+        "id": 172717,
+        "name": "Job Location",
+        "value": "Stockholm",
+        "value_type": "single_select"
+      },
+      {
+        "id": 875215,
+        "name": "Time Type",
+        "value": "Full time",
+        "value_type": "single_select"
+      },
+      {
+        "id": 923113,
+        "name": "Hiring Manager with Job Title",
+        "value": "Courier Product (Vincent Ho-Tin-Noé (Inherited)) - CPO",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172248,
+        "name": "Careers Page Sorting: Department",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 32781020,
+        "name": "US1 - Base Salary Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794284,
+        "name": "US4 - Base Salary Band Minimum",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794304,
+        "name": "US1 - Equity Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32796921,
+        "name": "USA: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 33181307,
+        "name": "Canada: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 40636812,
+        "name": "Umbrella Corp:",
+        "value": "Wolt",
+        "value_type": "single_select"
+      },
+      {
+        "id": 40689956,
+        "name": "Wolt: Careers Site Department",
+        "value": "Product Management",
+        "value_type": "single_select"
+      },
+      {
+        "id": 50331873,
+        "name": "Business Title",
+        "value": null,
+        "value_type": "short_text"
+      },
+      {
+        "id": 54550527,
+        "name": "Fountain HVH",
+        "value": null,
+        "value_type": "yes_no"
+      },
+      {
+        "id": 54550663,
+        "name": "Fountain Opening ID",
+        "value": null,
+        "value_type": "short_text"
+      }
+    ],
+    "id": 7653853,
+    "updated_at": "2026-06-11T10:51:03-04:00",
+    "requisition_id": null,
+    "title": "Product Manager, Courier Delivery Experience",
+    "company_name": "Wolt - English",
+    "first_published": "2026-03-11T11:22:39-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Wolt",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.greenhouse.io/wolt/jobs/8000817",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": true
+      }
+    ],
+    "internal_job_id": 3370893,
+    "location": {
+      "name": "Berlin, Germany; Stockholm, Sweden"
+    },
+    "metadata": [
+      {
+        "id": 875125,
+        "name": "Availability Date",
+        "value": "2025-06-03",
+        "value_type": "date"
+      },
+      {
+        "id": 875200,
+        "name": "Earliest Hire Date",
+        "value": "2025-06-23",
+        "value_type": "date"
+      },
+      {
+        "id": 170345,
+        "name": "Business Line",
+        "value": "Marketplace",
+        "value_type": "single_select"
+      },
+      {
+        "id": 170346,
+        "name": "Market",
+        "value": "Finland",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172948,
+        "name": "Entity",
+        "value": "Wolt Development Sverige AB",
+        "value_type": "single_select"
+      },
+      {
+        "id": 174556,
+        "name": "Job Family",
+        "value": "Product Management",
+        "value_type": "single_select"
+      },
+      {
+        "id": 1495483,
+        "name": "Engineering Discipline",
+        "value": null,
+        "value_type": "multi_select"
+      },
+      {
+        "id": 172717,
+        "name": "Job Location",
+        "value": "Stockholm",
+        "value_type": "single_select"
+      },
+      {
+        "id": 875215,
+        "name": "Time Type",
+        "value": "Full time",
+        "value_type": "single_select"
+      },
+      {
+        "id": 923113,
+        "name": "Hiring Manager with Job Title",
+        "value": "Courier Product (Vincent Ho-Tin-Noé (Inherited)) - CPO",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172248,
+        "name": "Careers Page Sorting: Department",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 32781020,
+        "name": "US1 - Base Salary Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794284,
+        "name": "US4 - Base Salary Band Minimum",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794304,
+        "name": "US1 - Equity Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32796921,
+        "name": "USA: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 33181307,
+        "name": "Canada: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 40636812,
+        "name": "Umbrella Corp:",
+        "value": "Wolt",
+        "value_type": "single_select"
+      },
+      {
+        "id": 40689956,
+        "name": "Wolt: Careers Site Department",
+        "value": "Product Management",
+        "value_type": "single_select"
+      },
+      {
+        "id": 50331873,
+        "name": "Business Title",
+        "value": null,
+        "value_type": "short_text"
+      },
+      {
+        "id": 54550527,
+        "name": "Fountain HVH",
+        "value": null,
+        "value_type": "yes_no"
+      },
+      {
+        "id": 54550663,
+        "name": "Fountain Opening ID",
+        "value": null,
+        "value_type": "short_text"
+      }
+    ],
+    "id": 8000817,
+    "updated_at": "2026-06-11T10:51:08-04:00",
+    "requisition_id": null,
+    "title": "Product Manager, Delivery Promise",
+    "company_name": "Wolt - English",
+    "first_published": "2026-06-11T10:51:08-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Wolt",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.greenhouse.io/wolt/jobs/8007389",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": true
+      }
+    ],
+    "internal_job_id": 3471941,
+    "location": {
+      "name": "Stockholm, Sweden"
+    },
+    "metadata": [
+      {
+        "id": 875125,
+        "name": "Availability Date",
+        "value": "2026-08-22",
+        "value_type": "date"
+      },
+      {
+        "id": 875200,
+        "name": "Earliest Hire Date",
+        "value": "2026-08-22",
+        "value_type": "date"
+      },
+      {
+        "id": 170345,
+        "name": "Business Line",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 170346,
+        "name": "Market",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 172948,
+        "name": "Entity",
+        "value": "Wolt Sverige AB",
+        "value_type": "single_select"
+      },
+      {
+        "id": 174556,
+        "name": "Job Family",
+        "value": "SMB Sales",
+        "value_type": "single_select"
+      },
+      {
+        "id": 1495483,
+        "name": "Engineering Discipline",
+        "value": null,
+        "value_type": "multi_select"
+      },
+      {
+        "id": 172717,
+        "name": "Job Location",
+        "value": "Stockholm",
+        "value_type": "single_select"
+      },
+      {
+        "id": 875215,
+        "name": "Time Type",
+        "value": "Full time",
+        "value_type": "single_select"
+      },
+      {
+        "id": 923113,
+        "name": "Hiring Manager with Job Title",
+        "value": "Philip Hökvinge - Team Lead Retail/Grocery Sales",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172248,
+        "name": "Careers Page Sorting: Department",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 32781020,
+        "name": "US1 - Base Salary Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794284,
+        "name": "US4 - Base Salary Band Minimum",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794304,
+        "name": "US1 - Equity Band Midpoint",
+        "value": {
+          "unit": "USD",
+          "amount": "55000.0"
+        },
+        "value_type": "currency"
+      },
+      {
+        "id": 32796921,
+        "name": "USA: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 33181307,
+        "name": "Canada: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 40636812,
+        "name": "Umbrella Corp:",
+        "value": "Wolt",
+        "value_type": "single_select"
+      },
+      {
+        "id": 40689956,
+        "name": "Wolt: Careers Site Department",
+        "value": "Sales & Merchant Operations",
+        "value_type": "single_select"
+      },
+      {
+        "id": 50331873,
+        "name": "Business Title",
+        "value": null,
+        "value_type": "short_text"
+      },
+      {
+        "id": 54550527,
+        "name": "Fountain HVH",
+        "value": null,
+        "value_type": "yes_no"
+      },
+      {
+        "id": 54550663,
+        "name": "Fountain Opening ID",
+        "value": null,
+        "value_type": "short_text"
+      }
+    ],
+    "id": 8007389,
+    "updated_at": "2026-06-15T14:35:30-04:00",
+    "requisition_id": "2026.04699",
+    "title": "Sales Manager, Retail",
+    "company_name": "Wolt - English",
+    "first_published": "2026-06-15T14:33:53-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Wolt",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.greenhouse.io/wolt/jobs/8006892",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": true
+      }
+    ],
+    "internal_job_id": 3471698,
+    "location": {
+      "name": "Berlin, Germany; Helsinki, Finland; Stockholm, Sweden"
+    },
+    "metadata": [
+      {
+        "id": 875125,
+        "name": "Availability Date",
+        "value": "2026-09-07",
+        "value_type": "date"
+      },
+      {
+        "id": 875200,
+        "name": "Earliest Hire Date",
+        "value": "2026-09-07",
+        "value_type": "date"
+      },
+      {
+        "id": 170345,
+        "name": "Business Line",
+        "value": "Marketplace",
+        "value_type": "single_select"
+      },
+      {
+        "id": 170346,
+        "name": "Market",
+        "value": "Wolt HQ",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172948,
+        "name": "Entity",
+        "value": "Wolt Development Deutschland GmbH",
+        "value_type": "single_select"
+      },
+      {
+        "id": 174556,
+        "name": "Job Family",
+        "value": "Business Intelligence",
+        "value_type": "single_select"
+      },
+      {
+        "id": 1495483,
+        "name": "Engineering Discipline",
+        "value": null,
+        "value_type": "multi_select"
+      },
+      {
+        "id": 172717,
+        "name": "Job Location",
+        "value": "Berlin HQ",
+        "value_type": "single_select"
+      },
+      {
+        "id": 875215,
+        "name": "Time Type",
+        "value": "Full time",
+        "value_type": "single_select"
+      },
+      {
+        "id": 923113,
+        "name": "Hiring Manager with Job Title",
+        "value": "Essi Grönroos - Manager, Analytics Engineering",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172248,
+        "name": "Careers Page Sorting: Department",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 32781020,
+        "name": "US1 - Base Salary Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794284,
+        "name": "US4 - Base Salary Band Minimum",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794304,
+        "name": "US1 - Equity Band Midpoint",
+        "value": {
+          "unit": "USD",
+          "amount": "190000.0"
+        },
+        "value_type": "currency"
+      },
+      {
+        "id": 32796921,
+        "name": "USA: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 33181307,
+        "name": "Canada: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 40636812,
+        "name": "Umbrella Corp:",
+        "value": "Wolt",
+        "value_type": "single_select"
+      },
+      {
+        "id": 40689956,
+        "name": "Wolt: Careers Site Department",
+        "value": "Data & Analytics",
+        "value_type": "single_select"
+      },
+      {
+        "id": 50331873,
+        "name": "Business Title",
+        "value": null,
+        "value_type": "short_text"
+      },
+      {
+        "id": 54550527,
+        "name": "Fountain HVH",
+        "value": null,
+        "value_type": "yes_no"
+      },
+      {
+        "id": 54550663,
+        "name": "Fountain Opening ID",
+        "value": null,
+        "value_type": "short_text"
+      }
+    ],
+    "id": 8006892,
+    "updated_at": "2026-06-16T11:48:50-04:00",
+    "requisition_id": "2026.05274",
+    "title": "Senior Analytics Engineer, Merchant",
+    "company_name": "Wolt - English",
+    "first_published": "2026-06-16T11:48:50-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Wolt",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.greenhouse.io/wolt/jobs/7434744",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": true
+      }
+    ],
+    "internal_job_id": 3282239,
+    "location": {
+      "name": "Helsinki, Finland; Stockholm, Sweden"
+    },
+    "metadata": [
+      {
+        "id": 875125,
+        "name": "Availability Date",
+        "value": "2025-11-20",
+        "value_type": "date"
+      },
+      {
+        "id": 875200,
+        "name": "Earliest Hire Date",
+        "value": "2025-11-20",
+        "value_type": "date"
+      },
+      {
+        "id": 170345,
+        "name": "Business Line",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 170346,
+        "name": "Market",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 172948,
+        "name": "Entity",
+        "value": "Wolt Oy",
+        "value_type": "single_select"
+      },
+      {
+        "id": 174556,
+        "name": "Job Family",
+        "value": "Software Engineering",
+        "value_type": "single_select"
+      },
+      {
+        "id": 1495483,
+        "name": "Engineering Discipline",
+        "value": null,
+        "value_type": "multi_select"
+      },
+      {
+        "id": 172717,
+        "name": "Job Location",
+        "value": "Helsinki HQ",
+        "value_type": "single_select"
+      },
+      {
+        "id": 875215,
+        "name": "Time Type",
+        "value": "Full time",
+        "value_type": "single_select"
+      },
+      {
+        "id": 923113,
+        "name": "Hiring Manager with Job Title",
+        "value": "Consumer Platform (Philip Dexter) - Engineering Team Lead",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172248,
+        "name": "Careers Page Sorting: Department",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 32781020,
+        "name": "US1 - Base Salary Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794284,
+        "name": "US4 - Base Salary Band Minimum",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794304,
+        "name": "US1 - Equity Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32796921,
+        "name": "USA: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 33181307,
+        "name": "Canada: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 40636812,
+        "name": "Umbrella Corp:",
+        "value": "Wolt",
+        "value_type": "single_select"
+      },
+      {
+        "id": 40689956,
+        "name": "Wolt: Careers Site Department",
+        "value": "Engineering",
+        "value_type": "single_select"
+      },
+      {
+        "id": 50331873,
+        "name": "Business Title",
+        "value": null,
+        "value_type": "short_text"
+      },
+      {
+        "id": 54550527,
+        "name": "Fountain HVH",
+        "value": null,
+        "value_type": "yes_no"
+      },
+      {
+        "id": 54550663,
+        "name": "Fountain Opening ID",
+        "value": null,
+        "value_type": "short_text"
+      }
+    ],
+    "id": 7434744,
+    "updated_at": "2026-07-02T06:57:04-04:00",
+    "requisition_id": "P-97089",
+    "title": "Senior Android Engineer",
+    "company_name": "Wolt - English",
+    "first_published": "2025-12-02T03:39:01-05:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Wolt",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.greenhouse.io/wolt/jobs/7938129",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": true
+      }
+    ],
+    "internal_job_id": 3448861,
+    "location": {
+      "name": "Berlin, Germany; Helsinki, Finland; Stockholm, Sweden"
+    },
+    "metadata": [
+      {
+        "id": 875125,
+        "name": "Availability Date",
+        "value": "2026-05-18",
+        "value_type": "date"
+      },
+      {
+        "id": 875200,
+        "name": "Earliest Hire Date",
+        "value": "2026-05-18",
+        "value_type": "date"
+      },
+      {
+        "id": 170345,
+        "name": "Business Line",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 170346,
+        "name": "Market",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 172948,
+        "name": "Entity",
+        "value": "Wolt Development Deutschland GmbH",
+        "value_type": "single_select"
+      },
+      {
+        "id": 174556,
+        "name": "Job Family",
+        "value": "Software Engineering",
+        "value_type": "single_select"
+      },
+      {
+        "id": 1495483,
+        "name": "Engineering Discipline",
+        "value": null,
+        "value_type": "multi_select"
+      },
+      {
+        "id": 172717,
+        "name": "Job Location",
+        "value": "Berlin HQ",
+        "value_type": "single_select"
+      },
+      {
+        "id": 875215,
+        "name": "Time Type",
+        "value": "Full time",
+        "value_type": "single_select"
+      },
+      {
+        "id": 923113,
+        "name": "Hiring Manager with Job Title",
+        "value": "Logistics (Florian Aspart) - Head of Engineering",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172248,
+        "name": "Careers Page Sorting: Department",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 32781020,
+        "name": "US1 - Base Salary Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794284,
+        "name": "US4 - Base Salary Band Minimum",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794304,
+        "name": "US1 - Equity Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32796921,
+        "name": "USA: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 33181307,
+        "name": "Canada: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 40636812,
+        "name": "Umbrella Corp:",
+        "value": "Wolt",
+        "value_type": "single_select"
+      },
+      {
+        "id": 40689956,
+        "name": "Wolt: Careers Site Department",
+        "value": "Engineering",
+        "value_type": "single_select"
+      },
+      {
+        "id": 50331873,
+        "name": "Business Title",
+        "value": null,
+        "value_type": "short_text"
+      },
+      {
+        "id": 54550527,
+        "name": "Fountain HVH",
+        "value": null,
+        "value_type": "yes_no"
+      },
+      {
+        "id": 54550663,
+        "name": "Fountain Opening ID",
+        "value": null,
+        "value_type": "short_text"
+      }
+    ],
+    "id": 7938129,
+    "updated_at": "2026-05-28T13:39:09-04:00",
+    "requisition_id": "2026.03213",
+    "title": "Senior Applied Scientist, Operations Research",
+    "company_name": "Wolt - English",
+    "first_published": "2026-05-18T07:35:10-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Wolt",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.greenhouse.io/wolt/jobs/7841556",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": true
+      }
+    ],
+    "internal_job_id": 3419017,
+    "location": {
+      "name": "Berlin, Germany; Budapest, Hungary; Helsinki, Finland; London, United Kingdom; Stockholm, Sweden; Tallinn, Estonia"
+    },
+    "metadata": [
+      {
+        "id": 875125,
+        "name": "Availability Date",
+        "value": "2026-04-22",
+        "value_type": "date"
+      },
+      {
+        "id": 875200,
+        "name": "Earliest Hire Date",
+        "value": "2026-04-22",
+        "value_type": "date"
+      },
+      {
+        "id": 170345,
+        "name": "Business Line",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 170346,
+        "name": "Market",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 172948,
+        "name": "Entity",
+        "value": "Wolt Oy",
+        "value_type": "single_select"
+      },
+      {
+        "id": 174556,
+        "name": "Job Family",
+        "value": "IT Infrastructure",
+        "value_type": "single_select"
+      },
+      {
+        "id": 1495483,
+        "name": "Engineering Discipline",
+        "value": null,
+        "value_type": "multi_select"
+      },
+      {
+        "id": 172717,
+        "name": "Job Location",
+        "value": "Helsinki HQ",
+        "value_type": "single_select"
+      },
+      {
+        "id": 875215,
+        "name": "Time Type",
+        "value": "Full time",
+        "value_type": "single_select"
+      },
+      {
+        "id": 923113,
+        "name": "Hiring Manager with Job Title",
+        "value": "Infrastructure (Gautam Kulkarni) - Manager, Infrastructure",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172248,
+        "name": "Careers Page Sorting: Department",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 32781020,
+        "name": "US1 - Base Salary Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794284,
+        "name": "US4 - Base Salary Band Minimum",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794304,
+        "name": "US1 - Equity Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32796921,
+        "name": "USA: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 33181307,
+        "name": "Canada: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 40636812,
+        "name": "Umbrella Corp:",
+        "value": "Wolt",
+        "value_type": "single_select"
+      },
+      {
+        "id": 40689956,
+        "name": "Wolt: Careers Site Department",
+        "value": "IT",
+        "value_type": "single_select"
+      },
+      {
+        "id": 50331873,
+        "name": "Business Title",
+        "value": null,
+        "value_type": "short_text"
+      },
+      {
+        "id": 54550527,
+        "name": "Fountain HVH",
+        "value": null,
+        "value_type": "yes_no"
+      },
+      {
+        "id": 54550663,
+        "name": "Fountain Opening ID",
+        "value": null,
+        "value_type": "short_text"
+      }
+    ],
+    "id": 7841556,
+    "updated_at": "2026-06-19T09:45:58-04:00",
+    "requisition_id": "2026.00305",
+    "title": "Senior Corporate Infrastructure Engineer",
+    "company_name": "Wolt - English",
+    "first_published": "2026-04-22T08:20:51-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Wolt",
+    "_source": "greenhouse"
+  },
+  {
+    "absolute_url": "https://job-boards.greenhouse.io/wolt/jobs/7836247",
+    "data_compliance": [
+      {
+        "type": "gdpr",
+        "requires_consent": false,
+        "requires_processing_consent": false,
+        "requires_retention_consent": false,
+        "retention_period": null,
+        "demographic_data_consent_applies": true
+      }
+    ],
+    "internal_job_id": 3417884,
+    "location": {
+      "name": "Berlin, Germany; Budapest, Hungary; Helsinki, Finland; London, United Kingdom; Stockholm, Sweden; Tallinn, Estonia"
+    },
+    "metadata": [
+      {
+        "id": 875125,
+        "name": "Availability Date",
+        "value": "2026-04-21",
+        "value_type": "date"
+      },
+      {
+        "id": 875200,
+        "name": "Earliest Hire Date",
+        "value": "2026-04-21",
+        "value_type": "date"
+      },
+      {
+        "id": 170345,
+        "name": "Business Line",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 170346,
+        "name": "Market",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 172948,
+        "name": "Entity",
+        "value": "Wolt Oy",
+        "value_type": "single_select"
+      },
+      {
+        "id": 174556,
+        "name": "Job Family",
+        "value": "IT Infrastructure",
+        "value_type": "single_select"
+      },
+      {
+        "id": 1495483,
+        "name": "Engineering Discipline",
+        "value": null,
+        "value_type": "multi_select"
+      },
+      {
+        "id": 172717,
+        "name": "Job Location",
+        "value": "Helsinki HQ",
+        "value_type": "single_select"
+      },
+      {
+        "id": 875215,
+        "name": "Time Type",
+        "value": "Full time",
+        "value_type": "single_select"
+      },
+      {
+        "id": 923113,
+        "name": "Hiring Manager with Job Title",
+        "value": "IT Infrastructure Eng (Kevin Cox) - Manager, Client Platform Engineering",
+        "value_type": "single_select"
+      },
+      {
+        "id": 172248,
+        "name": "Careers Page Sorting: Department",
+        "value": null,
+        "value_type": "single_select"
+      },
+      {
+        "id": 32781020,
+        "name": "US1 - Base Salary Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794284,
+        "name": "US4 - Base Salary Band Minimum",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32794304,
+        "name": "US1 - Equity Band Midpoint",
+        "value": null,
+        "value_type": "currency"
+      },
+      {
+        "id": 32796921,
+        "name": "USA: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 33181307,
+        "name": "Canada: Pay Transparency Range",
+        "value": null,
+        "value_type": "currency_range"
+      },
+      {
+        "id": 40636812,
+        "name": "Umbrella Corp:",
+        "value": "Wolt",
+        "value_type": "single_select"
+      },
+      {
+        "id": 40689956,
+        "name": "Wolt: Careers Site Department",
+        "value": "IT",
+        "value_type": "single_select"
+      },
+      {
+        "id": 50331873,
+        "name": "Business Title",
+        "value": null,
+        "value_type": "short_text"
+      },
+      {
+        "id": 54550527,
+        "name": "Fountain HVH",
+        "value": null,
+        "value_type": "yes_no"
+      },
+      {
+        "id": 54550663,
+        "name": "Fountain Opening ID",
+        "value": null,
+        "value_type": "short_text"
+      }
+    ],
+    "id": 7836247,
+    "updated_at": "2026-06-25T09:45:14-04:00",
+    "requisition_id": "2026.00306",
+    "title": "Senior IT Engineer - Device Management",
+    "company_name": "Wolt - English",
+    "first_published": "2026-04-21T10:19:31-04:00",
+    "language": "en",
+    "application_deadline": null,
+    "_company": "Wolt",
+    "_source": "greenhouse"
+  }
+]
