@@ -1,0 +1,992 @@
+[
+  {
+    "job_id": "5d3636f8-0712-4fe2-a1f4-84358440d272",
+    "raw_text": "Customer Trust and Experience Consultant (Fully Remote - Sweden) Sweden Consultant",
+    "url": "https://jobs.deel.com/klarna/job-details/5d3636f8-0712-4fe2-a1f4-84358440d272/overview",
+    "title": "Customer Trust and Experience Consultant (Fully Remote - Sweden) Sweden Consultant",
+    "location": "",
+    "commitment": null,
+    "salary": null,
+    "in_sweden": false
+  },
+  {
+    "job_id": "1067b604-07d6-4152-83f1-36ecb23b4ea4",
+    "raw_text": "Principal Engineer Stockholm Full-time kr 107,187 SEK - kr 128,624 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/1067b604-07d6-4152-83f1-36ecb23b4ea4/overview",
+    "title": "Principal Engineer",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 107,187 SEK - kr 128,624 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "87bd8299-48ef-4c79-9005-0347ecf8b054",
+    "raw_text": "Business Development Associate Vienna Full-time €69,786 EUR - €78,161 EUR",
+    "url": "https://jobs.deel.com/klarna/job-details/87bd8299-48ef-4c79-9005-0347ecf8b054/overview",
+    "title": "Business Development Associate Vienna",
+    "location": "",
+    "commitment": "Full-time",
+    "salary": "€69,786 EUR - €78,161 EUR",
+    "in_sweden": false
+  },
+  {
+    "job_id": "b3de4e27-c484-40e9-a5c7-90265ec9a2d0",
+    "raw_text": "Business Development, Partner Success Columbus Full-time $117,861 USD - $168,542 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/b3de4e27-c484-40e9-a5c7-90265ec9a2d0/overview",
+    "title": "Business Development, Partner Success",
+    "location": "Columbus",
+    "commitment": "Full-time",
+    "salary": "$117,861 USD - $168,542 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "9782e4cb-20cd-4554-bb93-1757a702e082",
+    "raw_text": "Senior Python Engineer -FinCrime Milan, Stockholm Full-time €63,236 EUR - €70,825 EUR",
+    "url": "https://jobs.deel.com/klarna/job-details/9782e4cb-20cd-4554-bb93-1757a702e082/overview",
+    "title": "Senior Python Engineer -FinCrime",
+    "location": "Milan, Stockholm",
+    "commitment": "Full-time",
+    "salary": "€63,236 EUR - €70,825 EUR",
+    "in_sweden": true
+  },
+  {
+    "job_id": "aea5b80f-9414-4ec5-bc6a-c118db1a2beb",
+    "raw_text": "Business Development Associate New York Full-time $100,701 USD - $138,951 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/aea5b80f-9414-4ec5-bc6a-c118db1a2beb/overview",
+    "title": "Business Development Associate",
+    "location": "New York",
+    "commitment": "Full-time",
+    "salary": "$100,701 USD - $138,951 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "eb349c8d-361b-4ecc-a6d5-018ab67ad63d",
+    "raw_text": "Screening Adjudication Expert London Full-time £63,417 GBP - £90,687 GBP",
+    "url": "https://jobs.deel.com/klarna/job-details/eb349c8d-361b-4ecc-a6d5-018ab67ad63d/overview",
+    "title": "Screening Adjudication Expert",
+    "location": "London",
+    "commitment": "Full-time",
+    "salary": "£63,417 GBP - £90,687 GBP",
+    "in_sweden": false
+  },
+  {
+    "job_id": "4b07845f-40b2-42b8-829b-4bda7d3041a2",
+    "raw_text": "Senior Software Engineer - Java Milan Full-time €65,133 EUR - €72,950 EUR",
+    "url": "https://jobs.deel.com/klarna/job-details/4b07845f-40b2-42b8-829b-4bda7d3041a2/overview",
+    "title": "Senior Software Engineer - Java",
+    "location": "Milan",
+    "commitment": "Full-time",
+    "salary": "€65,133 EUR - €72,950 EUR",
+    "in_sweden": false
+  },
+  {
+    "job_id": "8d0cda5f-1e62-4915-a994-bedcb458c94c",
+    "raw_text": "Delivery Manager - Partner Integration & Implementation (Klarna Payments) San Francisco Full-time $165,352 USD - $188,501 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/8d0cda5f-1e62-4915-a994-bedcb458c94c/overview",
+    "title": "Delivery Manager - Partner Integration & Implementation (Klarna Payments)",
+    "location": "San Francisco",
+    "commitment": "Full-time",
+    "salary": "$165,352 USD - $188,501 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "8bb2654c-3b97-46c0-bd93-bfd90a7a89ec",
+    "raw_text": "AML/ KYC Specialist New York Full-time $94,408 USD - $130,267 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/8bb2654c-3b97-46c0-bd93-bfd90a7a89ec/overview",
+    "title": "AML/ KYC Specialist",
+    "location": "New York",
+    "commitment": "Full-time",
+    "salary": "$94,408 USD - $130,267 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "30260d74-16d1-4466-9fd3-ecbe5a8b3ed4",
+    "raw_text": "Operational Risk Manager - Analytics Stockholm Full-time",
+    "url": "https://jobs.deel.com/klarna/job-details/30260d74-16d1-4466-9fd3-ecbe5a8b3ed4/overview",
+    "title": "Operational Risk Manager - Analytics",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": null,
+    "in_sweden": true
+  },
+  {
+    "job_id": "626138a2-7add-4323-889d-b7051d8e0630",
+    "raw_text": "Senior Solutions Engineer New York Full-time $213,154 USD - $247,259 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/626138a2-7add-4323-889d-b7051d8e0630/overview",
+    "title": "Senior Solutions Engineer",
+    "location": "New York",
+    "commitment": "Full-time",
+    "salary": "$213,154 USD - $247,259 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "755d0b4c-8231-4a74-844c-96b7afa4e68a",
+    "raw_text": "Principal Engineer Milan Full-time €93,142 EUR - €129,653 EUR",
+    "url": "https://jobs.deel.com/klarna/job-details/755d0b4c-8231-4a74-844c-96b7afa4e68a/overview",
+    "title": "Principal Engineer",
+    "location": "Milan",
+    "commitment": "Full-time",
+    "salary": "€93,142 EUR - €129,653 EUR",
+    "in_sweden": false
+  },
+  {
+    "job_id": "5d4ec96e-7eb2-4248-8f04-849cd040dced",
+    "raw_text": "Senior/Lead Data Scientist-Fraud Milan Full-time €63,236 EUR - €90,429 EUR",
+    "url": "https://jobs.deel.com/klarna/job-details/5d4ec96e-7eb2-4248-8f04-849cd040dced/overview",
+    "title": "Senior/Lead Data Scientist-Fraud",
+    "location": "Milan",
+    "commitment": "Full-time",
+    "salary": "€63,236 EUR - €90,429 EUR",
+    "in_sweden": false
+  },
+  {
+    "job_id": "51f5495c-52b6-4f13-a11a-1b145c7d90ae",
+    "raw_text": "Quality Assurance Specialist New York Full-time $112,922 USD - $126,473 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/51f5495c-52b6-4f13-a11a-1b145c7d90ae/overview",
+    "title": "Quality Assurance Specialist",
+    "location": "New York",
+    "commitment": "Full-time",
+    "salary": "$112,922 USD - $126,473 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "70f1f933-822a-4b76-b4ac-35e3589bb44d",
+    "raw_text": "Senior/Lead Data Scientist-Fraud Stockholm Full-time kr 752,814 SEK - kr 1,076,536 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/70f1f933-822a-4b76-b4ac-35e3589bb44d/overview",
+    "title": "Senior/Lead Data Scientist-Fraud",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 752,814 SEK - kr 1,076,536 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "f09d7840-4f4c-4cca-800e-9715637f9e19",
+    "raw_text": "Senior Fullstack Engineer - Javascript Stockholm Full-time kr 64,617 SEK - kr 72,371 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/f09d7840-4f4c-4cca-800e-9715637f9e19/overview",
+    "title": "Senior Fullstack Engineer - Javascript",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 64,617 SEK - kr 72,371 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "8c4948ec-560a-4169-8651-047e36f4f252",
+    "raw_text": "Incident Manager Sydney Full-time $184,806 AUD - $210,678 AUD",
+    "url": "https://jobs.deel.com/klarna/job-details/8c4948ec-560a-4169-8651-047e36f4f252/overview",
+    "title": "Incident Manager Sydney Full-time $184,806 AUD - $210,678 AUD",
+    "location": "",
+    "commitment": null,
+    "salary": null,
+    "in_sweden": false
+  },
+  {
+    "job_id": "63ee736e-dab5-437f-a5e6-beff8c6cd460",
+    "raw_text": "Principal Engineer-Client Platform Stockholm, Milan Full-time kr 1,076,536 SEK - kr 1,248,781 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/63ee736e-dab5-437f-a5e6-beff8c6cd460/overview",
+    "title": "Principal Engineer-Client Platform",
+    "location": "Stockholm, Milan",
+    "commitment": "Full-time",
+    "salary": "kr 1,076,536 SEK - kr 1,248,781 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "5250fb32-8907-4326-919b-f07d9bc1963e",
+    "raw_text": "Senior/Lead Data Scientist Stockholm Full-time kr 752,814 SEK - kr 1,076,536 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/5250fb32-8907-4326-919b-f07d9bc1963e/overview",
+    "title": "Senior/Lead Data Scientist",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 752,814 SEK - kr 1,076,536 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "4ee779e4-ebb0-4566-9326-337492cd96aa",
+    "raw_text": "Credit Data Engineer Stockholm Full-time kr 752,814 SEK - kr 843,151 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/4ee779e4-ebb0-4566-9326-337492cd96aa/overview",
+    "title": "Credit Data Engineer",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 752,814 SEK - kr 843,151 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "6b114846-5400-42a8-9525-e1d4ac6dd3fd",
+    "raw_text": "Senior Python Engineer Stockholm, Milan Full-time kr 752,814 SEK - kr 843,151 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/6b114846-5400-42a8-9525-e1d4ac6dd3fd/overview",
+    "title": "Senior Python Engineer",
+    "location": "Stockholm, Milan",
+    "commitment": "Full-time",
+    "salary": "kr 752,814 SEK - kr 843,151 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "67c4acb2-faa7-4896-8f05-fe0abb1fc0e2",
+    "raw_text": "Credit Data Engineer Milan Full-time €63,236 EUR - €70,825 EUR",
+    "url": "https://jobs.deel.com/klarna/job-details/67c4acb2-faa7-4896-8f05-fe0abb1fc0e2/overview",
+    "title": "Credit Data Engineer",
+    "location": "Milan",
+    "commitment": "Full-time",
+    "salary": "€63,236 EUR - €70,825 EUR",
+    "in_sweden": false
+  },
+  {
+    "job_id": "1dd781f9-663c-447c-8b40-74ae90740b7d",
+    "raw_text": "Financial Crime Compliance Specialist Columbus Full-time $105,394 USD - $132,206 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/1dd781f9-663c-447c-8b40-74ae90740b7d/overview",
+    "title": "Financial Crime Compliance Specialist",
+    "location": "Columbus",
+    "commitment": "Full-time",
+    "salary": "$105,394 USD - $132,206 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "c29dd9bf-0073-4fd3-8c00-7c072bc4ff8e",
+    "raw_text": "AML / Financial Crime Investigation Expert Stockholm Full-time kr 55,206 SEK - kr 69,250 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/c29dd9bf-0073-4fd3-8c00-7c072bc4ff8e/overview",
+    "title": "AML / Financial Crime Investigation Expert",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 55,206 SEK - kr 69,250 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "8b1598e2-e289-4d78-9c2a-2a269696ec16",
+    "raw_text": "AML / Financial Crime Investigation Expert New York Full-time $120,450 USD - $151,093 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/8b1598e2-e289-4d78-9c2a-2a269696ec16/overview",
+    "title": "AML / Financial Crime Investigation Expert",
+    "location": "New York",
+    "commitment": "Full-time",
+    "salary": "$120,450 USD - $151,093 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "316778f2-47a0-4499-95e1-64df55c07717",
+    "raw_text": "AML / Financial Crime Investigation Expert Columbus Full-time $105,394 USD - $132,206 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/316778f2-47a0-4499-95e1-64df55c07717/overview",
+    "title": "AML / Financial Crime Investigation Expert",
+    "location": "Columbus",
+    "commitment": "Full-time",
+    "salary": "$105,394 USD - $132,206 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "604f1f05-34a3-4151-8ad0-ea4d35f606ec",
+    "raw_text": "Senior Business Operations Specialist - Sanction Operations London Full-time £60,978 GBP - £68,295 GBP",
+    "url": "https://jobs.deel.com/klarna/job-details/604f1f05-34a3-4151-8ad0-ea4d35f606ec/overview",
+    "title": "Senior Business Operations Specialist - Sanction Operations",
+    "location": "London",
+    "commitment": "Full-time",
+    "salary": "£60,978 GBP - £68,295 GBP",
+    "in_sweden": false
+  },
+  {
+    "job_id": "bfaa4fd2-96ec-4d00-bbbe-4627474637a5",
+    "raw_text": "Quality Assurance Specialist London Full-time £60,978 GBP - £68,295 GBP",
+    "url": "https://jobs.deel.com/klarna/job-details/bfaa4fd2-96ec-4d00-bbbe-4627474637a5/overview",
+    "title": "Quality Assurance Specialist",
+    "location": "London",
+    "commitment": "Full-time",
+    "salary": "£60,978 GBP - £68,295 GBP",
+    "in_sweden": false
+  },
+  {
+    "job_id": "4c6d8fce-71aa-4c69-ba8c-425ce5c5c037",
+    "raw_text": "Quality Assurance Specialist Columbus Full-time $75,281 USD - $84,315 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/4c6d8fce-71aa-4c69-ba8c-425ce5c5c037/overview",
+    "title": "Quality Assurance Specialist",
+    "location": "Columbus",
+    "commitment": "Full-time",
+    "salary": "$75,281 USD - $84,315 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "10f7155b-bc8e-4530-8681-3b3b8be5ee36",
+    "raw_text": "Platform Software Engineer - Go Stockholm Full-time kr 56,013 SEK - kr 70,263 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/10f7155b-bc8e-4530-8681-3b3b8be5ee36/overview",
+    "title": "Platform Software Engineer - Go",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 56,013 SEK - kr 70,263 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "c1d91538-584e-4f7e-b04a-aec70de7f4b4",
+    "raw_text": "Quality Assurance Specialist Stockholm Full-time kr 50,187 SEK - kr 56,210 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/c1d91538-584e-4f7e-b04a-aec70de7f4b4/overview",
+    "title": "Quality Assurance Specialist",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 50,187 SEK - kr 56,210 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "7e0471c2-ce7b-4a21-8b6b-5e2ef8c99c13",
+    "raw_text": "FinCrime Ops Process Management Expert London Full-time £68,807 GBP - £77,064 GBP",
+    "url": "https://jobs.deel.com/klarna/job-details/7e0471c2-ce7b-4a21-8b6b-5e2ef8c99c13/overview",
+    "title": "FinCrime Ops Process Management Expert",
+    "location": "London",
+    "commitment": "Full-time",
+    "salary": "£68,807 GBP - £77,064 GBP",
+    "in_sweden": false
+  },
+  {
+    "job_id": "846a362f-2e03-4054-91cb-bf8ee87d3f34",
+    "raw_text": "Lead Data Engineer Stockholm, Milan Full-time kr 944,814 SEK - kr 1,076,536 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/846a362f-2e03-4054-91cb-bf8ee87d3f34/overview",
+    "title": "Lead Data Engineer",
+    "location": "Stockholm, Milan",
+    "commitment": "Full-time",
+    "salary": "kr 944,814 SEK - kr 1,076,536 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "a3c15e8d-5ccf-49c4-8a86-3ebd435be302",
+    "raw_text": "Fixed Income Trader - Treasury Stockholm Full-time kr 662,476 SEK - kr 831,010 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/a3c15e8d-5ccf-49c4-8a86-3ebd435be302/overview",
+    "title": "Fixed Income Trader - Treasury",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 662,476 SEK - kr 831,010 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "17d78917-97f9-4596-9b3b-dac066a875e4",
+    "raw_text": "FinCrime Ops Process Management Expert Stockholm Full-time kr 662,476 SEK - kr 741,973 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/17d78917-97f9-4596-9b3b-dac066a875e4/overview",
+    "title": "FinCrime Ops Process Management Expert",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 662,476 SEK - kr 741,973 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "387bbb2b-fd8a-4151-9e5d-ecbef78a43fe",
+    "raw_text": "Financial Crime Compliance Specialist New York Full-time $120,450 USD - $151,093 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/387bbb2b-fd8a-4151-9e5d-ecbef78a43fe/overview",
+    "title": "Financial Crime Compliance Specialist",
+    "location": "New York",
+    "commitment": "Full-time",
+    "salary": "$120,450 USD - $151,093 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "0eb6f62a-f32a-4e46-bdc2-75cf324d0cef",
+    "raw_text": "FinCrime Ops Process Management Expert Columbus Full-time $105,394 USD - $118,041 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/0eb6f62a-f32a-4e46-bdc2-75cf324d0cef/overview",
+    "title": "FinCrime Ops Process Management Expert",
+    "location": "Columbus",
+    "commitment": "Full-time",
+    "salary": "$105,394 USD - $118,041 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "833ecba0-4143-4629-99af-f7c845780ba3",
+    "raw_text": "Customer Trust & Experience Consultant (Fully Remote – Sweden | German speaking) Sweden Consultant",
+    "url": "https://jobs.deel.com/klarna/job-details/833ecba0-4143-4629-99af-f7c845780ba3/overview",
+    "title": "Customer Trust & Experience Consultant (Fully Remote – Sweden | German speaking) Sweden Consultant",
+    "location": "",
+    "commitment": null,
+    "salary": null,
+    "in_sweden": false
+  },
+  {
+    "job_id": "e47b1901-4a1f-43a9-a6f6-6aec33d3df4c",
+    "raw_text": "Business Development - Klarna Audiences New York Full-time $124,064 USD - $155,626 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/e47b1901-4a1f-43a9-a6f6-6aec33d3df4c/overview",
+    "title": "Business Development - Klarna Audiences",
+    "location": "New York",
+    "commitment": "Full-time",
+    "salary": "$124,064 USD - $155,626 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "6a88bbba-1d3e-4389-9444-f52a8218fd27",
+    "raw_text": "Senior Data Scientist - Fraud Model Validation Stockholm, Milan, London Full-time kr 752,814 SEK - kr 1,076,536 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/6a88bbba-1d3e-4389-9444-f52a8218fd27/overview",
+    "title": "Senior Data Scientist - Fraud Model Validation",
+    "location": "Stockholm, Milan, London",
+    "commitment": "Full-time",
+    "salary": "kr 752,814 SEK - kr 1,076,536 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "d45065fb-e480-4058-bd12-d67df9655d08",
+    "raw_text": "Senior Python Engineer- GenAI Stockholm, Milan Full-time €63,236 EUR - €70,825 EUR",
+    "url": "https://jobs.deel.com/klarna/job-details/d45065fb-e480-4058-bd12-d67df9655d08/overview",
+    "title": "Senior Python Engineer- GenAI",
+    "location": "Stockholm, Milan",
+    "commitment": "Full-time",
+    "salary": "€63,236 EUR - €70,825 EUR",
+    "in_sweden": true
+  },
+  {
+    "job_id": "9bb9c7bc-3e6b-43e3-b252-6a2e3b279928",
+    "raw_text": "Business Development, Partner Success, Munich Munich Full-time €83,371 EUR - €106,447 EUR",
+    "url": "https://jobs.deel.com/klarna/job-details/9bb9c7bc-3e6b-43e3-b252-6a2e3b279928/overview",
+    "title": "Business Development, Partner",
+    "location": "Success, Munich Munich",
+    "commitment": "Full-time",
+    "salary": "€83,371 EUR - €106,447 EUR",
+    "in_sweden": false
+  },
+  {
+    "job_id": "e8255f92-fc44-4f70-b7b8-68d3305f651c",
+    "raw_text": "Senior Fullstack Engineer - Javascript Milan Full-time €65,133 EUR - €72,950 EUR",
+    "url": "https://jobs.deel.com/klarna/job-details/e8255f92-fc44-4f70-b7b8-68d3305f651c/overview",
+    "title": "Senior Fullstack Engineer - Javascript",
+    "location": "Milan",
+    "commitment": "Full-time",
+    "salary": "€65,133 EUR - €72,950 EUR",
+    "in_sweden": false
+  },
+  {
+    "job_id": "26e3280a-5701-4dc6-979e-7ab81c0e919c",
+    "raw_text": "Senior/Lead Data Scientist -Credit & Finance Model Validation Stockholm, London Full-time £78,293 GBP - £111,960 GBP",
+    "url": "https://jobs.deel.com/klarna/job-details/26e3280a-5701-4dc6-979e-7ab81c0e919c/overview",
+    "title": "Senior/Lead Data Scientist -Credit & Finance Model Validation",
+    "location": "Stockholm, London",
+    "commitment": "Full-time",
+    "salary": "£78,293 GBP - £111,960 GBP",
+    "in_sweden": true
+  },
+  {
+    "job_id": "18b3f1b6-4f37-4a57-8855-9718f3d5f4ad",
+    "raw_text": "Senior Business Operations Specialist - Sanctions & 314(a) Operations Expert Columbus Full-time $75,281 USD - $84,315 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/18b3f1b6-4f37-4a57-8855-9718f3d5f4ad/overview",
+    "title": "Senior Business Operations Specialist - Sanctions & 314(a) Operations Expert",
+    "location": "Columbus",
+    "commitment": "Full-time",
+    "salary": "$75,281 USD - $84,315 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "8af177d0-0a33-428a-9e4e-7f7b3a303905",
+    "raw_text": "Delivery Manager - PSP Implementations London Full-time £84,315 GBP - £94,433 GBP",
+    "url": "https://jobs.deel.com/klarna/job-details/8af177d0-0a33-428a-9e4e-7f7b3a303905/overview",
+    "title": "Delivery Manager - PSP Implementations",
+    "location": "London",
+    "commitment": "Full-time",
+    "salary": "£84,315 GBP - £94,433 GBP",
+    "in_sweden": false
+  },
+  {
+    "job_id": "1d58227e-a0a2-4cfd-abb8-a2cc77b49a0b",
+    "raw_text": "Senior Erlang Engineer - Dunning Banking Servicing Stockholm Full-time kr 55,206 SEK - kr 61,831 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/1d58227e-a0a2-4cfd-abb8-a2cc77b49a0b/overview",
+    "title": "Senior Erlang Engineer - Dunning Banking Servicing",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 55,206 SEK - kr 61,831 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "51205c87-fb05-4130-a8b7-b9e8aa46fc34",
+    "raw_text": "FinCrime Ops Process Management Expert New York Full-time $120,450 USD - $134,904 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/51205c87-fb05-4130-a8b7-b9e8aa46fc34/overview",
+    "title": "FinCrime Ops Process Management Expert",
+    "location": "New York",
+    "commitment": "Full-time",
+    "salary": "$120,450 USD - $134,904 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "4a6f3597-69f2-4854-b038-3fba8302f9cf",
+    "raw_text": "Senior Backend Engineer -Kafka Platform Stockholm, Milan Full-time kr 752,814 SEK - kr 843,151 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/4a6f3597-69f2-4854-b038-3fba8302f9cf/overview",
+    "title": "Senior Backend Engineer -Kafka Platform",
+    "location": "Stockholm, Milan",
+    "commitment": "Full-time",
+    "salary": "kr 752,814 SEK - kr 843,151 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "b8da3871-db87-4fec-850e-ba6ecd14a3eb",
+    "raw_text": "Ad Tech Specialist – Ad Tech & Measurement Stockholm Full-time kr 755,464 SEK - kr 861,228 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/b8da3871-db87-4fec-850e-ba6ecd14a3eb/overview",
+    "title": "Ad Tech Specialist – Ad Tech & Measurement",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 755,464 SEK - kr 861,228 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "83612ee5-2ea2-4117-8119-94e9b45221af",
+    "raw_text": "Senior Business Operations Specialist - Sanction Operations Stockholm Full-time kr 50,187 SEK - kr 62,955 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/83612ee5-2ea2-4117-8119-94e9b45221af/overview",
+    "title": "Senior Business Operations Specialist - Sanction Operations",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 50,187 SEK - kr 62,955 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "771600d2-052b-489d-bf36-4cbf90cb875e",
+    "raw_text": "Financial Crime Compliance Specialist Stockholm Full-time kr 55,206 SEK - kr 69,250 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/771600d2-052b-489d-bf36-4cbf90cb875e/overview",
+    "title": "Financial Crime Compliance Specialist",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 55,206 SEK - kr 69,250 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "5cee255a-2a03-4048-9e08-b2f03c26cd31",
+    "raw_text": "Financial Crime Compliance Specialist - German Speaking Stockholm Full-time kr 55,206 SEK - kr 69,250 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/5cee255a-2a03-4048-9e08-b2f03c26cd31/overview",
+    "title": "Financial Crime Compliance Specialist - German Speaking",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 55,206 SEK - kr 69,250 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "985d2586-90a4-4220-a4b4-b0c7f1947a1f",
+    "raw_text": "Business Development Manager, Payment Partnerships London Full-time £71,027 GBP - £79,551 GBP",
+    "url": "https://jobs.deel.com/klarna/job-details/985d2586-90a4-4220-a4b4-b0c7f1947a1f/overview",
+    "title": "Business Development Manager, Payment Partnerships",
+    "location": "London",
+    "commitment": "Full-time",
+    "salary": "£71,027 GBP - £79,551 GBP",
+    "in_sweden": false
+  },
+  {
+    "job_id": "161d3133-1185-405b-a037-0f5aa14ee60b",
+    "raw_text": "Senior/Lead Data Scientist -Fraud London Full-time £81,425 GBP - £116,438 GBP",
+    "url": "https://jobs.deel.com/klarna/job-details/161d3133-1185-405b-a037-0f5aa14ee60b/overview",
+    "title": "Senior/Lead Data Scientist -Fraud",
+    "location": "London",
+    "commitment": "Full-time",
+    "salary": "£81,425 GBP - £116,438 GBP",
+    "in_sweden": false
+  },
+  {
+    "job_id": "b5b3ecfa-6a43-4daf-b390-a5329fd93cf1",
+    "raw_text": "Domain Security Lead Stockholm, Milan, London Full-time £102,138 GBP - £135,068 GBP",
+    "url": "https://jobs.deel.com/klarna/job-details/b5b3ecfa-6a43-4daf-b390-a5329fd93cf1/overview",
+    "title": "Domain Security Lead",
+    "location": "Stockholm, Milan, London",
+    "commitment": "Full-time",
+    "salary": "£102,138 GBP - £135,068 GBP",
+    "in_sweden": true
+  },
+  {
+    "job_id": "506e3b51-7a07-4bc6-87ce-2dfafe8255eb",
+    "raw_text": "Communications Manager Stockholm Full-time kr 887,065 SEK - kr 1,028,996 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/506e3b51-7a07-4bc6-87ce-2dfafe8255eb/overview",
+    "title": "Communications Manager",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 887,065 SEK - kr 1,028,996 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "6fd6be28-6671-4bc7-ae9f-6549cc72902d",
+    "raw_text": "Lead Fullstack Engineer - Javascript Milan Full-time €81,704 EUR - €93,142 EUR",
+    "url": "https://jobs.deel.com/klarna/job-details/6fd6be28-6671-4bc7-ae9f-6549cc72902d/overview",
+    "title": "Lead Fullstack Engineer - Javascript",
+    "location": "Milan",
+    "commitment": "Full-time",
+    "salary": "€81,704 EUR - €93,142 EUR",
+    "in_sweden": false
+  },
+  {
+    "job_id": "4d727106-5bff-40a1-91e7-ae66c393b3b3",
+    "raw_text": "Business Operations Manager - Payroll New York Full-time $192,937 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/4d727106-5bff-40a1-91e7-ae66c393b3b3/overview",
+    "title": "Business Operations Manager - Payroll New York Full-time $192,937 USD",
+    "location": "",
+    "commitment": null,
+    "salary": null,
+    "in_sweden": false
+  },
+  {
+    "job_id": "1d653657-7e9c-4aa6-8a25-ab7f7b547975",
+    "raw_text": "Business Development Manager, Partner Success, Berlin Berlin Full-time €84,066 EUR - €94,153 EUR",
+    "url": "https://jobs.deel.com/klarna/job-details/1d653657-7e9c-4aa6-8a25-ab7f7b547975/overview",
+    "title": "Business Development Manager, Partner",
+    "location": "Success, Berlin Berlin",
+    "commitment": "Full-time",
+    "salary": "€84,066 EUR - €94,153 EUR",
+    "in_sweden": false
+  },
+  {
+    "job_id": "75fed61f-4b3a-405c-9291-8b660e9ee9ea",
+    "raw_text": "Lead Fullstack Engineer - Javascript Stockholm Full-time kr 81,055 SEK - kr 92,403 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/75fed61f-4b3a-405c-9291-8b660e9ee9ea/overview",
+    "title": "Lead Fullstack Engineer - Javascript",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 81,055 SEK - kr 92,403 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "92c5e5e9-92ee-4e11-a036-9a65f834d2a8",
+    "raw_text": "Business Development Associate Amsterdam Full-time €69,786 EUR - €87,540 EUR",
+    "url": "https://jobs.deel.com/klarna/job-details/92c5e5e9-92ee-4e11-a036-9a65f834d2a8/overview",
+    "title": "Business Development Associate",
+    "location": "Amsterdam",
+    "commitment": "Full-time",
+    "salary": "€69,786 EUR - €87,540 EUR",
+    "in_sweden": false
+  },
+  {
+    "job_id": "2ed5d33e-c0fc-40dc-b86b-55bc14621c90",
+    "raw_text": "Senior Risk Manager London Full-time £86,312 GBP - £98,395 GBP",
+    "url": "https://jobs.deel.com/klarna/job-details/2ed5d33e-c0fc-40dc-b86b-55bc14621c90/overview",
+    "title": "Senior Risk Manager",
+    "location": "London",
+    "commitment": "Full-time",
+    "salary": "£86,312 GBP - £98,395 GBP",
+    "in_sweden": false
+  },
+  {
+    "job_id": "c7d9766c-7bb4-433d-baea-270f52d1be3c",
+    "raw_text": "Senior Business Operations Specialist - Sanctions & 314(a) Operations Expert New York Full-time $112,922 USD - $126,473 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/c7d9766c-7bb4-433d-baea-270f52d1be3c/overview",
+    "title": "Senior Business Operations Specialist - Sanctions & 314(a) Operations Expert",
+    "location": "New York",
+    "commitment": "Full-time",
+    "salary": "$112,922 USD - $126,473 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "f365f4dc-8595-4804-bf01-dd141f6c2412",
+    "raw_text": "AML / Financial Crime Investigation Expert London Full-time £68,807 GBP - £77,064 GBP",
+    "url": "https://jobs.deel.com/klarna/job-details/f365f4dc-8595-4804-bf01-dd141f6c2412/overview",
+    "title": "AML / Financial Crime Investigation Expert",
+    "location": "London",
+    "commitment": "Full-time",
+    "salary": "£68,807 GBP - £77,064 GBP",
+    "in_sweden": false
+  },
+  {
+    "job_id": "d588d321-7738-46cd-8d58-60f816d6acd3",
+    "raw_text": "Talent Acquisition Specialist New York Contract $50 USD - $75 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/d588d321-7738-46cd-8d58-60f816d6acd3/overview",
+    "title": "Talent Acquisition Specialist",
+    "location": "New York",
+    "commitment": "Contract",
+    "salary": "$50 USD - $75 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "37708e80-c221-4b9e-bd29-a139bbc8f424",
+    "raw_text": "Screening Adjudication Expert Stockholm Full-time kr 620,319 SEK - kr 887,065 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/37708e80-c221-4b9e-bd29-a139bbc8f424/overview",
+    "title": "Screening Adjudication Expert",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 620,319 SEK - kr 887,065 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "14a2a404-f4f7-4ca9-91fc-c75bf43a0775",
+    "raw_text": "Business Development, Partner Success New York Full-time $124,064 USD - $155,626 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/14a2a404-f4f7-4ca9-91fc-c75bf43a0775/overview",
+    "title": "Business Development, Partner Success",
+    "location": "New York",
+    "commitment": "Full-time",
+    "salary": "$124,064 USD - $155,626 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "a72f45f7-c2ca-466a-aa7c-ad2c05f444ca",
+    "raw_text": "Senior Risk Manager Stockholm Full-time kr 831,010 SEK - kr 947,351 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/a72f45f7-c2ca-466a-aa7c-ad2c05f444ca/overview",
+    "title": "Senior Risk Manager",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 831,010 SEK - kr 947,351 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "a6e71baa-8b41-4c4d-8e1b-59c927fe4bde",
+    "raw_text": "Senior Executive Assistant London Full-time £63,417 GBP - £71,027 GBP",
+    "url": "https://jobs.deel.com/klarna/job-details/a6e71baa-8b41-4c4d-8e1b-59c927fe4bde/overview",
+    "title": "Senior Executive Assistant",
+    "location": "London",
+    "commitment": "Full-time",
+    "salary": "£63,417 GBP - £71,027 GBP",
+    "in_sweden": false
+  },
+  {
+    "job_id": "85bab69d-60e7-45e5-ba56-05ad9da0d4e4",
+    "raw_text": "Financial Crime Intelligence: Investigations Expert London Full-time £63,417 GBP - £90,687 GBP",
+    "url": "https://jobs.deel.com/klarna/job-details/85bab69d-60e7-45e5-ba56-05ad9da0d4e4/overview",
+    "title": "Financial Crime Intelligence: Investigations Expert",
+    "location": "London",
+    "commitment": "Full-time",
+    "salary": "£63,417 GBP - £90,687 GBP",
+    "in_sweden": false
+  },
+  {
+    "job_id": "b7b05a66-59f4-4a5a-822c-f27159c3a0cb",
+    "raw_text": "AML/ KYC Specialist Columbus Full-time $62,938 USD - $86,844 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/b7b05a66-59f4-4a5a-822c-f27159c3a0cb/overview",
+    "title": "AML/ KYC Specialist",
+    "location": "Columbus",
+    "commitment": "Full-time",
+    "salary": "$62,938 USD - $86,844 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "bd2789be-fda4-43b8-906d-08f12e024010",
+    "raw_text": "Business Development Manager Portland Full-time $124,064 USD - $177,413 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/bd2789be-fda4-43b8-906d-08f12e024010/overview",
+    "title": "Business Development Manager Portland",
+    "location": "",
+    "commitment": "Full-time",
+    "salary": "$124,064 USD - $177,413 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "19e5387c-c0be-44e0-8717-d87167598b38",
+    "raw_text": "Senior/Lead Data Scientist - Open Banking London Full-time £81,425 GBP - £116,438 GBP",
+    "url": "https://jobs.deel.com/klarna/job-details/19e5387c-c0be-44e0-8717-d87167598b38/overview",
+    "title": "Senior/Lead Data Scientist - Open Banking",
+    "location": "London",
+    "commitment": "Full-time",
+    "salary": "£81,425 GBP - £116,438 GBP",
+    "in_sweden": false
+  },
+  {
+    "job_id": "5ad4d731-12d4-4ade-859d-960494e58e1a",
+    "raw_text": "Senior/Lead Data Scientist -Credit Stockholm Full-time kr 775,398 SEK - kr 1,108,832 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/5ad4d731-12d4-4ade-859d-960494e58e1a/overview",
+    "title": "Senior/Lead Data Scientist -Credit",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 775,398 SEK - kr 1,108,832 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "61f0b15a-7d0c-4c10-b41c-0455460e0af5",
+    "raw_text": "Business Operations Manager - Payroll Columbus Full-time $107,654 USD - $124,878 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/61f0b15a-7d0c-4c10-b41c-0455460e0af5/overview",
+    "title": "Business Operations Manager - Payroll",
+    "location": "Columbus",
+    "commitment": "Full-time",
+    "salary": "$107,654 USD - $124,878 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "c745bf78-2cf9-4503-8f1e-ae594e6dad28",
+    "raw_text": "Business Development, Partner Success London Full-time £63,417 GBP - £79,551 GBP",
+    "url": "https://jobs.deel.com/klarna/job-details/c745bf78-2cf9-4503-8f1e-ae594e6dad28/overview",
+    "title": "Business Development, Partner Success",
+    "location": "London",
+    "commitment": "Full-time",
+    "salary": "£63,417 GBP - £79,551 GBP",
+    "in_sweden": false
+  },
+  {
+    "job_id": "c1a4f6d4-21e5-49fb-8ecc-84a6b28cfb20",
+    "raw_text": "Senior/Lead Data Scientist -Credit Milan Full-time €65,133 EUR - €93,142 EUR",
+    "url": "https://jobs.deel.com/klarna/job-details/c1a4f6d4-21e5-49fb-8ecc-84a6b28cfb20/overview",
+    "title": "Senior/Lead Data Scientist -Credit",
+    "location": "Milan",
+    "commitment": "Full-time",
+    "salary": "€65,133 EUR - €93,142 EUR",
+    "in_sweden": false
+  },
+  {
+    "job_id": "8e59002e-9c7a-4abf-a2b3-fbc7c6ecd650",
+    "raw_text": "Senior/Lead Data Scientist - Credit London Full-time £81,425 GBP - £116,438 GBP",
+    "url": "https://jobs.deel.com/klarna/job-details/8e59002e-9c7a-4abf-a2b3-fbc7c6ecd650/overview",
+    "title": "Senior/Lead Data Scientist - Credit",
+    "location": "London",
+    "commitment": "Full-time",
+    "salary": "£81,425 GBP - £116,438 GBP",
+    "in_sweden": false
+  },
+  {
+    "job_id": "67b35462-3aa2-4f5c-bb63-50dfd42f46b0",
+    "raw_text": "Senior MLOps Engineer Stockholm Full-time kr 775,398 SEK - kr 868,446 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/67b35462-3aa2-4f5c-bb63-50dfd42f46b0/overview",
+    "title": "Senior MLOps Engineer",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 775,398 SEK - kr 868,446 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "a2bce332-19e5-4896-bf35-2fbb7c4279f6",
+    "raw_text": "Screening Adjudication Expert New York Full-time $116,310 USD - $166,324 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/a2bce332-19e5-4896-bf35-2fbb7c4279f6/overview",
+    "title": "Screening Adjudication Expert",
+    "location": "New York",
+    "commitment": "Full-time",
+    "salary": "$116,310 USD - $166,324 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "7e8d10f7-0852-489a-9e78-623276ffe93e",
+    "raw_text": "Financial Crime Intelligence: Investigations Expert Stockholm Full-time kr 620,319 SEK - kr 887,065 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/7e8d10f7-0852-489a-9e78-623276ffe93e/overview",
+    "title": "Financial Crime Intelligence: Investigations Expert",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 620,319 SEK - kr 887,065 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "9779f37f-598f-4799-9a36-b925f5b46139",
+    "raw_text": "AML/ KYC Specialist London Full-time £51,475 GBP - £71,027 GBP",
+    "url": "https://jobs.deel.com/klarna/job-details/9779f37f-598f-4799-9a36-b925f5b46139/overview",
+    "title": "AML/ KYC Specialist",
+    "location": "London",
+    "commitment": "Full-time",
+    "salary": "£51,475 GBP - £71,027 GBP",
+    "in_sweden": false
+  },
+  {
+    "job_id": "aa99da2f-6834-440f-af74-b2af5464006b",
+    "raw_text": "Financial Crime Intelligence: Investigations Expert New York Full-time $116,310 USD - $166,324 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/aa99da2f-6834-440f-af74-b2af5464006b/overview",
+    "title": "Financial Crime Intelligence: Investigations Expert",
+    "location": "New York",
+    "commitment": "Full-time",
+    "salary": "$116,310 USD - $166,324 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "82e411e6-fa29-47dc-8717-625ddaa05cc2",
+    "raw_text": "Screening Adjudication Expert Columbus Full-time $77,539 USD - $110,884 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/82e411e6-fa29-47dc-8717-625ddaa05cc2/overview",
+    "title": "Screening Adjudication Expert",
+    "location": "Columbus",
+    "commitment": "Full-time",
+    "salary": "$77,539 USD - $110,884 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "2275fc49-02d9-4139-9d2a-4a7f10ea4345",
+    "raw_text": "Senior/Lead Data Scientist -Credit Risk Modeling London Full-time £81,425 GBP - £116,438 GBP",
+    "url": "https://jobs.deel.com/klarna/job-details/2275fc49-02d9-4139-9d2a-4a7f10ea4345/overview",
+    "title": "Senior/Lead Data Scientist -Credit Risk Modeling",
+    "location": "London",
+    "commitment": "Full-time",
+    "salary": "£81,425 GBP - £116,438 GBP",
+    "in_sweden": false
+  },
+  {
+    "job_id": "7fd21366-7304-4fcd-9fc1-9959d6f46510",
+    "raw_text": "Senior/Lead Data Scientist -Credit Risk Modeling Milan Full-time €65,133 EUR - €93,142 EUR",
+    "url": "https://jobs.deel.com/klarna/job-details/7fd21366-7304-4fcd-9fc1-9959d6f46510/overview",
+    "title": "Senior/Lead Data Scientist -Credit Risk Modeling",
+    "location": "Milan",
+    "commitment": "Full-time",
+    "salary": "€65,133 EUR - €93,142 EUR",
+    "in_sweden": false
+  },
+  {
+    "job_id": "93929439-0f09-4ea6-a1c0-c063805fe522",
+    "raw_text": "AML/ KYC Specialist Stockholm Full-time kr 503,505 SEK - kr 694,757 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/93929439-0f09-4ea6-a1c0-c063805fe522/overview",
+    "title": "AML/ KYC Specialist",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 503,505 SEK - kr 694,757 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "ee1feca3-2382-4fdd-a3fb-a80955150807",
+    "raw_text": "Senior/Lead Data Scientist- Open Banking Stockholm Full-time kr 775,398 SEK - kr 1,108,832 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/ee1feca3-2382-4fdd-a3fb-a80955150807/overview",
+    "title": "Senior/Lead Data Scientist- Open Banking",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 775,398 SEK - kr 1,108,832 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "a05d6cd2-2168-41ce-8f46-68e73a4f3b2b",
+    "raw_text": "Senior/Lead Data Scientist - Open Banking Milan Full-time €65,133 EUR - €93,142 EUR",
+    "url": "https://jobs.deel.com/klarna/job-details/a05d6cd2-2168-41ce-8f46-68e73a4f3b2b/overview",
+    "title": "Senior/Lead Data Scientist - Open Banking",
+    "location": "Milan",
+    "commitment": "Full-time",
+    "salary": "€65,133 EUR - €93,142 EUR",
+    "in_sweden": false
+  },
+  {
+    "job_id": "d0b5feb1-890d-4595-bd93-1563e6a1ba89",
+    "raw_text": "Delivery Manager - Partner Integration & Implementation Vienna Full-time €87,540 EUR",
+    "url": "https://jobs.deel.com/klarna/job-details/d0b5feb1-890d-4595-bd93-1563e6a1ba89/overview",
+    "title": "Delivery Manager - Partner Integration & Implementation Vienna Full-time €87,540 EUR",
+    "location": "",
+    "commitment": null,
+    "salary": null,
+    "in_sweden": false
+  },
+  {
+    "job_id": "a5766ac3-a38b-4149-bfc2-9155ca5b66dc",
+    "raw_text": "Quality Analyst - Financial Crimes London Full-time £63,417 GBP - £90,687 GBP",
+    "url": "https://jobs.deel.com/klarna/job-details/a5766ac3-a38b-4149-bfc2-9155ca5b66dc/overview",
+    "title": "Quality Analyst - Financial Crimes",
+    "location": "London",
+    "commitment": "Full-time",
+    "salary": "£63,417 GBP - £90,687 GBP",
+    "in_sweden": false
+  },
+  {
+    "job_id": "75d6e4c7-76c1-4056-91fd-fd1724857fdc",
+    "raw_text": "Quality Analyst - Financial Crimes Stockholm Full-time kr 620,319 SEK - kr 887,065 SEK",
+    "url": "https://jobs.deel.com/klarna/job-details/75d6e4c7-76c1-4056-91fd-fd1724857fdc/overview",
+    "title": "Quality Analyst - Financial Crimes",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "salary": "kr 620,319 SEK - kr 887,065 SEK",
+    "in_sweden": true
+  },
+  {
+    "job_id": "ed0180e8-9eae-4fce-ba41-e882150ad8c8",
+    "raw_text": "Quality Analyst - Financial Crimes Columbus Full-time $77,539 USD - $110,884 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/ed0180e8-9eae-4fce-ba41-e882150ad8c8/overview",
+    "title": "Quality Analyst - Financial Crimes",
+    "location": "Columbus",
+    "commitment": "Full-time",
+    "salary": "$77,539 USD - $110,884 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "396853ef-cdd6-420b-ae0b-c980df2a6940",
+    "raw_text": "Business Development, Partner Success, Milan Milan Full-time €54,278 EUR - €68,086 EUR",
+    "url": "https://jobs.deel.com/klarna/job-details/396853ef-cdd6-420b-ae0b-c980df2a6940/overview",
+    "title": "Business Development, Partner",
+    "location": "Success, Milan Milan",
+    "commitment": "Full-time",
+    "salary": "€54,278 EUR - €68,086 EUR",
+    "in_sweden": false
+  },
+  {
+    "job_id": "c065ea2b-855d-44ff-a522-a837a7b7be07",
+    "raw_text": "Financial Crime Intelligence: Investigations Expert Columbus Full-time $77,539 USD - $110,884 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/c065ea2b-855d-44ff-a522-a837a7b7be07/overview",
+    "title": "Financial Crime Intelligence: Investigations Expert",
+    "location": "Columbus",
+    "commitment": "Full-time",
+    "salary": "$77,539 USD - $110,884 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "1b41517b-5df8-4835-9ee4-0a8ad1a5fcaa",
+    "raw_text": "Quality Analyst - Financial Crimes New York Full-time $116,310 USD - $166,324 USD",
+    "url": "https://jobs.deel.com/klarna/job-details/1b41517b-5df8-4835-9ee4-0a8ad1a5fcaa/overview",
+    "title": "Quality Analyst - Financial Crimes",
+    "location": "New York",
+    "commitment": "Full-time",
+    "salary": "$116,310 USD - $166,324 USD",
+    "in_sweden": false
+  },
+  {
+    "job_id": "88f9c370-af9a-4dc9-8c9e-a93d4a96e265",
+    "raw_text": "Risk Manager London Full-time £80,147 GBP - £89,764 GBP",
+    "url": "https://jobs.deel.com/klarna/job-details/88f9c370-af9a-4dc9-8c9e-a93d4a96e265/overview",
+    "title": "Risk Manager",
+    "location": "London",
+    "commitment": "Full-time",
+    "salary": "£80,147 GBP - £89,764 GBP",
+    "in_sweden": false
+  }
+]
