@@ -1,0 +1,661 @@
+[
+  {
+    "job_id": "6aad4b95835a176f26c31c2b",
+    "url": "https://thehub.io/jobs/6aad4b95835a176f26c31c2b",
+    "parent_text": "Senior Frontend Engineer - AI Startup, DBtune DBtune Malmö Full-time",
+    "location": "Malmö",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Senior Frontend Engineer - AI Startup, DBtune",
+    "company": "DBtune",
+    "description_text": "About DBtune   DBtune is an innovative AI startup based in the vibrant Malmö area, a short train ride away from Copenhagen, Denmark, and Lund and Helsingborg, Sweden. Since our founding in 2020, our d ..."
+  },
+  {
+    "job_id": "6a748922c6c7b7ca830f8796",
+    "url": "https://thehub.io/jobs/6a748922c6c7b7ca830f8796",
+    "parent_text": "Product Manager Tandem Health Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Product Manager",
+    "company": "Tandem Health",
+    "description_text": "Build something monumental for Healthcare!  At Tandem Health we’re reimagining healthcare by putting clinicians first. Our platform - designed by clinicians, for clinicians - is built on deep insight  ..."
+  },
+  {
+    "job_id": "6acc9ab68d3189327f8c21de",
+    "url": "https://thehub.io/jobs/6acc9ab68d3189327f8c21de",
+    "parent_text": "Director of Engineering Tandem Health Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Director of Engineering",
+    "company": "Tandem Health",
+    "description_text": "Build something monumental for Healthcare!  At Tandem Health we’re reimagining healthcare by putting clinicians first. Our platform - designed by clinicians, for clinicians - is built on deep insight  ..."
+  },
+  {
+    "job_id": "6ac657632021b33a3f285c80",
+    "url": "https://thehub.io/jobs/6ac657632021b33a3f285c80",
+    "parent_text": "Forward Deployed Engineering Lead Lovable Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Forward Deployed Engineering Lead",
+    "company": "Lovable",
+    "description_text": "TL;DR  – We're looking for a Forward Deployed Engineering Lead to help scale the future of AI-powered software creation. You'll build and lead the FDE team and partner with our most ambitious customer ..."
+  },
+  {
+    "job_id": "6ac98058f97db3707b219edc",
+    "url": "https://thehub.io/jobs/6ac98058f97db3707b219edc",
+    "parent_text": "Platform Engineer Volumental Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Platform Engineer",
+    "company": "Volumental",
+    "description_text": "About Volumental   Volumental is a FitTech™ company used by footwear brands and retailers, matching people with shoes that truly fit through 3D scanning and machine learning.  Our vision is \"a world w ..."
+  },
+  {
+    "job_id": "6ac58c1b200aa1f18610bf88",
+    "url": "https://thehub.io/jobs/6ac58c1b200aa1f18610bf88",
+    "parent_text": "Product Engineer Mevisio Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Product Engineer",
+    "company": "Mevisio",
+    "description_text": "Come join us as our Product Engineer  We’re looking for a Product Engineer with a fullstack profile who wants to help us build the next generation of Mevisio and our platform.  You’re comfortable work ..."
+  },
+  {
+    "job_id": "6abc5258b6e7a316d032195a",
+    "url": "https://thehub.io/jobs/6abc5258b6e7a316d032195a",
+    "parent_text": "Principal Engineer, Technical Assessment Proxify Remote Full-time",
+    "location": "Remote",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Principal Engineer, Technical Assessment",
+    "company": "Proxify",
+    "description_text": "Tomorrow’s software engineers deserve more than yesterday’s interviews. Proxify is Europe's largest network of vetted software developers. Companies come to us when they need an engineer who can contr ..."
+  },
+  {
+    "job_id": "6ac752562021b33a3f33c841",
+    "url": "https://thehub.io/jobs/6ac752562021b33a3f33c841",
+    "parent_text": "Data Infrastructure Engineer Lovable Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Data Infrastructure Engineer",
+    "company": "Lovable",
+    "description_text": "TL;DR:  Build the data infrastructure the Lovable agent runs on: ingestion, storage and query for millions of small tenants instead of one large one. You'll join the Data Platform team, and your work  ..."
+  },
+  {
+    "job_id": "6ac82ef8fa2d3401389b48e0",
+    "url": "https://thehub.io/jobs/6ac82ef8fa2d3401389b48e0",
+    "parent_text": "Engineering Manager Tendium Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Engineering Manager",
+    "company": "Tendium",
+    "description_text": "Do you want to join the procurement revolution? Tendium is looking for an Engineering Manager to join the team!      About Tendium  Tendium is the global pioneer in AI-driven public tender management, ..."
+  },
+  {
+    "job_id": "6ac65cf69543743a962e0eaf",
+    "url": "https://thehub.io/jobs/6ac65cf69543743a962e0eaf",
+    "parent_text": "Lead Product Data Analyst Skatteguiden Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Lead Product Data Analyst",
+    "company": "Skatteguiden",
+    "description_text": "We're looking for a Swedish Product Analyst ready for a new adventure in Copenhagen. Join one of the Nordics’ most exciting fintech scale-ups and help make taxes simpler for over a million people. 🇸� ..."
+  },
+  {
+    "job_id": "6acec6d6d423ff3ebcbbc94f",
+    "url": "https://thehub.io/jobs/6acec6d6d423ff3ebcbbc94f",
+    "parent_text": "Creative Frontend Developer GeoGuessr Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Creative Frontend Developer",
+    "company": "GeoGuessr",
+    "description_text": "Explore the World. Create the Experience.   Do you love turning creative ideas into playful, engaging experiences? Are you the kind of developer who sees something cool and immediately wants to build  ..."
+  },
+  {
+    "job_id": "6ac50fe233dfedb500dc2346",
+    "url": "https://thehub.io/jobs/6ac50fe233dfedb500dc2346",
+    "parent_text": "Mobile Engineer Tandem Health Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Mobile Engineer",
+    "company": "Tandem Health",
+    "description_text": "Build something monumental for Healthcare!  At Tandem Health we’re reimagining healthcare by putting clinicians first. Our platform - designed by clinicians, for clinicians - is built on deep insight  ..."
+  },
+  {
+    "job_id": "6a47c9486b5300cfaec6bda5",
+    "url": "https://thehub.io/jobs/6a47c9486b5300cfaec6bda5",
+    "parent_text": "Product Experience Specialist (APAC) Lovable Remote Full-time",
+    "location": "Remote",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Product Experience Specialist (APAC)",
+    "company": "Lovable",
+    "description_text": "TL;DR   We're looking for Product Experience Specialists to deliver world-class support and shape the future of Lovable. You will be on the front lines of a fast-growing product, solving real user pro ..."
+  },
+  {
+    "job_id": "6ac43ad6dc5cdd6a8ef8edf5",
+    "url": "https://thehub.io/jobs/6ac43ad6dc5cdd6a8ef8edf5",
+    "parent_text": "Forward Deployed AI Engineer Proxify Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Forward Deployed AI Engineer",
+    "company": "Proxify",
+    "description_text": "About Proxify   Founded in 2018 and headquartered in Stockholm, Proxify helps 2,500+ companies worldwide scale their technical teams. The Financial Times ranked us as Sweden's 3rd fastest-growing comp ..."
+  },
+  {
+    "job_id": "6a90cfe20b6fd783a49c6ecf",
+    "url": "https://thehub.io/jobs/6a90cfe20b6fd783a49c6ecf",
+    "parent_text": "Senior Software Platform Engineer Tendium Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Senior Software Platform Engineer",
+    "company": "Tendium",
+    "description_text": "Do you want to join the technological revolution? Tendium is looking for a Senior Software Engineer to join the team.       About Tendium  Tendium is the global pioneer in AI-driven public tender mana ..."
+  },
+  {
+    "job_id": "6abaffd4838767af23aa9e64",
+    "url": "https://thehub.io/jobs/6abaffd4838767af23aa9e64",
+    "parent_text": "Founder's Associate – Internship or Junior Role Done Stockholm Internship Student",
+    "location": "Stockholm",
+    "commitment": "Internship",
+    "extras": [
+      "Student"
+    ],
+    "title": "Founder's Associate – Internship or Junior Role",
+    "company": "Done",
+    "description_text": "Work closely with the founder at Done.green  Want to learn how a growing tech company is built in practice? As a Founder's Associate, you'll work closely with Alek Åström, co-founder of Done.green. Yo ..."
+  },
+  {
+    "job_id": "6a90cfe20b6fd783a49c6ed3",
+    "url": "https://thehub.io/jobs/6a90cfe20b6fd783a49c6ed3",
+    "parent_text": "Senior Software Engineer - Data Team Tendium Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Senior Software Engineer - Data Team",
+    "company": "Tendium",
+    "description_text": "Do you want to join the technological revolution? Tendium is looking for a  Senior Software Engineer  to join the Data team.      About Tendium  Tendium is the global pioneer in AI-driven public tende ..."
+  },
+  {
+    "job_id": "6a70ba92eafe324d6acc2d83",
+    "url": "https://thehub.io/jobs/6a70ba92eafe324d6acc2d83",
+    "parent_text": "Trust & Safety Engineer Lovable Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Trust & Safety Engineer",
+    "company": "Lovable",
+    "description_text": "TL;DR  Millions of people build on Lovable every month. A small fraction try to abuse it. You'll build the adaptive systems that stop monetary fraud, platform abuse, and bot attacks before they reach  ..."
+  },
+  {
+    "job_id": "6abef478508d10ec02450cff",
+    "url": "https://thehub.io/jobs/6abef478508d10ec02450cff",
+    "parent_text": "Product Partner Manager Voi Technology Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Product Partner Manager",
+    "company": "Voi Technology",
+    "description_text": "YOUR MISSION AT VOI   At Voi, we are on a mission to create safe, sustainable and accessible cities through shared micromobility. As Product Operations Manager in our Core Experience team, you will pl ..."
+  },
+  {
+    "job_id": "6abef491508d10ec024519fe",
+    "url": "https://thehub.io/jobs/6abef491508d10ec024519fe",
+    "parent_text": "Senior Product Engineer SeenThis Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Senior Product Engineer",
+    "company": "SeenThis",
+    "description_text": "Senior Product Engineer    Build a product with real users and AI in production, in a small team that owns the problem end to end. SeenThis is turning campaign work that today lives across email, spre ..."
+  },
+  {
+    "job_id": "6ac418276bbebf110863ac2c",
+    "url": "https://thehub.io/jobs/6ac418276bbebf110863ac2c",
+    "parent_text": "AI Ops Engineer (Marketing) Lovable Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "AI Ops Engineer (Marketing)",
+    "company": "Lovable",
+    "description_text": "TL;DR:  We are looking for a senior engineer with deep marketing knowledge to join Applied AI, the team that rebuilds how Lovable operates as a company. You will work embedded with Marketing and build ..."
+  },
+  {
+    "job_id": "6ac6dd583f84ef79759648c1",
+    "url": "https://thehub.io/jobs/6ac6dd583f84ef79759648c1",
+    "parent_text": "Customer Success Manager Mediatool Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Customer Success Manager",
+    "company": "Mediatool",
+    "description_text": "Ready to make a global impact in media operations?   Camphouse is now looking for two Customer Success Managers to our Headquarters in Stockholm to strengthen our team and help onboard our internation ..."
+  },
+  {
+    "job_id": "6aba46d9d3fdd8d5c1b1f083",
+    "url": "https://thehub.io/jobs/6aba46d9d3fdd8d5c1b1f083",
+    "parent_text": "Country Manager, Sweden OnlineFundraising Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Country Manager, Sweden",
+    "company": "OnlineFundraising",
+    "description_text": "Do you want to help non-profit organisations raise more money at lower costs?      OnlineFundraising is looking for a  Country Manager with a focus on Sweden and the wider Nordic region .  This is a n ..."
+  },
+  {
+    "job_id": "6a0f9d3cf9b8a7bd4c7fb5dd",
+    "url": "https://thehub.io/jobs/6a0f9d3cf9b8a7bd4c7fb5dd",
+    "parent_text": "Java Developer COODY Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Java Developer",
+    "company": "COODY",
+    "description_text": "Why choose Coody   At Coody, we cut out everything unnecessary to give more back to you as a consultant. And we have done it in the package of a lean&nbsp;and efficient organization, meaning no overpa ..."
+  },
+  {
+    "job_id": "6abfb682689c10bda2bdda52",
+    "url": "https://thehub.io/jobs/6abfb682689c10bda2bdda52",
+    "parent_text": "Customer Acquisition Lead Shace AB Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Customer Acquisition Lead",
+    "company": "Shace AB",
+    "description_text": "Provisionsbaserad · Flexibelt · Stockholm       Om Shace    Att hitta kontor i Sverige ska inte kännas som en djungel. Shace är en marknadsplats där företag hittar rätt kontorslokal, gratis för den so ..."
+  },
+  {
+    "job_id": "6a0f9d38f9b8a7bd4c7fb4e0",
+    "url": "https://thehub.io/jobs/6a0f9d38f9b8a7bd4c7fb4e0",
+    "parent_text": ".Net Developer COODY Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": ".Net Developer",
+    "company": "COODY",
+    "description_text": "Why choose Coody   At Coody, we cut out everything unnecessary to give more back to you as a consultant. And we have done it in the package of a lean&nbsp;and efficient organization, meaning no overpa ..."
+  },
+  {
+    "job_id": "6ac9808ff97db3707b21bdea",
+    "url": "https://thehub.io/jobs/6ac9808ff97db3707b21bdea",
+    "parent_text": "Proposal & Content Manager Voi Technology Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Proposal & Content Manager",
+    "company": "Voi Technology",
+    "description_text": "Own the words behind Voi’s most important city submissions. Turn complex tender requirements into clear, persuasive proposals that help cities choose safer, more sustainable micromobility.      YOUR M ..."
+  },
+  {
+    "job_id": "6ac4bc6c6bbebf11086a30e9",
+    "url": "https://thehub.io/jobs/6ac4bc6c6bbebf11086a30e9",
+    "parent_text": "Brand Designer Tandem Health Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Brand Designer",
+    "company": "Tandem Health",
+    "description_text": "Build something monumental for Healthcare!  At Tandem Health we’re reimagining healthcare by putting clinicians first. Our platform - designed by clinicians, for clinicians - is built on deep insight  ..."
+  },
+  {
+    "job_id": "6a0f9d8af9b8a7bd4c7fc2cf",
+    "url": "https://thehub.io/jobs/6a0f9d8af9b8a7bd4c7fc2cf",
+    "parent_text": "AI Engineer COODY Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "AI Engineer",
+    "company": "COODY",
+    "description_text": "Why choose Coody    At Coody, we cut out everything unnecessary to give more back to you as a consultant. And we have done it in the package of a lean and efficient organization, meaning no overpaid m ..."
+  },
+  {
+    "job_id": "6abaffd4838767af23aa9e60",
+    "url": "https://thehub.io/jobs/6abaffd4838767af23aa9e60",
+    "parent_text": "Operations Associate – Netherlands market (part-time, remote) Done Remote Part-time",
+    "location": "Remote",
+    "commitment": "Part-time",
+    "extras": [],
+    "title": "Operations Associate – Netherlands market (part-time, remote)",
+    "company": "Done",
+    "description_text": "Spreek je Nederlands en ken je de Nederlandse markt? Help Done klanten en installateurs in Nederland te verbinden en hun installaties te coördineren.      About the role  Your main job is to speak wit ..."
+  },
+  {
+    "job_id": "6a0f9d59f9b8a7bd4c7fbbe8",
+    "url": "https://thehub.io/jobs/6a0f9d59f9b8a7bd4c7fbbe8",
+    "parent_text": "Golang Developer COODY Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Golang Developer",
+    "company": "COODY",
+    "description_text": "Why choose Coody   At Coody, we cut out everything unnecessary to give more back to you as a consultant. And we have done it in the package of a lean and efficient organization, meaning no overpaid ma ..."
+  },
+  {
+    "job_id": "6a913fc2c274135e3cd6ee7e",
+    "url": "https://thehub.io/jobs/6a913fc2c274135e3cd6ee7e",
+    "parent_text": "Brand Ambassador – Field Sales | Part-time | Stockholm Rebl Eats Stockholm Freelance Part-time",
+    "location": "Stockholm",
+    "commitment": "Part-time",
+    "extras": [
+      "Freelance"
+    ],
+    "title": "Brand Ambassador – Field Sales",
+    "company": "Part-time",
+    "description_text": "Join us to write the sales playbook for how Rebl wins cities, and help Stockholm eat healthier, one shelf at a time.      Rebl is a Nordic food brand on a mission to lead the green transition in food. ..."
+  },
+  {
+    "job_id": "69eff983c2695fa25720b830",
+    "url": "https://thehub.io/jobs/69eff983c2695fa25720b830",
+    "parent_text": "Reverse Engineer COODY Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Reverse Engineer",
+    "company": "COODY",
+    "description_text": "Why choose Coody    At Coody, we cut out everything unnecessary to give more back to you as a consultant. And we have done it in the package of a lean and efficient organization, meaning no overpaid m ..."
+  },
+  {
+    "job_id": "6a0f9d32f9b8a7bd4c7fb3b2",
+    "url": "https://thehub.io/jobs/6a0f9d32f9b8a7bd4c7fb3b2",
+    "parent_text": "Machine Learning Engineer COODY Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Machine Learning Engineer",
+    "company": "COODY",
+    "description_text": "Why choose Coody   At Coody, we cut out everything unnecessary to give more back to you as a consultant. And we have done it in the package of a lean&nbsp;and efficient organization, meaning no overpa ..."
+  },
+  {
+    "job_id": "6ac43ad7dc5cdd6a8ef8ee21",
+    "url": "https://thehub.io/jobs/6ac43ad7dc5cdd6a8ef8ee21",
+    "parent_text": "Account Executive DACH Proxify Remote Full-time",
+    "location": "Remote",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Account Executive DACH",
+    "company": "Proxify",
+    "description_text": "About Proxify   Proxify is a global network connecting companies with top-tier remote software, data, and AI talent; matching clients with the right expert in just two days. We accept only the top 1%  ..."
+  },
+  {
+    "job_id": "6a0f9d79f9b8a7bd4c7fc03c",
+    "url": "https://thehub.io/jobs/6a0f9d79f9b8a7bd4c7fc03c",
+    "parent_text": "Embedded Software Engineer COODY Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Embedded Software Engineer",
+    "company": "COODY",
+    "description_text": "Why choose Coody   At Coody, we cut out everything unnecessary to give more back to you as a consultant. And we have done it in the package of a lean&nbsp;and efficient organization, meaning no overpa ..."
+  },
+  {
+    "job_id": "6a0f9da6f9b8a7bd4c7fc5a8",
+    "url": "https://thehub.io/jobs/6a0f9da6f9b8a7bd4c7fc5a8",
+    "parent_text": "iOS Developer COODY Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "iOS Developer",
+    "company": "COODY",
+    "description_text": "Why choose Coody   At Coody, we cut out everything unnecessary to give more back to you as a consultant. And we have done it in the package of a lean&nbsp;and efficient organization, meaning no overpa ..."
+  },
+  {
+    "job_id": "6aba271f2c66e6cd85419de4",
+    "url": "https://thehub.io/jobs/6aba271f2c66e6cd85419de4",
+    "parent_text": "Predictive Maintenance Intern IPercept Technology AB Stockholm Internship",
+    "location": "Stockholm",
+    "commitment": "Internship",
+    "extras": [],
+    "title": "Predictive Maintenance Intern",
+    "company": "IPercept Technology AB",
+    "description_text": "Type:  Paid Internship (10–20 hours/week fixed hours)   Location:  Stockholm (close to KTH campus)   Duration:  2 months   Start Date:  As soon as possible  Starting with an internship, with the poten ..."
+  },
+  {
+    "job_id": "6ad01820904f96acf47069ed",
+    "url": "https://thehub.io/jobs/6ad01820904f96acf47069ed",
+    "parent_text": "IT Engineer & Support Specialist Carla Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "IT Engineer & Support Specialist",
+    "company": "Carla",
+    "description_text": "Om rollen   Vill du jobba brett med IT – och bygga med AI på riktigt, inte bara prata om det? Carla söker en IT Engineer & Support Specialist som ser till att våra kollegor har fungerande verktyg varj ..."
+  },
+  {
+    "job_id": "6aad539c835a176f26c375d4",
+    "url": "https://thehub.io/jobs/6aad539c835a176f26c375d4",
+    "parent_text": "Software Engineer, Product (Integration Platform) Lovable Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Software Engineer, Product (Integration Platform)",
+    "company": "Lovable",
+    "description_text": "TL;DR  - We’re seeking exceptional Fullstack Product Engineers to help build and scale Lovable’s Integrations Platform. You will work across our entire stack to connect millions of applications and AI ..."
+  },
+  {
+    "job_id": "69cf03f08d19044bfb94bc2c",
+    "url": "https://thehub.io/jobs/69cf03f08d19044bfb94bc2c",
+    "parent_text": "GenAI Developer Redeploy Gothenburg Full-time",
+    "location": "Gothenburg",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "GenAI Developer",
+    "company": "Redeploy",
+    "description_text": "TL;DR     → You design and build production-grade RAG and agentic AI systems end-to-end. From use-case definition through to a working interface in users' hands.    → Consulting across the Nordics, wi ..."
+  },
+  {
+    "job_id": "6ac045d08a83b7412286d6e8",
+    "url": "https://thehub.io/jobs/6ac045d08a83b7412286d6e8",
+    "parent_text": "Masters Thesis Intern Univrses Stockholm Internship Student",
+    "location": "Stockholm",
+    "commitment": "Internship",
+    "extras": [
+      "Student"
+    ],
+    "title": "Masters Thesis Intern",
+    "company": "Univrses",
+    "description_text": "At Univrses we develop computer vision and machine learning technology for self-driving vehicles, mobile robotics, and smart cities.  Our product 3DAI™ revolutionizes urban and highway road management ..."
+  },
+  {
+    "job_id": "6abb0020838767af23aac468",
+    "url": "https://thehub.io/jobs/6abb0020838767af23aac468",
+    "parent_text": "Senior Central Operations Manager (Supplier Management) Voi Technology Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Senior Central Operations Manager (Supplier Management)",
+    "company": "Voi Technology",
+    "description_text": "YOUR MISSION AT VOI   As  Senior Central Operations Manager (Supplier Management) , you'll own how Voi partners with third-party logistics (3PL) providers end-to-end. In this role you’ll set the frame ..."
+  },
+  {
+    "job_id": "6ac43a8edc5cdd6a8ef8e057",
+    "url": "https://thehub.io/jobs/6ac43a8edc5cdd6a8ef8e057",
+    "parent_text": "Sales Development Representative di lingua italiana Tendium Remote Full-time",
+    "location": "Remote",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Sales Development Representative di lingua italiana",
+    "company": "Tendium",
+    "description_text": "Vuoi contribuire a costruire il team commerciale italiano di una delle aziende SaaS in più rapida crescita nei paesi nordici?       Chi è Tendium  Tendium utilizza l’intelligenza artificiale per autom ..."
+  },
+  {
+    "job_id": "6a9031f8c274135e3ccdd7f0",
+    "url": "https://thehub.io/jobs/6a9031f8c274135e3ccdd7f0",
+    "parent_text": "AI Ops Engineer (FBOS) Lovable Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "AI Ops Engineer (FBOS)",
+    "company": "Lovable",
+    "description_text": "TL;DR  — You'll make sure no one at Lovable spends time on anything AI can do. We're defining how AI-native companies operate internally, across Product, GTM, and G&A. You'll own the systems that let  ..."
+  },
+  {
+    "job_id": "6a7ee6ee8b58d9549fb0d336",
+    "url": "https://thehub.io/jobs/6a7ee6ee8b58d9549fb0d336",
+    "parent_text": "Staff / Principal Software Engineer, Detection and Response Lovable Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Staff / Principal Software Engineer, Detection and Response",
+    "company": "Lovable",
+    "description_text": "TL;DR  You'll build the detection and response capability that catches attackers before they matter - across Lovable's corporate, production, and AI-agent surfaces.      Why Lovable?   Lovable is the  ..."
+  },
+  {
+    "job_id": "6a9b5bade579b4e5327834ed",
+    "url": "https://thehub.io/jobs/6a9b5bade579b4e5327834ed",
+    "parent_text": "Senior Backend Developer Univrses Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Senior Backend Developer",
+    "company": "Univrses",
+    "description_text": "Role description  In your new developer role, you will take part in building the  3DAI™ City platform . It is a scalable answer to the growing demand for data about the urban environment and part of o ..."
+  },
+  {
+    "job_id": "6ab4e19543dc479ecc990c6e",
+    "url": "https://thehub.io/jobs/6ab4e19543dc479ecc990c6e",
+    "parent_text": "Medical Operations - Greece Tandem Health Remote Full-time",
+    "location": "Remote",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Medical Operations - Greece",
+    "company": "Tandem Health",
+    "description_text": "Build something monumental for Healthcare!  At Tandem Health we’re reimagining healthcare by putting clinicians first. Our platform - designed by clinicians, for clinicians - is built on deep insight  ..."
+  },
+  {
+    "job_id": "6ac43a46dc5cdd6a8ef8a8b8",
+    "url": "https://thehub.io/jobs/6ac43a46dc5cdd6a8ef8a8b8",
+    "parent_text": "Office Manager and Data Annotator Univrses Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Office Manager and Data Annotator",
+    "company": "Univrses",
+    "description_text": "About Univrses  Univrses is a Stockholm-based 3D Computer Vision and AI company. We provide the perception and spatial awareness necessary for an increasingly autonomous world. While our roots are in  ..."
+  },
+  {
+    "job_id": "6ab236ed835a176f26fe6344",
+    "url": "https://thehub.io/jobs/6ab236ed835a176f26fe6344",
+    "parent_text": "Senior Mobile Engineer Lovable Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Senior Mobile Engineer",
+    "company": "Lovable",
+    "description_text": "TL;DR:    Lovable's mobile app (React Native, iOS/Android, owned by Team Everywhere) mirrors the web app's accounts/projects/credits while adding native login, push notifications, in-app top-ups, and  ..."
+  },
+  {
+    "job_id": "6ab65a0ce75e50cdae7ae86d",
+    "url": "https://thehub.io/jobs/6ab65a0ce75e50cdae7ae86d",
+    "parent_text": "Co-founder CTO Spucce Venture Stockholm Cofounder",
+    "location": "Stockholm",
+    "commitment": null,
+    "extras": [
+      "Cofounder"
+    ],
+    "title": "Co-founder CTO",
+    "company": "Spucce Venture",
+    "description_text": "CTO & co-founder, Venture Engine    Stockholm | co-founder seat | equal split  Hi, I'm Robin. I run Spucce Venture (spucceventure.com), a venture studio in Stockholm. I'm looking for two co-founders t ..."
+  },
+  {
+    "job_id": "6a4856b760f31164e7c27edb",
+    "url": "https://thehub.io/jobs/6a4856b760f31164e7c27edb",
+    "parent_text": "Staff / Principal Software Engineer, Product Lovable Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Staff / Principal Software Engineer, Product",
+    "company": "Lovable",
+    "description_text": "TL;DR:  We're seeking exceptional senior engineers and technical leaders for our Product team to help build the future of AI software creation. You will work across our entire stack to build features  ..."
+  },
+  {
+    "job_id": "6a0f9d31f9b8a7bd4c7fb397",
+    "url": "https://thehub.io/jobs/6a0f9d31f9b8a7bd4c7fb397",
+    "parent_text": "Fullstack Developer - Typescript COODY Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Fullstack Developer - Typescript",
+    "company": "COODY",
+    "description_text": "Why choose Coody   At Coody, we cut out everything unnecessary to give more back to you as a consultant. And we have done it in the package of a lean and efficient organization, meaning no overpaid ma ..."
+  },
+  {
+    "job_id": "6a1f77e4ba0716b1bb51c50f",
+    "url": "https://thehub.io/jobs/6a1f77e4ba0716b1bb51c50f",
+    "parent_text": "AI Engineer Tandem Health Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "AI Engineer",
+    "company": "Tandem Health",
+    "description_text": "Build something monumental for Healthcare!     At Tandem Health we’re reimagining healthcare by putting clinicians first. Our platform - designed by clinicians, for clinicians - is built on deep insig ..."
+  },
+  {
+    "job_id": "6aa42c87fcd3fd51c613c232",
+    "url": "https://thehub.io/jobs/6aa42c87fcd3fd51c613c232",
+    "parent_text": "Head of Sales (student, part-time) at a Swedish e-mobility startup Vievo Uppsala Student Part-time",
+    "location": "Uppsala",
+    "commitment": "Part-time",
+    "extras": [
+      "Student"
+    ],
+    "title": "Head of Sales (student, part-time) at a Swedish e-mobility startup",
+    "company": "Vievo",
+    "description_text": "About the role   We're looking for a driven student to own sales at Vievo. You'll build the pipeline, book the meetings and close the first locker deals with property owners and employers in Sweden. Y ..."
+  },
+  {
+    "job_id": "6a0f9d42f9b8a7bd4c7fb6c2",
+    "url": "https://thehub.io/jobs/6a0f9d42f9b8a7bd4c7fb6c2",
+    "parent_text": "Data Scientist COODY Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Data Scientist",
+    "company": "COODY",
+    "description_text": "Why choose Coody   At Coody, we cut out everything unnecessary to give more back to you as a consultant. And we have done it in the package of a lean&nbsp;and efficient organization, meaning no overpa ..."
+  },
+  {
+    "job_id": "6a74bec2e2ac7fca668753c3",
+    "url": "https://thehub.io/jobs/6a74bec2e2ac7fca668753c3",
+    "parent_text": "AI Ops Engineer (People Team) Lovable Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "AI Ops Engineer (People Team)",
+    "company": "Lovable",
+    "description_text": "TL;DR   We're looking for an exceptional AI Software Engineer to build the AI-powered People systems that help Lovable scale.  As Lovable grows, we're rethinking how work gets done. Rather than relyin ..."
+  },
+  {
+    "job_id": "6a1f77e5ba0716b1bb51c527",
+    "url": "https://thehub.io/jobs/6a1f77e5ba0716b1bb51c527",
+    "parent_text": "Software Engineer Tandem Health Stockholm Full-time",
+    "location": "Stockholm",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Software Engineer",
+    "company": "Tandem Health",
+    "description_text": "Build something monumental for Healthcare!     At Tandem Health we’re reimagining healthcare by putting clinicians first. Our platform - designed by clinicians, for clinicians - is built on deep insig ..."
+  },
+  {
+    "job_id": "69fa85282e5259e9ef6ede3b",
+    "url": "https://thehub.io/jobs/69fa85282e5259e9ef6ede3b",
+    "parent_text": "Senior Grid Engineer Alight Malmö Full-time",
+    "location": "Malmö",
+    "commitment": "Full-time",
+    "extras": [],
+    "title": "Senior Grid Engineer",
+    "company": "Alight",
+    "description_text": "Alight is a leading solar IPP (Independent Power Producer)  on a mission to accelerate the transition to a more sustainable energy system by developing, owning, and operating solar &amp; BESS assets t ..."
+  }
+]
